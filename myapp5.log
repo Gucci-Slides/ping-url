@@ -197,3 +197,4 @@ Total time taken to ping URLs: 275.141330
 
 
 request to port 443 and then 80
+handle redirects

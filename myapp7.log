@@ -1,0 +1,1103 @@
+Number of URLs read from the file: 1000
+Worker: Received HTTP status 200 OK for URL https://www.facebook.com
+Worker: Received HTTP status 200 OK for URL https://www.wikipedia.org
+Worker: Received HTTP status 200 OK for URL https://www.google.com
+Worker: Received HTTP status 405 Method Not Allowed for URL https://www.amazon.com
+Worker 1: Error pinging https://www.amazon.com: non-2xx HTTP response for https://www.amazon.com: 405 Method Not Allowed
+Worker: Received HTTP status 200 OK for URL https://www.youtube.com
+Worker: Received HTTP status 200 OK for URL https://www.pinterest.com
+Worker: Received HTTP status 200 OK for URL https://www.reddit.com
+Worker: Received HTTP status 403 Forbidden for URL https://www.twitter.com
+Worker 0: Error pinging https://www.twitter.com: non-2xx HTTP response for https://www.twitter.com: 403 Forbidden
+Worker: Received HTTP status 200 OK for URL https://www.linkedin.com
+Worker: Received HTTP status 200 OK for URL https://www.apple.com
+Worker: Received HTTP status 200 OK for URL https://www.fandom.com
+Worker: Received HTTP status 403 Forbidden for URL https://www.quora.com
+Worker 1: Error pinging https://www.quora.com: non-2xx HTTP response for https://www.quora.com: 403 Forbidden
+Worker: Received HTTP status 200 OK for URL https://www.yahoo.com
+Worker: Received HTTP status 200 OK for URL https://www.etsy.com
+Worker: Received HTTP status 200 OK for URL https://www.instagram.com
+Worker: Received HTTP status 200 OK for URL https://www.yelp.com
+Worker: Received HTTP status 200 OK for URL https://www.nytimes.com
+Worker: Received HTTP status 200 OK for URL https://www.wordpress.com
+Worker: Received HTTP status 403 Forbidden for URL https://www.indeed.com
+Worker 4: Error pinging https://www.indeed.com: non-2xx HTTP response for https://www.indeed.com: 403 Forbidden
+Worker: Received HTTP status 200 OK for URL https://www.nih.gov
+Worker: Received HTTP status 200 OK for URL https://www.walmart.com
+Worker: Received HTTP status 200 OK for URL https://www.britannica.com
+Worker: Received HTTP status 301 Moved Permanently for URL https://www.ebay.com
+Worker 1: Error pinging https://www.ebay.com: non-2xx HTTP response for https://www.ebay.com: 301 Moved Permanently
+Worker: Received HTTP status 200 OK for URL https://www.forbes.com
+Worker: Received HTTP status 200 OK for URL https://www.medium.com
+Worker: Received HTTP status 200 OK for URL https://www.theguardian.com
+Worker: Received HTTP status 200 OK for URL https://www.shutterstock.com
+Worker: Received HTTP status 200 OK for URL https://www.tripadvisor.com
+Worker: Received HTTP status 200 OK for URL https://www.imdb.com
+Worker: Received HTTP status 403 Forbidden for URL https://www.tiktok.com
+Worker 3: Error pinging https://www.tiktok.com: non-2xx HTTP response for https://www.tiktok.com: 403 Forbidden
+Worker: Received HTTP status 200 OK for URL https://www.mapquest.com
+Worker: Received HTTP status 200 OK for URL https://www.microsoft.com
+Worker: Received HTTP status 200 OK for URL https://www.foursquare.com
+Worker: Received HTTP status 200 OK for URL https://www.wikihow.com
+Worker: Received HTTP status 200 OK for URL https://www.cnn.com
+Worker: Received HTTP status 200 OK for URL https://www.target.com
+Worker: Received HTTP status 200 OK for URL https://www.researchgate.net
+Worker: Received HTTP status 200 OK for URL https://www.bbc.com
+Worker: Received HTTP status 200 OK for URL https://www.cambridge.org
+Worker: Received HTTP status 200 OK for URL https://www.usatoday.com
+Worker: Received HTTP status 200 OK for URL https://www.aliexpress.com
+Worker: Received HTTP status 200 OK for URL https://www.sciencedirect.com
+Worker: Received HTTP status 200 OK for URL https://www.wiktionary.org
+Worker: Received HTTP status 200 OK for URL https://www.healthline.com
+Worker: Received HTTP status 200 OK for URL https://www.stackexchange.com
+Worker: Received HTTP status 200 OK for URL https://www.alamy.com
+Worker: Received HTTP status 200 OK for URL https://www.dailymotion.com
+Worker: Received HTTP status 403 Forbidden for URL https://www.collinsdictionary.com
+Worker 0: Error pinging https://www.collinsdictionary.com: non-2xx HTTP response for https://www.collinsdictionary.com: 403 Forbidden
+Worker: Received HTTP status 200 OK for URL https://www.reverso.net
+Worker: Received HTTP status 200 OK for URL https://www.webmd.com
+Worker: Received HTTP status 200 OK for URL https://www.merriam-webster.com
+Worker: Received HTTP status 200 OK for URL https://www.indiatimes.com
+Worker: Received HTTP status 200 OK for URL https://www.istockphoto.com
+Worker: Received HTTP status 200 OK for URL https://www.adobe.com
+Worker: Received HTTP status 200 OK for URL https://www.spotify.com
+Worker: Received HTTP status 200 OK for URL https://www.booking.com
+Worker: Received HTTP status 200 OK for URL https://www.dailymail.co.uk
+Worker: Received HTTP status 200 OK for URL https://www.wikiwand.com
+Worker: Received HTTP status 200 OK for URL https://www.scribd.com
+Worker: Received HTTP status 200 OK for URL https://www.yellowpages.com
+Worker: Received HTTP status 200 OK for URL https://www.soundcloud.com
+Worker: Received HTTP status 200 OK for URL https://www.dictionary.com
+Worker: Received HTTP status 200 OK for URL https://www.github.com
+Worker: Received HTTP status 200 OK for URL https://www.businessinsider.com
+Worker: Received HTTP status 200 OK for URL https://www.usnews.com
+Worker: Received HTTP status 200 OK for URL https://www.flickr.com
+Worker: Received HTTP status 200 OK for URL https://www.medicalnewstoday.com
+Worker: Received HTTP status 200 OK for URL https://www.cnet.com
+Worker: Received HTTP status 200 OK for URL https://www.dreamstime.com
+Worker: Received HTTP status 200 OK for URL https://www.trip.com
+Worker: Received HTTP status 200 OK for URL https://www.reuters.com
+Worker: Received HTTP status 200 OK for URL https://www.washingtonpost.com
+Worker: Received HTTP status 200 OK for URL https://www.bbc.co.uk
+Worker: Received HTTP status 200 OK for URL https://www.homedepot.com
+Worker: Received HTTP status 200 OK for URL https://www.clevelandclinic.org
+Worker: Received HTTP status 200 OK for URL https://www.goodhousekeeping.com
+Worker: Received HTTP status 200 OK for URL https://www.cbsnews.com
+Worker: Received HTTP status 200 OK for URL https://www.thefreedictionary.com
+Worker: Received HTTP status 200 OK for URL https://www.study.com
+Worker: Received HTTP status 200 OK for URL https://www.screenrant.com
+Worker: Received HTTP status 200 OK for URL https://www.npr.org
+Worker: Received HTTP status 405 Method Not Allowed for URL https://www.amazon.co.uk
+Worker 0: Error pinging https://www.amazon.co.uk: non-2xx HTTP response for https://www.amazon.co.uk: 405 Method Not Allowed
+Worker: Received HTTP status 200 OK for URL https://www.independent.co.uk
+Worker: Received HTTP status 200 OK for URL https://www.zoominfo.com
+Worker: Received HTTP status 200 OK for URL https://www.freepik.com
+Worker: Received HTTP status 200 OK for URL https://www.sportskeeda.com
+Worker: Received HTTP status 200 OK for URL https://www.ign.com
+Worker: Received HTTP status 200 OK for URL https://www.jstor.org
+Worker: Received HTTP status 200 OK for URL https://www.genius.com
+Worker: Received HTTP status 200 OK for URL https://www.flipkart.com
+Worker: Received HTTP status 200 OK for URL https://www.byjus.com
+Worker: Received HTTP status 200 OK for URL https://www.yahoo.co.jp
+Worker: Received HTTP status 200 OK for URL https://www.wordreference.com
+Worker: Received HTTP status 403 Forbidden for URL https://www.bab.la
+Worker 3: Error pinging https://www.bab.la: non-2xx HTTP response for https://www.bab.la: 403 Forbidden
+Worker: Received HTTP status 200 OK for URL https://www.moovitapp.com
+Worker: Received HTTP status 200 OK for URL https://www.springer.com
+Worker: Received HTTP status 200 OK for URL https://www.goodreads.com
+Worker: Received HTTP status 200 OK for URL https://www.latimes.com
+Worker: Received HTTP status 200 OK for URL https://www.insider.com
+Worker: Received HTTP status 200 OK for URL https://www.alibaba.com
+Worker: Received HTTP status 200 OK for URL https://www.rottentomatoes.com
+Worker: Received HTTP status 403 Forbidden for URL https://www.redbubble.com
+Worker 3: Error pinging https://www.redbubble.com: non-2xx HTTP response for https://www.redbubble.com: 403 Forbidden
+Worker: Received HTTP status 200 OK for URL https://www.investopedia.com
+Worker: Received HTTP status 200 OK for URL https://www.harvard.edu
+Worker 4: Request to https://www.mayoclinic.org timed out
+Worker: Received HTTP status 200 OK for URL https://www.cdc.gov
+Worker: Received HTTP status 200 OK for URL https://www.hotels.com
+Worker: Received HTTP status 200 OK for URL https://www.deviantart.com
+Worker: Received HTTP status 200 OK for URL https://www.yourdictionary.com
+Worker: Received HTTP status 200 OK for URL https://www.google.co.uk
+Worker: Received HTTP status 405 Method Not Allowed for URL https://www.netflix.com
+Worker 2: Error pinging https://www.netflix.com: non-2xx HTTP response for https://www.netflix.com: 405 Method Not Allowed
+Worker: Received HTTP status 405 Method Not Allowed for URL https://www.restaurantguru.com
+Worker 3: Error pinging https://www.restaurantguru.com: non-2xx HTTP response for https://www.restaurantguru.com: 405 Method Not Allowed
+Worker: Received HTTP status 200 OK for URL https://www.weebly.com
+Worker: Received HTTP status 200 OK for URL https://www.nbcnews.com
+Worker: Received HTTP status 200 OK for URL https://www.go.com
+Worker: Received HTTP status 404 Not Found for URL https://www.msn.com
+Worker 3: Error pinging https://www.msn.com: non-2xx HTTP response for https://www.msn.com: 404 Not Found
+Worker: Received HTTP status 200 OK for URL https://www.slideshare.net
+Worker: Received HTTP status 200 OK for URL https://www.europa.eu
+Worker: Received HTTP status 403 Forbidden for URL https://www.glassdoor.com
+Worker 0: Error pinging https://www.glassdoor.com: non-2xx HTTP response for https://www.glassdoor.com: 403 Forbidden
+Worker: Received HTTP status 200 OK for URL https://www.ca.gov
+Worker: Received HTTP status 200 OK for URL https://www.gamespot.com
+Worker: Received HTTP status 200 OK for URL https://www.hindustantimes.com
+Worker: Received HTTP status 200 OK for URL https://www.stackoverflow.com
+Worker: Received HTTP status 405 Method Not Allowed for URL https://www.wiley.com
+Worker 0: Error pinging https://www.wiley.com: non-2xx HTTP response for https://www.wiley.com: 405 Method Not Allowed
+Worker: Received HTTP status 200 OK for URL https://www.cnbc.com
+Worker: Received HTTP status 200 OK for URL https://www.cosmopolitan.com
+Worker: Received HTTP status 200 OK for URL https://www.indiamart.com
+Worker: Received HTTP status 403 Forbidden for URL https://www.vocabulary.com
+Worker 0: Error pinging https://www.vocabulary.com: non-2xx HTTP response for https://www.vocabulary.com: 403 Forbidden
+Worker: Received HTTP status 200 OK for URL https://www.waze.com
+Worker: Received HTTP status 200 OK for URL https://www.wikimedia.org
+Worker: Received HTTP status 200 OK for URL https://www.tumblr.com
+Worker: Received HTTP status 200 OK for URL https://www.amazon.de
+Worker: Received HTTP status 200 OK for URL https://www.google.co.in
+Worker: Received HTTP status 200 OK for URL https://www.issuu.com
+Worker: Received HTTP status 403 Forbidden for URL https://www.lowes.com
+Worker 1: Error pinging https://www.lowes.com: non-2xx HTTP response for https://www.lowes.com: 403 Forbidden
+Worker: Received HTTP status 200 OK for URL https://www.expedia.com
+Worker: Received HTTP status 200 OK for URL https://www.time.com
+Worker: Received HTTP status 200 OK for URL https://www.craigslist.org
+Worker: Received HTTP status 200 OK for URL https://www.people.com
+Worker 1: Error pinging https://www.www.nhs.uk: Head "https://www.www.nhs.uk": dial tcp: lookup www.www.nhs.uk on 172.22.160.1:53: no such host
+Worker: Received HTTP status 301 Moved Permanently for URL https://www.ebay.co.uk
+Worker 2: Error pinging https://www.ebay.co.uk: non-2xx HTTP response for https://www.ebay.co.uk: 301 Moved Permanently
+Worker: Received HTTP status 200 OK for URL https://www.bestbuy.com
+Worker: Received HTTP status 405 Method Not Allowed for URL https://www.amazon.in
+Worker 0: Error pinging https://www.amazon.in: non-2xx HTTP response for https://www.amazon.in: 405 Method Not Allowed
+Worker: Received HTTP status 200 OK for URL https://www.verywellhealth.com
+Worker: Received HTTP status 200 OK for URL https://www.tvtropes.org
+Worker: Received HTTP status 200 OK for URL https://www.bloomberg.com
+Worker: Received HTTP status 200 OK for URL https://www.nypost.com
+Worker: Received HTTP status 200 OK for URL https://www.costco.com
+Worker: Received HTTP status 200 OK for URL https://www.nature.com
+Worker: Received HTTP status 403 Forbidden for URL https://www.quizlet.com
+Worker 3: Error pinging https://www.quizlet.com: non-2xx HTTP response for https://www.quizlet.com: 403 Forbidden
+Worker: Received HTTP status 200 OK for URL https://www.zillow.com
+Worker: Received HTTP status 200 OK for URL https://www.espn.com
+Worker: Received HTTP status 200 OK for URL https://www.today.com
+Worker: Received HTTP status 403 Forbidden for URL https://www.pixabay.com
+Worker 3: Error pinging https://www.pixabay.com: non-2xx HTTP response for https://www.pixabay.com: 403 Forbidden
+Worker: Received HTTP status 200 OK for URL https://www.oup.com
+Worker: Received HTTP status 200 OK for URL https://www.ikea.com
+Worker: Received HTTP status 200 OK for URL https://www.medlineplus.gov
+Worker: Received HTTP status 200 OK for URL https://www.toppr.com
+Worker 2: Error pinging https://www.www.gov.uk: Head "https://www.www.gov.uk": dial tcp: lookup www.www.gov.uk on 172.22.160.1:53: no such host
+Worker: Received HTTP status 200 OK for URL https://www.studocu.com
+Worker: Received HTTP status 200 OK for URL https://www.pbs.org
+Worker: Received HTTP status 200 OK for URL https://www.mapcarta.com
+Worker: Received HTTP status 200 OK for URL https://www.gamerant.com
+Worker: Received HTTP status 200 OK for URL https://www.academia.edu
+Worker: Received HTTP status 200 OK for URL https://www.niche.com
+Worker: Received HTTP status 200 OK for URL https://www.thesaurus.com
+Worker: Received HTTP status 200 OK for URL https://www.business.site
+Worker: Received HTTP status 200 OK for URL https://www.timeout.com
+Worker: Received HTTP status 200 OK for URL https://www.geeksforgeeks.org
+Worker: Received HTTP status 200 OK for URL https://www.discogs.com
+Worker: Received HTTP status 200 OK for URL https://www.steamcommunity.com
+Worker: Received HTTP status 403 Forbidden for URL https://www.rome2rio.com
+Worker 4: Error pinging https://www.rome2rio.com: non-2xx HTTP response for https://www.rome2rio.com: 403 Forbidden
+Worker: Received HTTP status 200 OK for URL https://www.vimeo.com
+Worker 4: Error pinging https://www.company-information.service.gov.uk: Head "https://www.company-information.service.gov.uk": dial tcp: lookup www.company-information.service.gov.uk on 172.22.160.1:53: no such host
+Worker: Received HTTP status 200 OK for URL https://www.google.de
+Worker: Received HTTP status 200 OK for URL https://www.bandcamp.com
+Worker: Received HTTP status 200 OK for URL https://www.bing.com
+Worker: Received HTTP status 302 Found for URL https://www.urbandictionary.com
+Worker 3: Error pinging https://www.urbandictionary.com: non-2xx HTTP response for https://www.urbandictionary.com: 302 Found
+Worker: Received HTTP status 200 OK for URL https://www.makeuseof.com
+Worker: Received HTTP status 200 OK for URL https://www.apnews.com
+Worker: Received HTTP status 200 OK for URL https://www.google.ca
+Worker: Received HTTP status 200 OK for URL https://www.telegraph.co.uk
+Worker 0: Error pinging https://www.fazarohana.cfd: Head "https://www.fazarohana.cfd": dial tcp: lookup www.fazarohana.cfd on 172.22.160.1:53: no such host
+Worker: Received HTTP status 200 OK for URL https://www.gettyimages.com
+Worker: Received HTTP status 403 Forbidden for URL https://www.crunchbase.com
+Worker 4: Error pinging https://www.crunchbase.com: non-2xx HTTP response for https://www.crunchbase.com: 403 Forbidden
+Worker: Received HTTP status 200 OK for URL https://www.agoda.com
+Worker: Received HTTP status 200 OK for URL https://www.elpais.com
+Worker: Received HTTP status 200 OK for URL https://www.buzzfeed.com
+Worker: Received HTTP status 301 Moved Permanently for URL https://www.justdial.com
+Worker 2: Error pinging https://www.justdial.com: non-2xx HTTP response for https://www.justdial.com: 301 Moved Permanently
+Worker: Received HTTP status 200 OK for URL https://www.temu.com
+Worker: Received HTTP status 200 OK for URL https://www.wsj.com
+Worker: Received HTTP status 200 OK for URL https://www.collider.com
+Worker: Received HTTP status 200 OK for URL https://www.as.com
+Worker: Received HTTP status 200 OK for URL https://www.cbc.ca
+Worker: Received HTTP status 200 OK for URL https://www.variety.com
+Worker: Received HTTP status 200 OK for URL https://www.economictimes.com
+Worker: Received HTTP status 200 OK for URL https://www.ziprecruiter.com
+Worker: Received HTTP status 200 OK for URL https://www.digitaltrends.com
+Worker 3: Error pinging https://www.kuharu.site: Head "https://www.kuharu.site": dial tcp: lookup www.kuharu.site on 172.22.160.1:53: server misbehaving
+Worker: Received HTTP status 200 OK for URL https://www.cbr.com
+Worker: Received HTTP status 200 OK for URL https://www.last.fm
+Worker 0: Error pinging https://www.ergez.online: Head "https://www.ergez.online": dial tcp: lookup www.ergez.online on 172.22.160.1:53: server misbehaving
+Worker: Received HTTP status 200 OK for URL https://www.si.com
+Worker: Received HTTP status 200 OK for URL https://www.pcmag.com
+Worker: Received HTTP status 200 OK for URL https://www.rakuten.co.jp
+Worker: Received HTTP status 200 OK for URL https://www.mirror.co.uk
+Worker: Received HTTP status 200 OK for URL https://www.bbb.org
+Worker: Received HTTP status 200 OK for URL https://www.lefigaro.fr
+Worker: Received HTTP status 200 OK for URL https://www.chegg.com
+Worker: Received HTTP status 200 OK for URL https://www.salary.com
+Worker: Received HTTP status 200 OK for URL https://www.tvguide.com
+Worker: Received HTTP status 200 OK for URL https://www.thespruce.com
+Worker: Received HTTP status 200 OK for URL https://www.pngwing.com
+Worker: Received HTTP status 200 OK for URL https://www.oxfordlearnersdictionaries.com
+Worker: Received HTTP status 200 OK for URL https://www.thoughtco.com
+Worker: Received HTTP status 200 OK for URL https://www.realtor.com
+Worker: Received HTTP status 200 OK for URL https://www.parade.com
+Worker: Received HTTP status 200 OK for URL https://www.wattpad.com
+Worker: Received HTTP status 200 OK for URL https://www.123rf.com
+Worker: Received HTTP status 200 OK for URL https://www.allrecipes.com
+Worker: Received HTTP status 200 OK for URL https://www.biomedcentral.com
+Worker: Received HTTP status 200 OK for URL https://www.wordhippo.com
+Worker: Received HTTP status 200 OK for URL https://www.amazon.fr
+Worker: Received HTTP status 200 OK for URL https://www.theverge.com
+Worker: Received HTTP status 200 OK for URL https://www.indianexpress.com
+Worker: Received HTTP status 200 OK for URL https://www.marca.com
+Worker: Received HTTP status 403 Forbidden for URL https://www.canva.com
+Worker 4: Error pinging https://www.canva.com: non-2xx HTTP response for https://www.canva.com: 403 Forbidden
+Worker: Received HTTP status 200 OK for URL https://www.depositphotos.com
+Worker: Received HTTP status 200 OK for URL https://www.kayak.com
+Worker: Received HTTP status 200 OK for URL https://www.ny.gov
+Worker: Received HTTP status 200 OK for URL https://www.steampowered.com
+Worker: Received HTTP status 200 OK for URL https://www.mdpi.com
+Worker: Received HTTP status 200 OK for URL https://www.tenor.com
+Worker: Received HTTP status 200 OK for URL https://www.frontiersin.org
+Worker: Received HTTP status 404 Not Found for URL https://www.ubereats.com
+Worker 3: Error pinging https://www.ubereats.com: non-2xx HTTP response for https://www.ubereats.com: 404 Not Found
+Worker: Received HTTP status 200 OK for URL https://www.barnesandnoble.com
+Worker: Received HTTP status 200 OK for URL https://www.globo.com
+Worker: Received HTTP status 200 OK for URL https://www.uol.com.br
+Worker: Received HTTP status 405 Method Not Allowed for URL https://www.wayfair.com
+Worker 2: Error pinging https://www.wayfair.com: non-2xx HTTP response for https://www.wayfair.com: 405 Method Not Allowed
+Worker: Received HTTP status 200 OK for URL https://www.lavanguardia.com
+Worker: Received HTTP status 200 OK for URL https://www.usda.gov
+Worker: Received HTTP status 200 OK for URL https://www.canada.ca
+Worker: Received HTTP status 200 OK for URL https://www.hollywoodreporter.com
+Worker: Received HTTP status 200 OK for URL https://www.techradar.com
+Worker: Received HTTP status 200 OK for URL https://www.elle.com
+Worker: Received HTTP status 200 OK for URL https://www.thesun.co.uk
+Worker: Received HTTP status 200 OK for URL https://www.cornell.edu
+Worker: Received HTTP status 200 OK for URL https://www.themoviedb.org
+Worker: Received HTTP status 200 OK for URL https://www.accuweather.com
+Worker: Received HTTP status 200 OK for URL https://www.ew.com
+Worker: Received HTTP status 200 OK for URL https://www.popsugar.com
+Worker: Received HTTP status 200 OK for URL https://www.wired.com
+Worker: Received HTTP status 200 OK for URL https://www.rollingstone.com
+Worker: Received HTTP status 200 OK for URL https://www.womenshealthmag.com
+Worker: Received HTTP status 200 OK for URL https://www.khanacademy.org
+Worker: Received HTTP status 200 OK for URL https://www.lifewire.com
+Worker 4: Error pinging https://www.harcu.online: Head "https://www.harcu.online": dial tcp: lookup www.harcu.online on 172.22.160.1:53: server misbehaving
+Worker: Received HTTP status 200 OK for URL https://www.ndtv.com
+Worker: Received HTTP status 200 OK for URL https://www.vecteezy.com
+Worker: Received HTTP status 200 OK for URL https://www.nasa.gov
+Worker: Received HTTP status 200 OK for URL https://www.ameblo.jp
+Worker: Received HTTP status 200 OK for URL https://www.countryliving.com
+Worker: Received HTTP status 200 OK for URL https://www.msdmanuals.com
+Worker: Received HTTP status 200 OK for URL https://www.who.int
+Worker: Received HTTP status 200 OK for URL https://www.menshealth.com
+Worker: Received HTTP status 200 OK for URL https://www.everydayhealth.com
+Worker: Received HTTP status 200 OK for URL https://www.unsplash.com
+Worker: Received HTTP status 403 Forbidden for URL https://www.samsung.com
+Worker 1: Error pinging https://www.samsung.com: non-2xx HTTP response for https://www.samsung.com: 403 Forbidden
+Worker: Received HTTP status 200 OK for URL https://www.infobae.com
+Worker: Received HTTP status 200 OK for URL https://www.hopkinsmedicine.org
+Worker: Received HTTP status 200 OK for URL https://www.un.org
+Worker: Received HTTP status 405 Method Not Allowed for URL https://www.amazon.co.jp
+Worker 0: Error pinging https://www.amazon.co.jp: non-2xx HTTP response for https://www.amazon.co.jp: 405 Method Not Allowed
+Worker: Received HTTP status 200 OK for URL https://www.trustpilot.com
+Worker: Received HTTP status 200 OK for URL https://www.express.co.uk
+Worker: Received HTTP status 200 OK for URL https://www.abebooks.com
+Worker: Received HTTP status 406 Not Acceptable for URL https://www.prezi.com
+Worker 1: Error pinging https://www.prezi.com: non-2xx HTTP response for https://www.prezi.com: 406 Not Acceptable
+Worker: Received HTTP status 405 Method Not Allowed for URL https://www.amazon.ca
+Worker 2: Error pinging https://www.amazon.ca: non-2xx HTTP response for https://www.amazon.ca: 405 Method Not Allowed
+Worker: Received HTTP status 200 OK for URL https://www.movieweb.com
+Worker: Received HTTP status 503 Service Unavailable for URL https://www.groupon.com
+Worker 4: Error pinging https://www.groupon.com: non-2xx HTTP response for https://www.groupon.com: 503 Service Unavailable
+Worker: Received HTTP status 200 OK for URL https://www.esquire.com
+Worker: Received HTTP status 200 OK for URL https://www.deezer.com
+Worker: Received HTTP status 200 OK for URL https://www.texas.gov
+Worker: Received HTTP status 200 OK for URL https://www.mit.edu
+Worker: Received HTTP status 403 Forbidden for URL https://www.apkpure.com
+Worker 0: Error pinging https://www.apkpure.com: non-2xx HTTP response for https://www.apkpure.com: 403 Forbidden
+Worker: Received HTTP status 200 OK for URL https://www.sagepub.com
+Worker: Received HTTP status 200 OK for URL https://www.nextdoor.com
+Worker: Received HTTP status 200 OK for URL https://www.thegamer.com
+Worker: Received HTTP status 200 OK for URL https://www.loc.gov
+Worker: Received HTTP status 200 OK for URL https://www.glosbe.com
+Worker: Received HTTP status 200 OK for URL https://www.ouest-france.fr
+Worker: Received HTTP status 200 OK for URL https://www.pxfuel.com
+Worker: Received HTTP status 200 OK for URL https://www.vulture.com
+Worker: Received HTTP status 200 OK for URL https://www.timesofindia.com
+Worker: Received HTTP status 200 OK for URL https://www.superpages.com
+Worker: Received HTTP status 404 Not Found for URL https://www.dnb.com
+Worker 1: Error pinging https://www.dnb.com: non-2xx HTTP response for https://www.dnb.com: 404 Not Found
+Worker 2: Error pinging https://www.testbook.com: Head "https://www.testbook.com": tls: failed to verify certificate: x509: certificate signed by unknown authority
+Worker: Received HTTP status 403 Forbidden for URL https://www.academic-accelerator.com
+Worker 4: Error pinging https://www.academic-accelerator.com: non-2xx HTTP response for https://www.academic-accelerator.com: 403 Forbidden
+Worker: Received HTTP status 200 OK for URL https://www.vedantu.com
+Worker: Received HTTP status 200 OK for URL https://www.metacritic.com
+Worker: Received HTTP status 200 OK for URL https://www.tomsguide.com
+Worker: Received HTTP status 200 OK for URL https://www.thehindu.com
+Worker: Received HTTP status 200 OK for URL https://www.patch.com
+Worker: Received HTTP status 200 OK for URL https://www.rd.com
+Worker: Received HTTP status 200 OK for URL https://www.abc.net.au
+Worker: Received HTTP status 200 OK for URL https://www.mashable.com
+Worker: Received HTTP status 200 OK for URL https://www.billboard.com
+Worker: Received HTTP status 200 OK for URL https://www.wikidata.org
+Worker: Received HTTP status 503 Service Unavailable for URL https://www.travelocity.com
+Worker 3: Error pinging https://www.travelocity.com: non-2xx HTTP response for https://www.travelocity.com: 503 Service Unavailable
+Worker: Received HTTP status 200 OK for URL https://www.stanford.edu
+Worker: Received HTTP status 200 OK for URL https://www.definitions.net
+Worker: Received HTTP status 200 OK for URL https://www.theconversation.com
+Worker: Received HTTP status 200 OK for URL https://www.airbnb.com
+Worker: Received HTTP status 200 OK for URL https://www.indiatoday.in
+Worker: Received HTTP status 200 OK for URL https://www.standard.co.uk
+Worker: Received HTTP status 200 OK for URL https://www.aminoapps.com
+Worker: Received HTTP status 200 OK for URL https://www.tripadvisor.co.uk
+Worker: Received HTTP status 200 OK for URL https://www.poshmark.com
+Worker: Received HTTP status 200 OK for URL https://www.newsweek.com
+Worker: Received HTTP status 200 OK for URL https://www.statista.com
+Worker: Received HTTP status 200 OK for URL https://www.redfin.com
+Worker: Received HTTP status 200 OK for URL https://www.kleinanzeigen.de
+Worker: Received HTTP status 200 OK for URL https://www.foodnetwork.com
+Worker: Received HTTP status 200 OK for URL https://www.medicinenet.com
+Worker: Received HTTP status 200 OK for URL https://www.educalingo.com
+Worker: Received HTTP status 403 Forbidden for URL https://www.tandfonline.com
+Worker 3: Error pinging https://www.tandfonline.com: non-2xx HTTP response for https://www.tandfonline.com: 403 Forbidden
+Worker: Received HTTP status 200 OK for URL https://www.ldoceonline.com
+Worker: Received HTTP status 200 OK for URL https://www.news18.com
+Worker: Received HTTP status 200 OK for URL https://www.marriott.com
+Worker: Received HTTP status 200 OK for URL https://www.houzz.com
+Worker: Received HTTP status 200 OK for URL https://www.polygon.com
+Worker: Received HTTP status 200 OK for URL https://www.rateyourmusic.com
+Worker: Received HTTP status 405 Method Not Allowed for URL https://www.justwatch.com
+Worker 3: Error pinging https://www.justwatch.com: non-2xx HTTP response for https://www.justwatch.com: 405 Method Not Allowed
+Worker: Received HTTP status 200 OK for URL https://www.techtarget.com
+Worker 4: Error pinging https://www.libretexts.org: Head "https://www.libretexts.org": tls: failed to verify certificate: x509: certificate is valid for libretexts.net, not www.libretexts.org
+Worker: Received HTTP status 200 OK for URL https://www.macys.com
+Worker: Received HTTP status 200 OK for URL https://www.umich.edu
+Worker: Received HTTP status 200 OK for URL https://www.restaurantji.com
+Worker: Received HTTP status 200 OK for URL https://www.zippia.com
+Worker: Received HTTP status 200 OK for URL https://www.southernliving.com
+Worker: Received HTTP status 200 OK for URL https://www.refinery29.com
+Worker: Received HTTP status 200 OK for URL https://www.the-sun.com
+Worker: Received HTTP status 200 OK for URL https://www.archive.org
+Worker: Received HTTP status 200 OK for URL https://www.goo.ne.jp
+Worker: Received HTTP status 200 OK for URL https://www.nymag.com
+Worker: Received HTTP status 200 OK for URL https://www.prnewswire.com
+Worker: Received HTTP status 200 OK for URL https://www.gamesradar.com
+Worker: Received HTTP status 200 OK for URL https://www.harpersbazaar.com
+Worker: Received HTTP status 200 OK for URL https://www.hubspot.com
+Worker: Received HTTP status 200 OK for URL https://www.encyclopedia.com
+Worker: Received HTTP status 200 OK for URL https://www.medscape.com
+Worker: Received HTTP status 200 OK for URL https://www.shabdkosh.com
+Worker: Received HTTP status 200 OK for URL https://www.mundodeportivo.com
+Worker: Received HTTP status 200 OK for URL https://www.naver.com
+Worker: Received HTTP status 200 OK for URL https://www.kidshealth.org
+Worker: Received HTTP status 200 OK for URL https://www.google.co.jp
+Worker: Received HTTP status 200 OK for URL https://www.dexerto.com
+Worker: Received HTTP status 200 OK for URL https://www.elespanol.com
+Worker: Received HTTP status 200 OK for URL https://www.wa.gov
+Worker: Received HTTP status 200 OK for URL https://www.realsimple.com
+Worker: Received HTTP status 200 OK for URL https://www.google.fr
+Worker: Received HTTP status 200 OK for URL https://www.chron.com
+Worker: Received HTTP status 200 OK for URL https://www.cbssports.com
+Worker: Received HTTP status 200 OK for URL https://www.india.com
+Worker: Received HTTP status 200 OK for URL https://www.vectorstock.com
+Worker: Received HTTP status 200 OK for URL https://www.ft.com
+Worker: Received HTTP status 200 OK for URL https://www.hm.com
+Worker: Received HTTP status 200 OK for URL https://www.manta.com
+Worker: Received HTTP status 200 OK for URL https://www.nps.gov
+Worker: Received HTTP status 200 OK for URL https://www.nsw.gov.au
+Worker: Received HTTP status 200 OK for URL https://www.commonsensemedia.org
+Worker: Received HTTP status 200 OK for URL https://www.softonic.com
+Worker: Received HTTP status 403 Forbidden for URL https://www.doordash.com
+Worker 4: Error pinging https://www.doordash.com: non-2xx HTTP response for https://www.doordash.com: 403 Forbidden
+Worker: Received HTTP status 200 OK for URL https://www.dw.com
+Worker: Received HTTP status 200 OK for URL https://www.metro.co.uk
+Worker: Received HTTP status 200 OK for URL https://www.answers.com
+Worker 4: Error pinging https://www.com.be: Head "https://www.com.be": dial tcp: lookup www.com.be on 172.22.160.1:53: no such host
+Worker: Received HTTP status 200 OK for URL https://www.tasteofhome.com
+Worker: Received HTTP status 200 OK for URL https://www.allevents.in
+Worker: Received HTTP status 200 OK for URL https://www.ibm.com
+Worker: Received HTTP status 200 OK for URL https://www.hinative.com
+Worker: Received HTTP status 200 OK for URL https://www.lemonde.fr
+Worker: Received HTTP status 200 OK for URL https://www.bhg.com
+Worker: Received HTTP status 200 OK for URL https://www.nationalgeographic.com
+Worker: Received HTTP status 503 Service Unavailable for URL https://www.pons.com
+Worker 1: Error pinging https://www.pons.com: non-2xx HTTP response for https://www.pons.com: 503 Service Unavailable
+Worker: Received HTTP status 200 OK for URL https://www.thepioneerwoman.com
+Worker: Received HTTP status 200 OK for URL https://www.menupix.com
+Worker: Received HTTP status 200 OK for URL https://www.mercari.com
+Worker: Received HTTP status 200 OK for URL https://www.state.gov
+Worker 0: Request to https://www.line.me timed out
+Worker: Received HTTP status 200 OK for URL https://www.vymaps.com
+Worker: Received HTTP status 200 OK for URL https://www.radiotimes.com
+Worker: Received HTTP status 200 OK for URL https://www.foxnews.com
+Worker: Received HTTP status 200 OK for URL https://www.deadline.com
+Worker: Received HTTP status 200 OK for URL https://www.brainly.in
+Worker 1: Error pinging https://www.e-riset.biz.id: Head "https://www.e-riset.biz.id": dial tcp: lookup www.e-riset.biz.id on 172.22.160.1:53: server misbehaving
+Worker: Received HTTP status 200 OK for URL https://www.google.com.au
+Worker: Received HTTP status 200 OK for URL https://www.elmundo.es
+Worker: Received HTTP status 200 OK for URL https://www.livemint.com
+Worker: Received HTTP status 200 OK for URL https://www.pngtree.com
+Worker: Received HTTP status 200 OK for URL https://www.bleacherreport.com
+Worker: Received HTTP status 200 OK for URL https://www.google.com.ua
+Worker: Received HTTP status 200 OK for URL https://www.huffpost.com
+Worker: Received HTTP status 200 OK for URL https://www.coursehero.com
+Worker: Received HTTP status 200 OK for URL https://www.theatlantic.com
+Worker: Received HTTP status 403 Forbidden for URL https://www.a-z-animals.com
+Worker 0: Error pinging https://www.a-z-animals.com: non-2xx HTTP response for https://www.a-z-animals.com: 403 Forbidden
+Worker: Received HTTP status 200 OK for URL https://www.euronews.com
+Worker: Received HTTP status 200 OK for URL https://www.jiosaavn.com
+Worker: Received HTTP status 200 OK for URL https://www.digitalspy.com
+Worker: Received HTTP status 200 OK for URL https://www.zaubee.com
+Worker: Received HTTP status 200 OK for URL https://www.ranker.com
+Worker: Received HTTP status 200 OK for URL https://www.weather.com
+Worker: Received HTTP status 200 OK for URL https://www.nerdwallet.com
+Worker: Received HTTP status 200 OK for URL https://www.instructables.com
+Worker: Received HTTP status 403 Forbidden for URL https://www.buzzfile.com
+Worker 2: Error pinging https://www.buzzfile.com: non-2xx HTTP response for https://www.buzzfile.com: 403 Forbidden
+Worker: Received HTTP status 200 OK for URL https://www.newyorker.com
+Worker: Received HTTP status 200 OK for URL https://www.nordstrom.com
+Worker: Received HTTP status 200 OK for URL https://www.makemytrip.com
+Worker: Received HTTP status 200 OK for URL https://www.tutorialspoint.com
+Worker: Received HTTP status 200 OK for URL https://www.healthgrades.com
+Worker: Received HTTP status 302 Found for URL https://www.tistory.com
+Worker 1: Error pinging https://www.tistory.com: non-2xx HTTP response for https://www.tistory.com: 302 Found
+Worker: Received HTTP status 200 OK for URL https://www.lyrics.com
+Worker: Received HTTP status 200 OK for URL https://www.jooble.org
+Worker: Received HTTP status 200 OK for URL https://www.nike.com
+Worker: Received HTTP status 200 OK for URL https://www.letras.com
+Worker: Received HTTP status 200 OK for URL https://www.abplive.com
+Worker: Received HTTP status 200 OK for URL https://www.pinterest.es
+Worker: Received HTTP status 200 OK for URL https://www.alberta.ca
+Worker: Received HTTP status 200 OK for URL https://www.behance.net
+Worker: Received HTTP status 200 OK for URL https://www.goal.com
+Worker: Received HTTP status 200 OK for URL https://www.hinkhoj.com
+Worker: Received HTTP status 200 OK for URL https://www.azlyrics.com
+Worker: Received HTTP status 403 Forbidden for URL https://www.goodrx.com
+Worker 1: Error pinging https://www.goodrx.com: non-2xx HTTP response for https://www.goodrx.com: 403 Forbidden
+Worker: Received HTTP status 200 OK for URL https://www.betterhealth.vic.gov.au
+Worker: Received HTTP status 200 OK for URL https://www.uptodown.com
+Worker: Received HTTP status 200 OK for URL https://www.asos.com
+Worker: Received HTTP status 200 OK for URL https://www.bmj.com
+Worker: Received HTTP status 403 Forbidden for URL https://www.simplyhired.com
+Worker 2: Error pinging https://www.simplyhired.com: non-2xx HTTP response for https://www.simplyhired.com: 403 Forbidden
+Worker: Received HTTP status 405 Method Not Allowed for URL https://www.primevideo.com
+Worker 4: Error pinging https://www.primevideo.com: non-2xx HTTP response for https://www.primevideo.com: 405 Method Not Allowed
+Worker: Received HTTP status 200 OK for URL https://www.rocketreach.co
+Worker: Received HTTP status 200 OK for URL https://www.eater.com
+Worker: Received HTTP status 403 Forbidden for URL https://www.masterclass.com
+Worker 2: Error pinging https://www.masterclass.com: non-2xx HTTP response for https://www.masterclass.com: 403 Forbidden
+Worker: Received HTTP status 200 OK for URL https://www.timeanddate.com
+Worker: Received HTTP status 200 OK for URL https://www.lyricstranslate.com
+Worker: Received HTTP status 200 OK for URL https://www.consumerreports.org
+Worker: Received HTTP status 200 OK for URL https://www.tribunnews.com
+Worker: Received HTTP status 200 OK for URL https://www.ctvnews.ca
+Worker: Received HTTP status 200 OK for URL https://www.howstuffworks.com
+Worker: Received HTTP status 200 OK for URL https://www.xbox.com
+Worker: Received HTTP status 200 OK for URL https://www.caranddriver.com
+Worker: Received HTTP status 200 OK for URL https://www.fda.gov
+Worker: Received HTTP status 200 OK for URL https://www.psu.edu
+Worker: Received HTTP status 200 OK for URL https://www.healthdirect.gov.au
+Worker: Received HTTP status 301 Moved Permanently for URL https://www.ebay.ca
+Worker 3: Error pinging https://www.ebay.ca: non-2xx HTTP response for https://www.ebay.ca: 301 Moved Permanently
+Worker: Received HTTP status 200 OK for URL https://www.stylecraze.com
+Worker: Received HTTP status 200 OK for URL https://www.detik.com
+Worker: Received HTTP status 200 OK for URL https://www.comicbook.com
+Worker: Received HTTP status 403 Forbidden for URL https://www.pexels.com
+Worker 3: Error pinging https://www.pexels.com: non-2xx HTTP response for https://www.pexels.com: 403 Forbidden
+Worker: Received HTTP status 200 OK for URL https://www.kohls.com
+Worker: Received HTTP status 200 OK for URL https://www.thespruceeats.com
+Worker: Received HTTP status 200 OK for URL https://www.byrdie.com
+Worker: Received HTTP status 200 OK for URL https://www.tr-ex.me
+Worker: Received HTTP status 200 OK for URL https://www.aarp.org
+Worker: Received HTTP status 200 OK for URL https://www.eventbrite.com
+Worker: Received HTTP status 200 OK for URL https://www.vice.com
+Worker: Received HTTP status 200 OK for URL https://www.grubhub.com
+Worker: Received HTTP status 200 OK for URL https://www.linguee.com
+Worker: Received HTTP status 200 OK for URL https://www.teacherspayteachers.com
+Worker: Received HTTP status 301 Moved Permanently for URL https://www.ebay.de
+Worker 3: Error pinging https://www.ebay.de: non-2xx HTTP response for https://www.ebay.de: 301 Moved Permanently
+Worker: Received HTTP status 200 OK for URL https://www.bustle.com
+Worker: Received HTTP status 403 Forbidden for URL https://www.justanswer.com
+Worker 2: Error pinging https://www.justanswer.com: non-2xx HTTP response for https://www.justanswer.com: 403 Forbidden
+Worker: Received HTTP status 200 OK for URL https://www.google.com.br
+Worker: Received HTTP status 200 OK for URL https://www.javatpoint.com
+Worker: Received HTTP status 200 OK for URL https://www.drugs.com
+Worker: Received HTTP status 200 OK for URL https://www.amazon.es
+Worker: Received HTTP status 200 OK for URL https://www.noaa.gov
+Worker: Received HTTP status 200 OK for URL https://www.etymonline.com
+Worker: Received HTTP status 503 Service Unavailable for URL https://www.mountsinai.org
+Worker 0: Error pinging https://www.mountsinai.org: non-2xx HTTP response for https://www.mountsinai.org: 503 Service Unavailable
+Worker: Received HTTP status 200 OK for URL https://www.howtogeek.com
+Worker: Received HTTP status 200 OK for URL https://www.nme.com
+Worker: Received HTTP status 200 OK for URL https://www.pinterest.de
+Worker: Received HTTP status 200 OK for URL https://www.vox.com
+Worker: Received HTTP status 200 OK for URL https://www.delish.com
+Worker: Received HTTP status 200 OK for URL https://www.momjunction.com
+Worker: Received HTTP status 200 OK for URL https://www.travelandleisure.com
+Worker: Received HTTP status 200 OK for URL https://www.sportingnews.com
+Worker: Received HTTP status 503 Service Unavailable for URL https://www.orbitz.com
+Worker 3: Error pinging https://www.orbitz.com: non-2xx HTTP response for https://www.orbitz.com: 503 Service Unavailable
+Worker: Received HTTP status 200 OK for URL https://www.opentable.com
+Worker: Received HTTP status 200 OK for URL https://www.bbcgoodfood.com
+Worker: Received HTTP status 200 OK for URL https://www.letras.mus.br
+Worker: Received HTTP status 200 OK for URL https://www.mozilla.org
+Worker: Received HTTP status 403 Forbidden for URL https://www.planetofhotels.com
+Worker 2: Error pinging https://www.planetofhotels.com: non-2xx HTTP response for https://www.planetofhotels.com: 403 Forbidden
+Worker: Received HTTP status 200 OK for URL https://www.wanderlog.com
+Worker: Received HTTP status 200 OK for URL https://www.eonline.com
+Worker: Received HTTP status 200 OK for URL https://www.prom.ua
+Worker: Received HTTP status 200 OK for URL https://www.umn.edu
+Worker: Received HTTP status 200 OK for URL https://www.kroger.com
+Worker: Received HTTP status 200 OK for URL https://www.justia.com
+Worker: Received HTTP status 200 OK for URL https://www.johnlewis.com
+Worker: Received HTTP status 200 OK for URL https://www.google.co.id
+Worker 1: Error pinging https://www.fauzihidayati.cfd: Head "https://www.fauzihidayati.cfd": dial tcp: lookup www.fauzihidayati.cfd on 172.22.160.1:53: server misbehaving
+Worker: Received HTTP status 200 OK for URL https://www.yumpu.com
+Worker: Received HTTP status 200 OK for URL https://www.fresherslive.com
+Worker: Received HTTP status 200 OK for URL https://www.shopify.com
+Worker: Received HTTP status 200 OK for URL https://www.columbia.edu
+Worker: Received HTTP status 200 OK for URL https://www.kompas.com
+Worker: Received HTTP status 200 OK for URL https://www.lemon8-app.com
+Worker: Received HTTP status 200 OK for URL https://www.trulia.com
+Worker: Received HTTP status 200 OK for URL https://www.lawinsider.com
+Worker: Received HTTP status 200 OK for URL https://www.pngegg.com
+Worker: Received HTTP status 200 OK for URL https://www.bestplaces.net
+Worker: Received HTTP status 200 OK for URL https://www.apa.org
+Worker: Received HTTP status 200 OK for URL https://www.va.gov
+Worker: Received HTTP status 200 OK for URL https://www.vrbo.com
+Worker: Received HTTP status 200 OK for URL https://www.scmp.com
+Worker: Received HTTP status 200 OK for URL https://www.sky.com
+Worker: Received HTTP status 200 OK for URL https://www.si.edu
+Worker: Received HTTP status 200 OK for URL https://www.20minutos.es
+Worker: Received HTTP status 200 OK for URL https://www.history.com
+Worker: Received HTTP status 200 OK for URL https://www.oracle.com
+Worker: Received HTTP status 200 OK for URL https://www.zazzle.com
+Worker 4: Error pinging https://www.e-beasiswa.biz.id: Head "https://www.e-beasiswa.biz.id": dial tcp: lookup www.e-beasiswa.biz.id on 172.22.160.1:53: server misbehaving
+Worker: Received HTTP status 200 OK for URL https://www.theknot.com
+Worker: Received HTTP status 503 Service Unavailable for URL https://www.apartments.com
+Worker 3: Error pinging https://www.apartments.com: non-2xx HTTP response for https://www.apartments.com: 503 Service Unavailable
+Worker: Received HTTP status 200 OK for URL https://www.vogue.com
+Worker: Received HTTP status 200 OK for URL https://www.glamour.com
+Worker: Received HTTP status 200 OK for URL https://www.theculturetrip.com
+Worker: Received HTTP status 200 OK for URL https://www.allmusic.com
+Worker: Received HTTP status 200 OK for URL https://www.smithsonianmag.com
+Worker: Received HTTP status 200 OK for URL https://www.olx.ua
+Worker: Received HTTP status 200 OK for URL https://www.birdeye.com
+Worker: Received HTTP status 200 OK for URL https://www.chamberofcommerce.com
+Worker: Received HTTP status 200 OK for URL https://www.giphy.com
+Worker: Received HTTP status 200 OK for URL https://www.aljazeera.com
+Worker: Received HTTP status 403 Forbidden for URL https://www.pagesjaunes.fr
+Worker 0: Error pinging https://www.pagesjaunes.fr: non-2xx HTTP response for https://www.pagesjaunes.fr: 403 Forbidden
+Worker: Received HTTP status 200 OK for URL https://www.core.ac.uk
+Worker: Received HTTP status 200 OK for URL https://www.archiveofourown.org
+Worker: Received HTTP status 200 OK for URL https://www.upenn.edu
+Worker: Received HTTP status 200 OK for URL https://www.semanticscholar.org
+Worker: Received HTTP status 200 OK for URL https://www.health.com
+Worker: Received HTTP status 200 OK for URL https://www.twitch.tv
+Worker: Received HTTP status 200 OK for URL https://www.howtopronounce.com
+Worker: Received HTTP status 200 OK for URL https://www.epa.gov
+Worker: Received HTTP status 200 OK for URL https://www.wordnik.com
+Worker: Received HTTP status 200 OK for URL https://www.pinterest.fr
+Worker: Received HTTP status 200 OK for URL https://www.viator.com
+Worker: Received HTTP status 403 Forbidden for URL https://www.rozetka.com.ua
+Worker 0: Error pinging https://www.rozetka.com.ua: non-2xx HTTP response for https://www.rozetka.com.ua: 403 Forbidden
+Worker: Received HTTP status 200 OK for URL https://www.zdnet.com
+Worker: Received HTTP status 200 OK for URL https://www.investing.com
+Worker: Received HTTP status 200 OK for URL https://www.argos.co.uk
+Worker: Received HTTP status 200 OK for URL https://www.mass.gov
+Worker: Received HTTP status 200 OK for URL https://www.bilibili.tv
+Worker: Received HTTP status 200 OK for URL https://www.tokopedia.com
+Worker: Received HTTP status 200 OK for URL https://www.mercadolivre.com.br
+Worker: Received HTTP status 200 OK for URL https://www.cookpad.com
+Worker: Received HTTP status 200 OK for URL https://www.livescience.com
+Worker: Received HTTP status 200 OK for URL https://www.bobvila.com
+Worker: Received HTTP status 200 OK for URL https://www.roadtrippers.com
+Worker: Received HTTP status 200 OK for URL https://www.angi.com
+Worker: Received HTTP status 200 OK for URL https://www.smh.com.au
+Worker: Received HTTP status 200 OK for URL https://www.cinemablend.com
+Worker: Received HTTP status 404 Not Found for URL https://www.alltrails.com
+Worker 4: Error pinging https://www.alltrails.com: non-2xx HTTP response for https://www.alltrails.com: 404 Not Found
+Worker: Received HTTP status 200 OK for URL https://www.legacy.com
+Worker: Received HTTP status 200 OK for URL https://www.rogerebert.com
+Worker: Received HTTP status 200 OK for URL https://www.namu.wiki
+Worker: Received HTTP status 200 OK for URL https://www.uptodate.com
+Worker: Received HTTP status 200 OK for URL https://www.skysports.com
+Worker: Received HTTP status 200 OK for URL https://www.foodandwine.com
+Worker: Received HTTP status 200 OK for URL https://www.casetext.com
+Worker: Received HTTP status 200 OK for URL https://www.francetvinfo.fr
+Worker: Received HTTP status 200 OK for URL https://www.marthastewart.com
+Worker: Received HTTP status 200 OK for URL https://www.amazon.it
+Worker: Received HTTP status 200 OK for URL https://www.looper.com
+Worker: Received HTTP status 403 Forbidden for URL https://www.almaany.com
+Worker 3: Error pinging https://www.almaany.com: non-2xx HTTP response for https://www.almaany.com: 403 Forbidden
+Worker: Received HTTP status 200 OK for URL https://www.theathletic.com
+Worker: Received HTTP status 200 OK for URL https://www.walmart.ca
+Worker 4: Error pinging https://www.azurefd.net: Head "https://www.azurefd.net": tls: failed to verify certificate: x509: certificate is valid for *.azureedge.net, *.media.microsoftstream.com, *.origin.mediaservices.windows.net, *.streaming.mediaservices.windows.net, not www.azurefd.net
+Worker: Received HTTP status 200 OK for URL https://www.foxsports.com
+Worker: Received HTTP status 200 OK for URL https://www.androidauthority.com
+Worker: Received HTTP status 200 OK for URL https://www.filmaffinity.com
+Worker: Received HTTP status 200 OK for URL https://www.travelweekly.com
+Worker: Received HTTP status 200 OK for URL https://www.gutefrage.net
+Worker: Received HTTP status 200 OK for URL https://www.ultimate-guitar.com
+Worker: Received HTTP status 200 OK for URL https://www.loopnet.com
+Worker: Received HTTP status 405 Method Not Allowed for URL https://www.amazon.com.au
+Worker 0: Error pinging https://www.amazon.com.au: non-2xx HTTP response for https://www.amazon.com.au: 405 Method Not Allowed
+Worker: Received HTTP status 200 OK for URL https://www.ufl.edu
+Worker: Received HTTP status 200 OK for URL https://www.letterboxd.com
+Worker: Received HTTP status 200 OK for URL https://www.pinkvilla.com
+Worker: Received HTTP status 200 OK for URL https://www.psychologytoday.com
+Worker: Received HTTP status 200 OK for URL https://www.fnac.com
+Worker: Received HTTP status 200 OK for URL https://www.instacart.com
+Worker: Received HTTP status 405 Method Not Allowed for URL https://www.amazon.com.br
+Worker 2: Error pinging https://www.amazon.com.br: non-2xx HTTP response for https://www.amazon.com.br: 405 Method Not Allowed
+Worker: Received HTTP status 200 OK for URL https://www.abc.es
+Worker: Received HTTP status 403 Forbidden for URL https://www.outlookindia.com
+Worker 0: Error pinging https://www.outlookindia.com: non-2xx HTTP response for https://www.outlookindia.com: 403 Forbidden
+Worker: Received HTTP status 200 OK for URL https://www.elconfidencial.com
+Worker: Received HTTP status 200 OK for URL https://www.wondershare.com
+Worker: Received HTTP status 200 OK for URL https://www.thetimes.co.uk
+Worker: Received HTTP status 403 Forbidden for URL https://www.yell.com
+Worker 0: Error pinging https://www.yell.com: non-2xx HTTP response for https://www.yell.com: 403 Forbidden
+Worker: Received HTTP status 200 OK for URL https://www.ieee.org
+Worker: Received HTTP status 200 OK for URL https://www.zmenu.com
+Worker: Received HTTP status 200 OK for URL https://www.lovetoknow.com
+Worker: Received HTTP status 200 OK for URL https://www.thekitchn.com
+Worker: Received HTTP status 200 OK for URL https://www.prevention.com
+Worker: Received HTTP status 200 OK for URL https://www.peakpx.com
+Worker: Received HTTP status 200 OK for URL https://www.focus.de
+Worker: Received HTTP status 200 OK for URL https://www.distractify.com
+Worker: Received HTTP status 200 OK for URL https://www.cntraveler.com
+Worker: Received HTTP status 200 OK for URL https://www.nyc.gov
+Worker: Received HTTP status 200 OK for URL https://www.totalfishing.ro
+Worker: Received HTTP status 200 OK for URL https://www.marketwatch.com
+Worker: Received HTTP status 200 OK for URL https://www.w3schools.com
+Worker: Received HTTP status 200 OK for URL https://www.city-data.com
+Worker: Received HTTP status 200 OK for URL https://www.magazineluiza.com.br
+Worker: Received HTTP status 200 OK for URL https://www.mubi.com
+Worker: Received HTTP status 200 OK for URL https://www.ed.gov
+Worker: Received HTTP status 200 OK for URL https://www.decider.com
+Worker: Received HTTP status 200 OK for URL https://www.livejournal.com
+Worker: Received HTTP status 200 OK for URL https://www.berkeley.edu
+Worker: Received HTTP status 200 OK for URL https://www.wordsense.eu
+Worker: Received HTTP status 200 OK for URL https://www.squarespace.com
+Worker: Received HTTP status 200 OK for URL https://www.rochester.edu
+Worker: Received HTTP status 200 OK for URL https://www.bol.com
+Worker: Received HTTP status 418 I'm a teapot for URL https://www.vk.com
+Worker 0: Error pinging https://www.vk.com: non-2xx HTTP response for https://www.vk.com: 418 I'm a teapot
+Worker: Received HTTP status 200 OK for URL https://www.liputan6.com
+Worker: Received HTTP status 200 OK for URL https://www.jagran.com
+Worker: Received HTTP status 200 Ok for URL https://www.yandex.ru
+Worker: Received HTTP status 200 OK for URL https://www.nhsinform.scot
+Worker: Received HTTP status 200 OK for URL https://www.alamy.es
+Worker: Received HTTP status 200 OK for URL https://www.loc8nearme.com
+Worker: Received HTTP status 200 OK for URL https://www.picclick.com
+Worker: Received HTTP status 200 OK for URL https://www.cars.com
+Worker: Received HTTP status 200 OK for URL https://www.globalnews.ca
+Worker: Received HTTP status 200 OK for URL https://www.sofascore.com
+Worker: Received HTTP status 200 OK for URL https://www.songfacts.com
+Worker: Received HTTP status 200 OK for URL https://www.bizjournals.com
+Worker: Received HTTP status 200 OK for URL https://www.thrillist.com
+Worker: Received HTTP status 200 OK for URL https://www.kiddle.co
+Worker: Received HTTP status 200 OK for URL https://www.mlb.com
+Worker: Received HTTP status 200 OK for URL https://www.fc2.com
+Worker: Received HTTP status 404 Not Found for URL https://www.samsclub.com
+Worker 2: Error pinging https://www.samsclub.com: non-2xx HTTP response for https://www.samsclub.com: 404 Not Found
+Worker: Received HTTP status 200 OK for URL https://www.unirioja.es
+Worker: Received HTTP status 200 OK for URL https://www.pinterest.co.uk
+Worker: Received HTTP status 200 OK for URL https://www.purewow.com
+Worker: Received HTTP status 200 OK for URL https://www.cdiscount.com
+Worker: Received HTTP status 200 OK for URL https://www.news-medical.net
+Worker: Received HTTP status 200 OK for URL https://www.moneycontrol.com
+Worker: Received HTTP status 200 OK for URL https://www.walgreens.com
+Worker: Received HTTP status 200 OK for URL https://www.gq.com
+Worker: Received HTTP status 200 OK for URL https://www.eatingwell.com
+Worker: Received HTTP status 200 OK for URL https://www.leparisien.fr
+Worker: Received HTTP status 200 OK for URL https://www.eurogamer.net
+Worker: Received HTTP status 200 OK for URL https://www.dribbble.com
+Worker: Received HTTP status 200 OK for URL https://www.acs.org
+Worker: Received HTTP status 200 OK for URL https://www.google.it
+Worker: Received HTTP status 200 OK for URL https://www.shazam.com
+Worker: Received HTTP status 200 OK for URL https://www.techcrunch.com
+Worker: Received HTTP status 200 OK for URL https://www.larousse.fr
+Worker: Received HTTP status 200 OK for URL https://www.priceline.com
+Worker: Received HTTP status 200 OK for URL https://www.michigan.gov
+Worker: Received HTTP status 200 OK for URL https://www.hellomagazine.com
+Worker: Received HTTP status 200 OK for URL https://www.housebeautiful.com
+Worker: Received HTTP status 200 OK for URL https://www.livestrong.com
+Worker 2: Error pinging https://www.letih.online: Head "https://www.letih.online": dial tcp: lookup www.letih.online on 172.22.160.1:53: no such host
+Worker: Received HTTP status 200 OK for URL https://www.usgs.gov
+Worker: Received HTTP status 403 Forbidden for URL https://www.picuki.com
+Worker 1: Error pinging https://www.picuki.com: non-2xx HTTP response for https://www.picuki.com: 403 Forbidden
+Worker 4: Error pinging https://www.virginia.gov: Head "https://www.virginia.gov": tls: failed to verify certificate: x509: certificate signed by unknown authority
+Worker: Received HTTP status 200 OK for URL https://www.food.com
+Worker: Received HTTP status 200 OK for URL https://www.lyst.com
+Worker: Received HTTP status 200 OK for URL https://www.washington.edu
+Worker: Received HTTP status 200 OK for URL https://www.architecturaldigest.com
+Worker: Received HTTP status 200 OK for URL https://www.rakuten.com
+Worker: Received HTTP status 200 OK for URL https://www.wisc.edu
+Worker: Received HTTP status 200 OK for URL https://www.usmagazine.com
+Worker: Received HTTP status 200 OK for URL https://www.zara.com
+Worker: Received HTTP status 200 OK for URL https://www.kumparan.com
+Worker: Received HTTP status 200 OK for URL https://www.mynavi.jp
+Worker: Received HTTP status 200 OK for URL https://www.playstation.com
+Worker: Received HTTP status 200 OK for URL https://www.hgtv.com
+Worker: Received HTTP status 200 OK for URL https://www.irs.gov
+Worker: Received HTTP status 200 OK for URL https://www.allure.com
+Worker: Received HTTP status 200 OK for URL https://www.tripadvisor.ca
+Worker: Received HTTP status 200 OK for URL https://www.familyhandyman.com
+Worker: Received HTTP status 200 OK for URL https://www.musixmatch.com
+Worker: Received HTTP status 200 OK for URL https://www.fortune.com
+Worker: Received HTTP status 403 Forbidden for URL https://www.powerthesaurus.org
+Worker 2: Error pinging https://www.powerthesaurus.org: non-2xx HTTP response for https://www.powerthesaurus.org: 403 Forbidden
+Worker: Received HTTP status 200 OK for URL https://www.cheatsheet.com
+Worker: Received HTTP status 200 OK for URL https://www.plos.org
+Worker: Received HTTP status 200 OK for URL https://www.ancestry.com
+Worker: Received HTTP status 403 Forbidden for URL https://www.artstation.com
+Worker 0: Error pinging https://www.artstation.com: non-2xx HTTP response for https://www.artstation.com: 403 Forbidden
+Worker: Received HTTP status 200 OK for URL https://www.elcomercio.pe
+Worker 3: Error pinging https://www.harfid.site: Head "https://www.harfid.site": dial tcp: lookup www.harfid.site on 172.22.160.1:53: server misbehaving
+Worker: Received HTTP status 200 OK for URL https://www.prtimes.jp
+Worker: Received HTTP status 200 OK for URL https://www.untappd.com
+Worker: Received HTTP status 200 OK for URL https://www.verywellmind.com
+Worker: Received HTTP status 403 Forbidden for URL https://www.unam.mx
+Worker 2: Error pinging https://www.unam.mx: non-2xx HTTP response for https://www.unam.mx: 403 Forbidden
+Worker: Received HTTP status 200 OK for URL https://www.womansday.com
+Worker: Received HTTP status 200 OK for URL https://www.famousbirthdays.com
+Worker: Received HTTP status 200 OK for URL https://www.farfetch.com
+Worker: Received HTTP status 200 OK for URL https://www.freecodecamp.org
+Worker: Received HTTP status 200 OK for URL https://www.cvs.com
+Worker: Received HTTP status 200 OK for URL https://www.mercadolibre.com.ar
+Worker: Received HTTP status 200 OK for URL https://www.purdue.edu
+Worker: Received HTTP status 200 OK for URL https://www.indigo.ca
+Worker: Received HTTP status 200 OK for URL https://www.republicworld.com
+Worker: Received HTTP status 403 Forbidden for URL https://www.cylex-uk.co.uk
+Worker 0: Error pinging https://www.cylex-uk.co.uk: non-2xx HTTP response for https://www.cylex-uk.co.uk: 403 Forbidden
+Worker: Received HTTP status 200 OK for URL https://www.vanityfair.com
+Worker: Received HTTP status 200 OK for URL https://www.verywellfit.com
+Worker: Received HTTP status 200 OK for URL https://www.jamanetwork.com
+Worker: Received HTTP status 200 OK for URL https://www.news.com.au
+Worker: Received HTTP status 200 OK for URL https://www.apkcombo.com
+Worker: Received HTTP status 200 OK for URL https://www.tripsavvy.com
+Worker: Received HTTP status 200 OK for URL https://www.etonline.com
+Worker: Received HTTP status 200 OK for URL https://www.coursera.org
+Worker 2: Error pinging https://www.note.com: Head "https://www.note.com": dial tcp: lookup www.note.com on 172.22.160.1:53: no such host
+Worker: Received HTTP status 200 OK for URL https://www.denofgeek.com
+Worker: Received HTTP status 200 OK for URL https://www.beebom.com
+Worker: Received HTTP status 200 OK for URL https://www.lonelyplanet.com
+Worker: Received HTTP status 200 OK for URL https://www.scientificamerican.com
+Worker: Received HTTP status 403 Forbidden for URL https://www.udemy.com
+Worker 0: Error pinging https://www.udemy.com: non-2xx HTTP response for https://www.udemy.com: 403 Forbidden
+Worker: Received HTTP status 503 Service Unavailable for URL https://www.hp.com
+Worker 4: Error pinging https://www.hp.com: non-2xx HTTP response for https://www.hp.com: 503 Service Unavailable
+Worker: Received HTTP status 200 OK for URL https://www.arxiv.org
+Worker: Received HTTP status 200 OK for URL https://www.popularmechanics.com
+Worker: Received HTTP status 403 Forbidden for URL https://www.rae.es
+Worker 0: Error pinging https://www.rae.es: non-2xx HTTP response for https://www.rae.es: 403 Forbidden
+Worker: Received HTTP status 404 Not Found for URL https://www.hatenablog.com
+Worker 4: Error pinging https://www.hatenablog.com: non-2xx HTTP response for https://www.hatenablog.com: 404 Not Found
+Worker: Received HTTP status 200 OK for URL https://www.hamariweb.com
+Worker: Received HTTP status 200 OK for URL https://www.superuser.com
+Worker: Received HTTP status 200 OK for URL https://www.pcgamer.com
+Worker: Received HTTP status 200 OK for URL https://www.fineartamerica.com
+Worker: Received HTTP status 200 OK for URL https://www.klook.com
+Worker: Received HTTP status 200 OK for URL https://www.fool.com
+Worker: Received HTTP status 200 OK for URL https://www.bedbathandbeyond.com
+Worker: Received HTTP status 200 OK for URL https://www.thriftbooks.com
+Worker: Received HTTP status 200 OK for URL https://www.kaiserpermanente.org
+Worker: Received HTTP status 200 OK for URL https://www.yale.edu
+Worker: Received HTTP status 200 OK for URL https://www.newsbreak.com
+Worker: Received HTTP status 200 OK for URL https://www.roku.com
+Worker: Received HTTP status 403 Forbidden for URL https://www.meesho.com
+Worker 0: Error pinging https://www.meesho.com: non-2xx HTTP response for https://www.meesho.com: 403 Forbidden
+Worker: Received HTTP status 200 OK for URL https://www.ingles.com
+Worker: Received HTTP status 200 OK for URL https://www.osgamers.com
+Worker: Received HTTP status 200 OK for URL https://www.doubtnut.com
+Worker: Received HTTP status 200 OK for URL https://www.instyle.com
+Worker: Received HTTP status 200 OK for URL https://www.dickssportinggoods.com
+Worker: Received HTTP status 200 OK for URL https://www.iheart.com
+Worker: Received HTTP status 200 OK for URL https://www.zendesk.com
+Worker: Received HTTP status 200 OK for URL https://www.motortrend.com
+Worker: Received HTTP status 200 OK for URL https://www.mojim.com
+Worker: Received HTTP status 200 OK for URL https://www.self.com
+Worker: Received HTTP status 301 Moved Permanently for URL https://www.ebay.com.au
+Worker 4: Error pinging https://www.ebay.com.au: non-2xx HTTP response for https://www.ebay.com.au: 301 Moved Permanently
+Worker: Received HTTP status 200 OK for URL https://www.olympics.com
+Worker: Received HTTP status 403 Forbidden for URL https://www.bringfido.com
+Worker 3: Error pinging https://www.bringfido.com: non-2xx HTTP response for https://www.bringfido.com: 403 Forbidden
+Worker: Received HTTP status 200 OK for URL https://www.ct.gov
+Worker: Received HTTP status 200 OK for URL https://www.bonappetit.com
+Worker: Received HTTP status 403 Forbidden for URL https://www.newegg.com
+Worker 1: Error pinging https://www.newegg.com: non-2xx HTTP response for https://www.newegg.com: 403 Forbidden
+Worker: Received HTTP status 200 OK for URL https://www.oprahdaily.com
+Worker: Received HTTP status 200 OK for URL https://www.timesnownews.com
+Worker: Received HTTP status 200 OK for URL https://www.tvinsider.com
+Worker: Received HTTP status 200 OK for URL https://www.sirved.com
+Worker: Received HTTP status 200 OK for URL https://www.osu.edu
+Worker: Received HTTP status 503 Service Unavailable for URL https://www.edmunds.com
+Worker 4: Error pinging https://www.edmunds.com: non-2xx HTTP response for https://www.edmunds.com: 503 Service Unavailable
+Worker: Received HTTP status 200 OK for URL https://www.army.mil
+Worker: Received HTTP status 200 OK for URL https://www.mercadolibre.com.mx
+Worker: Received HTTP status 200 OK for URL https://www.france24.com
+Worker: Received HTTP status 200 OK for URL https://www.kbb.com
+Worker: Received HTTP status 200 OK for URL https://www.justice.gov
+Worker: Received HTTP status 200 OK for URL https://www.homes.com
+Worker: Received HTTP status 200 OK for URL https://www.made-in-china.com
+Worker: Received HTTP status 200 OK for URL https://www.nikkei.com
+Worker: Received HTTP status 200 OK for URL https://www.weather.gov
+Worker: Received HTTP status 200 OK for URL https://www.boomplay.com
+Worker: Received HTTP status 200 OK for URL https://www.uchicago.edu
+Worker: Received HTTP status 200 OK for URL https://www.20minutes.fr
+Worker: Received HTTP status 200 OK for URL https://www.cancer.gov
+Worker: Received HTTP status 200 OK for URL https://www.nasdaq.com
+Worker 2: Error pinging https://www.wikimapia.org: Head "https://www.wikimapia.org": tls: failed to verify certificate: x509: certificate is valid for wikimapia.org, not www.wikimapia.org
+Worker 4: Error pinging https://www.owgez.online: Head "https://www.owgez.online": dial tcp: lookup www.owgez.online on 172.22.160.1:53: server misbehaving
+Worker: Received HTTP status 200 OK for URL https://www.chicagotribune.com
+Worker: Received HTTP status 200 OK for URL https://www.brainly.lat
+Worker: Received HTTP status 200 OK for URL https://www.smule.com
+Worker: Received HTTP status 200 OK for URL https://www.seriouseats.com
+Worker: Received HTTP status 200 OK for URL https://www.hbr.org
+Worker: Received HTTP status 200 OK for URL https://www.chordify.net
+Worker: Received HTTP status 200 OK for URL https://www.yelp.ca
+Worker: Received HTTP status 200 OK for URL https://www.unacademy.com
+Worker: Received HTTP status 200 OK for URL https://www.next.co.uk
+Worker: Received HTTP status 200 OK for URL https://www.wordwall.net
+Worker: Received HTTP status 200 OK for URL https://www.carfax.com
+Worker: Received HTTP status 200 OK for URL https://www.pa.gov
+Worker 3: Request to https://www.businesswire.com timed out
+Worker: Received HTTP status 200 OK for URL https://www.kijiji.ca
+Worker: Received HTTP status 200 OK for URL https://www.pennmedicine.org
+Worker: Received HTTP status 403 Forbidden for URL https://www.bhphotovideo.com
+Worker 4: Error pinging https://www.bhphotovideo.com: non-2xx HTTP response for https://www.bhphotovideo.com: 403 Forbidden
+Worker: Received HTTP status 200 OK for URL https://www.pikiran-rakyat.com
+Worker: Received HTTP status 200 OK for URL https://www.bankrate.com
+Worker: Received HTTP status 200 OK for URL https://www.allmenus.com
+Worker: Received HTTP status 200 OK for URL https://www.worldbank.org
+Worker: Received HTTP status 200 OK for URL https://www.amarujala.com
+Worker: Received HTTP status 200 OK for URL https://www.menards.com
+Worker: Received HTTP status 200 OK for URL https://www.hypebeast.com
+Worker: Received HTTP status 200 OK for URL https://www.pocket-lint.com
+Worker: Received HTTP status 200 OK for URL https://www.google.es
+Worker: Received HTTP status 403 Forbidden for URL https://www.kompass.com
+Worker 1: Error pinging https://www.kompass.com: non-2xx HTTP response for https://www.kompass.com: 403 Forbidden
+Worker: Received HTTP status 200 OK for URL https://www.spanishdict.com
+Worker 2: Error pinging https://www.oyan.site: Head "https://www.oyan.site": dial tcp: lookup www.oyan.site on 172.22.160.1:53: server misbehaving
+Worker: Received HTTP status 200 OK for URL https://www.mappy.com
+Worker: Received HTTP status 200 OK for URL https://www.ox.ac.uk
+Worker: Received HTTP status 200 OK for URL https://www.in.gov
+Worker: Received HTTP status 200 OK for URL https://www.hilton.com
+Worker: Received HTTP status 200 OK for URL https://www.dell.com
+Worker: Received HTTP status 200 OK for URL https://www.actu.fr
+Worker: Received HTTP status 200 OK for URL https://www.bfmtv.com
+Worker: Received HTTP status 200 OK for URL https://www.yardbarker.com
+Worker: Received HTTP status 200 OK for URL https://www.omnicalculator.com
+Worker: Received HTTP status 200 OK for URL https://www.tripadvisor.fr
+Worker: Received HTTP status 200 OK for URL https://www.cargurus.com
+Worker: Received HTTP status 200 OK for URL https://www.gaana.com
+Worker: Received HTTP status 200 OK for URL https://www.translated.net
+Worker: Received HTTP status 200 OK for URL https://www.inverse.com
+Worker: Received HTTP status 200 OK for URL https://www.ucdavis.edu
+Worker: Received HTTP status 200 OK for URL https://www.usembassy.gov
+Worker: Received HTTP status 200 OK for URL https://www.stern.de
+Worker 3: Error pinging https://www.minhur.site: Head "https://www.minhur.site": dial tcp: lookup www.minhur.site on 172.22.160.1:53: server misbehaving
+Worker: Received HTTP status 200 OK for URL https://www.androidpolice.com
+Worker: Received HTTP status 200 OK for URL https://www.idealo.de
+Worker: Received HTTP status 403 Forbidden for URL https://www.jdpower.com
+Worker 3: Error pinging https://www.jdpower.com: non-2xx HTTP response for https://www.jdpower.com: 403 Forbidden
+Worker: Received HTTP status 200 OK for URL https://www.msu.edu
+Worker: Received HTTP status 200 OK for URL https://www.diy.com
+Worker: Received HTTP status 200 OK for URL https://www.openedition.org
+Worker: Received HTTP status 200 OK for URL https://www.xda-developers.com
+Worker: Received HTTP status 200 OK for URL https://www.trivago.com
+Worker: Received HTTP status 200 OK for URL https://www.forvo.com
+Worker: Received HTTP status 200 OK for URL https://www.engadget.com
+Worker: Received HTTP status 404 Not Found for URL https://www.heb.com
+Worker 0: Error pinging https://www.heb.com: non-2xx HTTP response for https://www.heb.com: 404 Not Found
+Worker: Received HTTP status 404 Not Found for URL https://www.aaa.com
+Worker 2: Error pinging https://www.aaa.com: non-2xx HTTP response for https://www.aaa.com: 404 Not Found
+Worker: Received HTTP status 200 OK for URL https://www.slate.com
+Worker: Received HTTP status 200 OK for URL https://www.terra.com.br
+Worker: Received HTTP status 200 OK for URL https://www.hola.com
+Worker: Received HTTP status 200 OK for URL https://www.liveabout.com
+Worker: Received HTTP status 200 OK for URL https://www.urdupoint.com
+Worker: Received HTTP status 200 OK for URL https://www.tesco.com
+Worker: Received HTTP status 200 OK for URL https://www.autoblog.com
+Worker: Received HTTP status 307 Temporary Redirect for URL https://www.unesco.org
+Worker 0: Error pinging https://www.unesco.org: non-2xx HTTP response for https://www.unesco.org: 307 Temporary Redirect
+Worker: Received HTTP status 200 OK for URL https://www.ea.com
+Worker: Received HTTP status 200 OK for URL https://www.sandiegouniontribune.com
+Worker: Received HTTP status 200 OK for URL https://www.lumenlearning.com
+Worker: Received HTTP status 200 OK for URL https://www.verizon.com
+Worker: Received HTTP status 200 OK for URL https://www.remax.com
+Worker: Received HTTP status 200 OK for URL https://www.lanacion.com.ar
+Worker: Received HTTP status 403 Forbidden for URL https://www.axios.com
+Worker 4: Error pinging https://www.axios.com: non-2xx HTTP response for https://www.axios.com: 403 Forbidden
+Worker: Received HTTP status 200 OK for URL https://www.nj.gov
+Worker: Received HTTP status 200 OK for URL https://www.marketscreener.com
+Worker: Received HTTP status 200 OK for URL https://www.seamless.com
+Worker: Received HTTP status 200 OK for URL https://www.corriere.it
+Worker: Received HTTP status 200 OK for URL https://www.epicurious.com
+Worker: Received HTTP status 200 OK for URL https://www.glamourmagazine.co.uk
+Worker: Received HTTP status 200 OK for URL https://www.top-rated.online
+Worker: Received HTTP status 200 OK for URL https://www.worldatlas.com
+Worker: Received HTTP status 200 OK for URL https://www.unc.edu
+Worker: Received HTTP status 200 OK for URL https://www.clarin.com
+Worker: Received HTTP status 200 OK for URL https://www.wise.com
+Worker: Received HTTP status 200 OK for URL https://www.faz.net
+Worker: Received HTTP status 200 OK for URL https://www.mindbodygreen.com
+Worker: Received HTTP status 200 OK for URL https://www.complex.com
+Worker: Received HTTP status 403 Forbidden for URL https://www.abril.com.br
+Worker 0: Error pinging https://www.abril.com.br: non-2xx HTTP response for https://www.abril.com.br: 403 Forbidden
+Worker: Received HTTP status 200 OK for URL https://www.jagranjosh.com
+Worker: Received HTTP status 200 OK for URL https://www.churchofjesuschrist.org
+Worker: Received HTTP status 200 OK for URL https://www.seattletimes.com
+Worker 4: Error pinging https://www.www.gob.mx: Head "https://www.www.gob.mx": dial tcp: lookup www.www.gob.mx on 172.22.160.1:53: no such host
+Worker: Received HTTP status 200 OK for URL https://www.townandcountrymag.com
+Worker: Received HTTP status 200 OK for URL https://www.tastingtable.com
+Worker: Received HTTP status 200 OK for URL https://www.utah.edu
+Worker: Received HTTP status 200 OK for URL https://www.songmeanings.com
+Worker: Received HTTP status 200 OK for URL https://www.docomo.ne.jp
+Worker: Received HTTP status 403 Forbidden for URL https://www.tureng.com
+Worker 3: Error pinging https://www.tureng.com: non-2xx HTTP response for https://www.tureng.com: 403 Forbidden
+Worker: Received HTTP status 200 OK for URL https://www.hulu.com
+Worker: Received HTTP status 200 OK for URL https://www.babycenter.com
+Worker: Received HTTP status 200 OK for URL https://www.mercadolibre.com.co
+Worker 2: Error pinging https://www.tutur.online: Head "https://www.tutur.online": dial tcp: lookup www.tutur.online on 172.22.160.1:53: server misbehaving
+Worker: Received HTTP status 200 OK for URL https://www.merckmanuals.com
+Worker: Received HTTP status 200 OK for URL https://www.utexas.edu
+Worker: Received HTTP status 200 OK for URL https://www.canadiantire.ca
+Worker: Received HTTP status 200 OK for URL https://www.sfgate.com
+Worker: Received HTTP status 200 OK for URL https://www.collegedunia.com
+Worker: Received HTTP status 200 OK for URL https://www.movoto.com
+Worker: Received HTTP status 200 OK for URL https://www.brides.com
+Worker: Received HTTP status 200 OK for URL https://www.nj.com
+Worker: Received HTTP status 200 OK for URL https://www.state.mn.us
+Worker: Received HTTP status 403 Forbidden for URL https://www.cylex.de
+Worker 4: Error pinging https://www.cylex.de: non-2xx HTTP response for https://www.cylex.de: 403 Forbidden
+Worker: Received HTTP status 200 OK for URL https://www.songtell.com
+Worker 3: Error pinging https://www.my-best.com: Head "https://www.my-best.com": dial tcp: lookup www.my-best.com on 172.22.160.1:53: no such host
+Worker: Received HTTP status 403 Forbidden for URL https://www.pixiv.net
+Worker 1: Error pinging https://www.pixiv.net: non-2xx HTTP response for https://www.pixiv.net: 403 Forbidden
+Worker: Received HTTP status 200 OK for URL https://www.t-online.de
+Worker: Received HTTP status 200 OK for URL https://www.radaris.com
+Worker: Received HTTP status 200 OK for URL https://www.rei.com
+Worker: Received HTTP status 200 OK for URL https://www.mo.gov
+Worker: Received HTTP status 200 OK for URL https://www.scielo.br
+Worker: Received HTTP status 200 OK for URL https://www.welt.de
+Worker: Received HTTP status 403 Forbidden for URL https://www.pitchbook.com
+Worker 0: Error pinging https://www.pitchbook.com: non-2xx HTTP response for https://www.pitchbook.com: 403 Forbidden
+Worker: Received HTTP status 200 OK for URL https://www.autotrader.com
+Worker: Received HTTP status 200 OK for URL https://www.illinois.edu
+Worker: Received HTTP status 200 OK for URL https://www.stockx.com
+Worker: Received HTTP status 200 OK for URL https://www.jcpenney.com
+Worker 2: Error pinging https://www.filgaz.online: Head "https://www.filgaz.online": dial tcp: lookup www.filgaz.online on 172.22.160.1:53: server misbehaving
+Worker: Received HTTP status 405 Method Not Allowed for URL https://www.grammarly.com
+Worker 1: Error pinging https://www.grammarly.com: non-2xx HTTP response for https://www.grammarly.com: 405 Method Not Allowed
+Worker: Received HTTP status 200 OK for URL https://www.dbpedia.org
+Worker: Received HTTP status 200 OK for URL https://www.ihg.com
+Worker: Received HTTP status 200 OK for URL https://www.teenvogue.com
+Worker: Received HTTP status 200 OK for URL https://www.arcgis.com
+Worker: Received HTTP status 200 OK for URL https://www.bu.edu
+Worker: Received HTTP status 200 OK for URL https://www.bartleby.com
+Worker: Received HTTP status 200 OK for URL https://www.audible.com
+Worker: Received HTTP status 200 OK for URL https://www.shein.com
+Worker: Received HTTP status 200 OK for URL https://www.google.co.kr
+Worker: Received HTTP status 200 OK for URL https://www.allocine.fr
+Worker: Received HTTP status 200 OK for URL https://www.mentalfloss.com
+Worker: Received HTTP status 200 OK for URL https://www.nbcsports.com
+Worker: Received HTTP status 200 OK for URL https://www.tripadvisor.co
+Worker: Received HTTP status 200 OK for URL https://www.aajtak.in
+Worker: Received HTTP status 200 OK for URL https://www.livehindustan.com
+Worker: Received HTTP status 403 Forbidden for URL https://www.allbiz.com
+Worker 4: Error pinging https://www.allbiz.com: non-2xx HTTP response for https://www.allbiz.com: 403 Forbidden
+Worker: Received HTTP status 200 OK for URL https://www.navitime.co.jp
+Worker: Received HTTP status 200 OK for URL https://www.seventeen.com
+Worker: Received HTTP status 200 OK for URL https://www.minitool.com
+Worker: Received HTTP status 403 Forbidden for URL https://www.science.org
+Worker 4: Error pinging https://www.science.org: non-2xx HTTP response for https://www.science.org: 403 Forbidden
+Worker: Received HTTP status 200 OK for URL https://www.alphr.com
+Worker: Received HTTP status 200 OK for URL https://www.hotelplanner.com
+Worker: Received HTTP status 200 OK for URL https://www.chip.de
+Worker 3: Error pinging https://www.e-inspirasi.biz.id: Head "https://www.e-inspirasi.biz.id": dial tcp: lookup www.e-inspirasi.biz.id on 172.22.160.1:53: server misbehaving
+Worker: Received HTTP status 200 OK for URL https://www.songkick.com
+Worker: Received HTTP status 200 OK for URL https://www.food52.com
+Worker: Received HTTP status 200 OK for URL https://www.dotesports.com
+Worker: Received HTTP status 200 OK for URL https://www.usarestaurants.info
+Worker: Received HTTP status 200 OK for URL https://www.voanews.com
+Worker: Received HTTP status 200 OK for URL https://www.tripadvisor.de
+Worker: Received HTTP status 200 OK for URL https://www.zeebiz.com
+Worker: Received HTTP status 403 Forbidden for URL https://www.ozon.ru
+Worker 2: Error pinging https://www.ozon.ru: non-2xx HTTP response for https://www.ozon.ru: 403 Forbidden
+Worker: Received HTTP status 200 OK for URL https://www.otto.de
+Worker: Received HTTP status 200 OK for URL https://www.mathworks.com
+Worker: Received HTTP status 200 OK for URL https://www.shopee.co.id
+Worker 2: Error pinging https://www.ichacha.net: Head "https://www.ichacha.net": read tcp 172.22.174.111:49276->107.150.104.80:443: read: connection reset by peer
+Worker: Received HTTP status 200 OK for URL https://www.britishcouncil.org
+Worker: Received HTTP status 200 OK for URL https://www.ohio.gov
+Worker: Received HTTP status 200 OK for URL https://www.wionews.com
+Worker: Received HTTP status 200 OK for URL https://www.spiegel.de
+Worker: Received HTTP status 200 OK for URL https://www.lazada.com.ph
+Worker: Received HTTP status 200 OK for URL https://www.benzinga.com
+Worker: Received HTTP status 200 OK for URL https://www.meinestadt.de
+Worker: Received HTTP status 200 OK for URL https://www.indiewire.com
+Worker 2: Error pinging https://www.pressbooks.pub: Head "https://www.pressbooks.pub": remote error: tls: handshake failure
+Worker: Received HTTP status 200 OK for URL https://www.knowyourmeme.com
+Worker: Received HTTP status 200 OK for URL https://www.sueddeutsche.de
+Worker: Received HTTP status 200 OK for URL https://www.francebleu.fr
+Worker: Received HTTP status 200 OK for URL https://www.maryland.gov
+Worker: Received HTTP status 200 OK for URL https://www.bukalapak.com
+Worker: Received HTTP status 200 OK for URL https://www.hitc.com
+Worker: Received HTTP status 200 Ok for URL https://www.dzen.ru
+Worker: Received HTTP status 200 OK for URL https://www.acehardware.com
+Worker: Received HTTP status 200 OK for URL https://www.pixnet.net
+Worker: Received HTTP status 200 OK for URL https://www.synonym.com
+Worker: Received HTTP status 200 OK for URL https://www.asda.com
+Worker: Received HTTP status 200 OK for URL https://www.nhk.or.jp
+Worker: Received HTTP status 200 OK for URL https://www.oregon.gov
+Worker: Received HTTP status 403 Forbidden for URL https://www.cybo.com
+Worker 2: Error pinging https://www.cybo.com: non-2xx HTTP response for https://www.cybo.com: 403 Forbidden
+Worker: Received HTTP status 200 OK for URL https://www.datanyze.com
+Worker: Received HTTP status 301 Moved Permanently for URL https://www.ebay.fr
+Worker 0: Error pinging https://www.ebay.fr: non-2xx HTTP response for https://www.ebay.fr: 301 Moved Permanently
+Worker: Received HTTP status 200 OK for URL https://www.noon.com
+Worker: Received HTTP status 200 OK for URL https://www.okdiario.com
+Worker: Received HTTP status 200 OK for URL https://www.ucla.edu
+Worker: Received HTTP status 200 OK for URL https://www.stylecaster.com
+Worker: Received HTTP status 404 Not Found for URL https://www.postmates.com
+Worker 1: Error pinging https://www.postmates.com: non-2xx HTTP response for https://www.postmates.com: 404 Not Found
+Worker 2: Error pinging https://www.thesaurus.plus: Head "https://www.thesaurus.plus": tls: failed to verify certificate: x509: certificate is valid for avavatar.ru, www.avavatar.ru, not www.thesaurus.plus
+Worker: Received HTTP status 200 OK for URL https://www.archives.gov
+Worker: Received HTTP status 200 OK for URL https://www.khandbahale.com
+Worker: Received HTTP status 200 OK for URL https://www.aafp.org
+Worker: Received HTTP status 200 OK for URL https://www.offerup.com
+Worker: Received HTTP status 200 OK for URL https://www.onlyinyourstate.com
+Worker: Received HTTP status 200 OK for URL https://www.cedars-sinai.org
+Worker: Received HTTP status 200 OK for URL https://www.wynk.in
+Worker: Received HTTP status 200 OK for URL https://www.calculator.net
+Worker: Received HTTP status 200 OK for URL https://www.plex.tv
+Worker: Received HTTP status 200 OK for URL https://www.substack.com
+Worker: Received HTTP status 200 OK for URL https://www.apartmenttherapy.com
+Worker: Received HTTP status 200 OK for URL https://www.hhs.gov
+Worker: Received HTTP status 200 OK for URL https://www.tabelog.com
+Worker: Received HTTP status 200 OK for URL https://www.gadgets360.com
+Worker: Received HTTP status 403 Forbidden for URL https://www.cylex.us.com
+Worker 1: Error pinging https://www.cylex.us.com: non-2xx HTTP response for https://www.cylex.us.com: 403 Forbidden
+Worker: Received HTTP status 200 OK for URL https://www.motor1.com
+Worker: Received HTTP status 200 OK for URL https://www.dot.gov
+Worker: Received HTTP status 200 OK for URL https://www.linguee.es
+Worker: Received HTTP status 200 OK for URL https://www.setlist.fm
+Worker: Received HTTP status 200 OK for URL https://www.physio-pedia.com
+Worker 0: Request to https://www.thenationalnews.com timed out
+Worker: Received HTTP status 200 OK for URL https://www.nintendo.com
+Worker: Received HTTP status 200 OK for URL https://www.univision.com
+Worker: Received HTTP status 200 OK for URL https://www.bigw.com.au
+Worker: Received HTTP status 200 OK for URL https://www.booked.net
+Worker: Received HTTP status 200 OK for URL https://www.sap.com
+Worker: Received HTTP status 200 OK for URL https://www.youm7.com
+Worker: Received HTTP status 200 OK for URL https://www.tubitv.com
+Worker: Received HTTP status 200 OK for URL https://www.simplilearn.com
+Worker: Received HTTP status 200 OK for URL https://www.theglobeandmail.com
+Worker: Received HTTP status 200 OK for URL https://www.allegro.pl
+86.60% of the URLs were successfully pinged.
+Total time taken to ping URLs: 298.283902

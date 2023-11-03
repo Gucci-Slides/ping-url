@@ -3,10 +3,8 @@ package main
 import (
 	"bufio"
 	"context"
-	"encoding/json"
 	"errors"
 	"fmt"
-	"io"
 	"log"
 	"net/http"
 	"os"
@@ -17,8 +15,6 @@ import (
 type LogMessage struct {
 	Message string
 }
-
-
 
 func main() {
 	logChan := make(chan LogMessage, 100) 
@@ -74,7 +70,7 @@ func main() {
 }
 
 func asyncLogger(logChan <-chan LogMessage) {
-	logFile, err := os.OpenFile("myapp6.log", os.O_CREATE|os.O_WRONLY|os.O_APPEND, 0666)
+	logFile, err := os.OpenFile("myapp8.log", os.O_CREATE|os.O_WRONLY|os.O_APPEND, 0666)
 	if err != nil {
 		panic(err) // Replace with more sophisticated error handling
 	}
@@ -130,72 +126,63 @@ func importUrl(filename string) ([]string, error) {
 	return urls, nil
 }
 
-func pingUrl(url string, logChan chan<- LogMessage) (bool, error) {
+func pingUrl(url string) (bool, int, time.Duration, error) {
     ctx, cancel := context.WithTimeout(context.Background(), 10*time.Second)
     defer cancel()
 
-    req, err := http.NewRequestWithContext(ctx, http.MethodGet, url, nil)
-    if err != nil {
-        return false, err
+    // Custom CheckRedirect function to handle redirects
+    client := &http.Client{
+        CheckRedirect: func(req *http.Request, via []*http.Request) error {
+            if len(via) >= 10 {
+                return http.ErrUseLastResponse
+            }
+            return nil
+        },
     }
 
-	req.Header.Set("User-Agent", "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0")
-	req.Header.Add("Accept", "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8")
-
-    // Request only the first 512 bytes of the content
-    req.Header.Add("Range", "bytes=0-511")
-
-    client := &http.Client{}
-
-    resp, err := client.Do(req)
+    req, err := http.NewRequestWithContext(ctx, http.MethodHead, url, nil)
     if err != nil {
-        return false, err
+        return false, 0, 0, err
+    }
+
+	req.Header.Set("User-Agent", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36")
+	req.Header.Add("Accept", "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8")
+	req.Header.Add("Accept-Language", "en-US,en;q=0.5")
+	req.Header.Add("Accept-Encoding", "gzip, deflate, br")
+	req.Header.Add("Referer", "http://www.google.com/")
+
+	start := time.Now()
+    resp, err := client.Do(req)
+	duration := time.Since(start)
+    if err != nil {
+        return false, 0, duration, err
     }
     defer resp.Body.Close()
 
-    // Log detailed server response if status code is 403
-    if resp.StatusCode == http.StatusForbidden {
-        headersJson, err := json.Marshal(resp.Header)
-        if err != nil {
-            logChan <- LogMessage{Message: fmt.Sprintf("Worker: Error marshalling headers for URL %s: %v", url, err)}
-        } else {
-            logChan <- LogMessage{Message: fmt.Sprintf("Worker: 403 Forbidden for URL %s: Headers: %s", url, string(headersJson))}
-        }
-    }
 
-    // You may also want to check for resp.StatusCode == http.StatusPartialContent if you expect partial content.
-    if resp.StatusCode != http.StatusOK && resp.StatusCode != http.StatusPartialContent {
-        errMsg := fmt.Sprintf("Non-200 HTTP response for %s: %d %s", url, resp.StatusCode, http.StatusText(resp.StatusCode))
-        return false, fmt.Errorf(errMsg)
-    }
+    statusCode := resp.StatusCode
+    // Consider the request a success if status code is within 200-299
+    success := statusCode >= 200 && statusCode < 300
 
-    // Optionally read and discard the body to free network resources
-    // This reads the body but ignores the returned data
-    _, err = io.CopyN(io.Discard, resp.Body, 512)
-    if err != nil && err != io.EOF {
-        return false, err
-    }
-
-    return true, nil
+    return success, statusCode, duration, nil
 }
 
 
 func worker(urlsChan <-chan string, resultsChan chan<- bool, doneChan chan<- struct{}, workerID int, logChan chan<- LogMessage) {
-	
-	for url := range urlsChan {
-		success, err := pingUrl(url, logChan)
-		if err != nil {
-			var message string
-			if errors.Is(err, context.DeadlineExceeded) {
-				message = fmt.Sprintf("Worker %d: Request to %s timed out", workerID, url)
-			} else {
-				message = fmt.Sprintf("Worker %d: Error pinging %s: %v", workerID, url, err)
-			}
-			logChan <- LogMessage{Message: message}
-			success = false
-		}
-		resultsChan <- success
-		
-	}
-	doneChan <- struct{}{} // Signal that this worker is done
+    for url := range urlsChan {
+        success, statusCode, duration, err := pingUrl(url)
+
+        if err != nil {
+            if errors.Is(err, context.DeadlineExceeded) {
+                logChan <- LogMessage{Message: fmt.Sprintf("Worker %d: Request to %s timed out after %v", workerID, url, duration)}
+            } else {
+                logChan <- LogMessage{Message: fmt.Sprintf("Worker %d: Error pinging %s after %v: %v", workerID, url, duration, err)}
+            }
+        } else {
+            logChan <- LogMessage{Message: fmt.Sprintf("Worker %d: Received HTTP status %d for URL %s in %v", workerID, statusCode, url, duration)}
+        }
+
+        resultsChan <- success
+    }
+    doneChan <- struct{}{} // Signal that this worker is done
 }
