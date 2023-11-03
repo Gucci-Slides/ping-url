@@ -1,0 +1,1085 @@
+Number of URLs read from the file: 1000
+www.wikipedia.org: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 44.209207ms/47.675827ms/49.705785ms/2.463208ms
+www.youtube.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 81.904882ms/84.639956ms/86.618401ms/1.997278ms
+www.instagram.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.870056ms/38.450729ms/40.442226ms/2.537239ms
+www.facebook.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.894347ms/35.013079ms/35.198422ms/132.774µs
+www.google.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 82.741219ms/85.765826ms/87.31229ms/2.138902ms
+www.amazon.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.639581ms/38.763763ms/39.936856ms/1.504755ms
+www.pinterest.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 25.428655ms/25.661503ms/25.812324ms/167.026µs
+www.tiktok.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.021117ms/37.325015ms/39.640609ms/1.641712ms
+www.reddit.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 53.049097ms/53.443921ms/53.880775ms/340.829µs
+www.linkedin.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 40.291038ms/40.720394ms/41.096789ms/331.071µs
+www.twitter.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 23.903412ms/24.480428ms/24.957989ms/436.235µs
+www.quora.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.033906ms/36.176076ms/36.247701ms/100.531µs
+www.apple.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.65534ms/37.38295ms/40.686316ms/2.336655ms
+www.fandom.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.854618ms/37.408874ms/39.896246ms/1.777024ms
+www.etsy.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 25.477447ms/26.895857ms/29.500683ms/1.844323ms
+www.yelp.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 25.37562ms/26.576873ms/27.788071ms/984.904µs
+www.yahoo.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 62.525102ms/64.0926ms/66.540324ms/1.753396ms
+www.ebay.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.831434ms/35.035008ms/35.165425ms/145.834µs
+www.wordpress.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 24.648437ms/24.892039ms/25.273971ms/273.465µs
+www.nytimes.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 26.035662ms/29.035717ms/30.851443ms/2.136962ms
+www.indeed.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 38.015987ms/38.437261ms/38.752491ms/309.885µs
+www.nih.gov: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.227916ms/36.910696ms/38.958339ms/1.544638ms
+www.walmart.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 37.372766ms/39.906188ms/42.070957ms/1.935661ms
+www.imdb.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.088263ms/37.823577ms/40.620343ms/1.996655ms
+www.medium.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.064537ms/35.992028ms/37.202591ms/895.513µs
+www.britannica.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.355183ms/36.537195ms/36.643822ms/129.332µs
+www.tripadvisor.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.728274ms/38.204215ms/41.146021ms/2.080175ms
+www.forbes.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 23.760094ms/25.13266ms/27.432669ms/1.636473ms
+www.shutterstock.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.896783ms/39.244391ms/42.108427ms/2.158754ms
+www.theguardian.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.701459ms/36.680102ms/38.104777ms/1.030596ms
+www.microsoft.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.928944ms/36.211457ms/36.384312ms/201.426µs
+www.aliexpress.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.661179ms/37.134712ms/39.749986ms/1.854232ms
+www.foursquare.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.778519ms/36.05844ms/38.553673ms/1.764593ms
+www.wikihow.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 23.679697ms/24.062096ms/24.772958ms/503.137µs
+www.target.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.568394ms/37.492995ms/38.129773ms/669.132µs
+www.cnn.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.227988ms/36.606201ms/37.249302ms/457.088µs
+www.researchgate.net: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.487736ms/36.1611ms/38.50734ms/1.708581ms
+www.cambridge.org: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.820679ms/36.13554ms/36.46763ms/264.397µs
+www.bbc.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.239995ms/36.658055ms/38.995109ms/1.665059ms
+www.usatoday.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 23.977774ms/24.461429ms/25.058215ms/448.283µs
+www.stackexchange.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.877246ms/37.549551ms/39.445111ms/1.465105ms
+www.sciencedirect.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.792051ms/37.403432ms/38.07857ms/527.15µs
+www.wiktionary.org: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 44.53716ms/44.576162ms/44.641028ms/46.179µs
+www.healthline.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 33.947677ms/34.250775ms/34.562465ms/251.059µs
+www.reverso.net: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 124.421837ms/124.639591ms/124.954879ms/228.281µs
+www.mapquest.com: 3/0 packets, 100% loss, round-trip min/avg/max/stddev = 0s/0s/0s/0s
+Worker 2: Error pinging www.mapquest.com: context deadline exceeded
+www.dailymotion.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 55.040795ms/55.384117ms/55.638962ms/252.088µs
+www.collinsdictionary.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.731664ms/37.153799ms/38.089973ms/1.02226ms
+www.webmd.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.970111ms/36.469374ms/36.926569ms/391.604µs
+www.merriam-webster.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.223885ms/36.660148ms/40.207052ms/2.565763ms
+www.indiatimes.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.911375ms/35.880393ms/36.926777ms/824.601µs
+www.spotify.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.887306ms/37.831106ms/39.702447ms/1.323254ms
+www.booking.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 38.388158ms/38.918411ms/39.649912ms/534.403µs
+www.istockphoto.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.75615ms/35.147462ms/35.704834ms/404.707µs
+www.soundcloud.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 38.088341ms/39.739462ms/42.343655ms/1.863363ms
+www.adobe.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.768832ms/37.90059ms/41.271743ms/2.411442ms
+www.dailymail.co.uk: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.112075ms/37.905993ms/39.408084ms/1.977462ms
+www.wikiwand.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.401015ms/36.803346ms/37.401802ms/431.464µs
+www.alamy.com: 3/0 packets, 100% loss, round-trip min/avg/max/stddev = 0s/0s/0s/0s
+Worker 4: Error pinging www.alamy.com: context deadline exceeded
+www.scribd.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.269092ms/35.030629ms/35.738863ms/601.214µs
+www.mayoclinic.org: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.707258ms/36.240092ms/36.689676ms/405.367µs
+www.trip.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.587336ms/36.20063ms/38.611037ms/1.73668ms
+www.github.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 42.817196ms/43.451797ms/43.847921ms/453.322µs
+www.businessinsider.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.327227ms/37.990437ms/41.293901ms/2.33592ms
+www.dictionary.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.036791ms/36.276049ms/36.453335ms/175.608µs
+www.usnews.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.635904ms/39.132942ms/40.638439ms/1.778095ms
+www.medicalnewstoday.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.671205ms/34.863944ms/34.979573ms/137.191µs
+www.flickr.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.871895ms/35.270037ms/35.887088ms/442.414µs
+www.cnet.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 23.567703ms/23.729501ms/24.026291ms/210.147µs
+www.dreamstime.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 47.586529ms/48.352368ms/48.766496ms/542.128µs
+www.clevelandclinic.org: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.758612ms/36.514317ms/37.52699ms/744.452µs
+www.reuters.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.219579ms/37.455085ms/38.810768ms/1.592634ms
+www.washingtonpost.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 32.111697ms/35.958799ms/39.362377ms/2.976645ms
+www.homedepot.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.715811ms/36.234105ms/36.728262ms/413.683µs
+www.bbc.co.uk: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 25.010105ms/26.631156ms/29.291211ms/1.895893ms
+www.yellowpages.com: 3/0 packets, 100% loss, round-trip min/avg/max/stddev = 0s/0s/0s/0s
+Worker 1: Error pinging www.yellowpages.com: context deadline exceeded
+www.goodhousekeeping.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.470202ms/36.381435ms/39.547059ms/2.254439ms
+www.study.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.287054ms/38.220209ms/41.513997ms/2.340759ms
+www.thefreedictionary.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 49.371143ms/50.878928ms/53.483086ms/1.849062ms
+www.cbsnews.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.26507ms/34.332986ms/34.42278ms/66.218µs
+www.npr.org: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.19412ms/34.631648ms/35.50648ms/618.599µs
+www.amazon.co.uk: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.105145ms/36.873737ms/37.666718ms/637.742µs
+www.independent.co.uk: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.105971ms/36.272606ms/36.526578ms/182.479µs
+www.ign.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.983992ms/36.114832ms/36.348604ms/165.693µs
+www.zoominfo.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.953933ms/36.10689ms/36.243624ms/118.821µs
+www.sportskeeda.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.426803ms/34.639678ms/35.019673ms/269.345µs
+www.freepik.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.087653ms/36.712316ms/37.062689ms/442.794µs
+www.flipkart.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 266.140046ms/267.687449ms/270.586857ms/2.051743ms
+www.byjus.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.844323ms/35.309213ms/36.009774ms/504.132µs
+www.jstor.org: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.456248ms/38.002923ms/40.663278ms/1.889442ms
+www.screenrant.com: 3/0 packets, 100% loss, round-trip min/avg/max/stddev = 0s/0s/0s/0s
+Worker 3: Error pinging www.screenrant.com: context deadline exceeded
+www.genius.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.868267ms/36.700202ms/39.413196ms/1.957259ms
+www.yahoo.co.jp: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 176.64421ms/177.065032ms/177.547572ms/371.369µs
+www.moovitapp.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.431762ms/36.039316ms/36.66238ms/502.517µs
+www.wordreference.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 50.134076ms/50.570121ms/50.83037ms/310.252µs
+www.springer.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 25.462557ms/27.089584ms/29.998488ms/2.061726ms
+www.bab.la: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.862672ms/36.411208ms/37.086459ms/507.579µs
+www.latimes.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.961758ms/36.486975ms/37.463287ms/691.019µs
+www.alibaba.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.139069ms/38.020095ms/41.157574ms/2.233138ms
+www.insider.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 24.092131ms/25.599011ms/28.400474ms/1.982829ms
+www.rottentomatoes.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.643822ms/36.860709ms/37.131183ms/202.54µs
+www.redbubble.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.440574ms/36.531998ms/36.606205ms/68.706µs
+www.deviantart.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.421431ms/36.777351ms/37.3785ms/427.472µs
+www.investopedia.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 25.046518ms/25.69623ms/26.164415ms/474.086µs
+www.hotels.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.032338ms/36.542845ms/36.808455ms/361.083µs
+www.harvard.edu: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.573913ms/36.098213ms/36.817472ms/526.065µs
+www.cdc.gov: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.330291ms/37.957371ms/40.736128ms/1.974439ms
+www.restaurantguru.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 56.062961ms/56.243086ms/56.43492ms/152.077µs
+www.yourdictionary.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.843226ms/36.639398ms/37.476757ms/667.522µs
+www.goodreads.com: 3/0 packets, 100% loss, round-trip min/avg/max/stddev = 0s/0s/0s/0s
+Worker 4: Error pinging www.goodreads.com: context deadline exceeded
+www.google.co.uk: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 82.232496ms/82.657614ms/82.977937ms/313.216µs
+www.weebly.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 81.496056ms/82.092936ms/82.741886ms/509.938µs
+www.nbcnews.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.97552ms/39.371578ms/44.935ms/3.965784ms
+www.go.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.919738ms/37.703949ms/40.634741ms/2.088668ms
+www.msn.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.189997ms/37.546423ms/42.24869ms/3.325007ms
+www.slideshare.net: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 25.23975ms/25.898918ms/26.537806ms/530.123µs
+www.glassdoor.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.677207ms/36.65113ms/39.730074ms/2.205852ms
+www.stackoverflow.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.437622ms/34.606956ms/34.800816ms/149.284µs
+www.europa.eu: 3/0 packets, 100% loss, round-trip min/avg/max/stddev = 0s/0s/0s/0s
+Worker 1: Error pinging www.europa.eu: context deadline exceeded
+www.ca.gov: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.430945ms/34.682469ms/35.091043ms/291.469µs
+www.gamespot.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.856832ms/38.950591ms/42.365642ms/2.435311ms
+www.hindustantimes.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.85294ms/36.237816ms/36.64271ms/322.732µs
+www.wiley.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.595759ms/36.527435ms/37.457966ms/760.243µs
+www.cnbc.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.655641ms/36.513543ms/37.000699ms/608.487µs
+www.netflix.com: 3/0 packets, 100% loss, round-trip min/avg/max/stddev = 0s/0s/0s/0s
+Worker 0: Error pinging www.netflix.com: context deadline exceeded
+www.cosmopolitan.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 26.180993ms/26.913706ms/28.302688ms/982.654µs
+www.waze.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.063792ms/36.485202ms/36.936375ms/356.851µs
+www.indiamart.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.692073ms/36.453419ms/37.608778ms/830.611µs
+www.vocabulary.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.026415ms/36.522557ms/37.175258ms/481.901µs
+www.issuu.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.375392ms/37.714913ms/39.814602ms/1.503426ms
+www.amazon.de: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.073854ms/38.119048ms/40.365934ms/1.758028ms
+www.wikimedia.org: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 44.453558ms/46.441299ms/49.92684ms/2.472752ms
+www.tumblr.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 23.571205ms/24.21556ms/25.131877ms/665.53µs
+www.craigslist.org: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 56.751176ms/57.004457ms/57.394963ms/280.164µs
+www.ebay.co.uk: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 37.489737ms/38.394601ms/40.02484ms/1.15508ms
+www.google.co.in: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 81.103292ms/81.483592ms/81.8215ms/294.736µs
+www.lowes.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.893051ms/37.595504ms/40.812319ms/2.275927ms
+Worker 2: Error pinging www.www.nhs.uk: lookup www.www.nhs.uk on 172.22.160.1:53: no such host
+www.time.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.071623ms/36.923299ms/37.924486ms/763.78µs
+www.people.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 24.931422ms/25.599787ms/26.513143ms/668.569µs
+www.expedia.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.046583ms/36.332834ms/36.715708ms/281.583µs
+www.amazon.in: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 33.864732ms/35.44524ms/37.948681ms/1.79044ms
+www.bestbuy.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.002672ms/36.224584ms/36.361425ms/158.332µs
+www.tvtropes.org: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.284552ms/36.690104ms/37.331251ms/458.639µs
+www.verywellhealth.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 24.97309ms/26.066338ms/27.793126ms/1.235362ms
+www.oup.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.558593ms/35.041431ms/35.54759ms/404.092µs
+www.nature.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 25.484318ms/27.05123ms/29.904121ms/2.020557ms
+www.nypost.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 24.796834ms/26.840149ms/30.636242ms/2.686862ms
+www.bloomberg.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 25.764138ms/28.778032ms/33.874029ms/3.623437ms
+www.quizlet.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.859452ms/36.564711ms/37.744015ms/839.219µs
+www.costco.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.737437ms/37.691393ms/39.089581ms/1.01033ms
+www.zillow.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.622267ms/36.356239ms/36.798311ms/522.604µs
+www.toppr.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.302626ms/36.686205ms/36.885185ms/271.294µs
+www.espn.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.242786ms/36.673294ms/37.234577ms/415.322µs
+www.pixabay.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.456002ms/43.27466ms/56.665877ms/9.469553ms
+Worker 4: Error pinging www.www.gov.uk: lookup www.www.gov.uk on 172.22.160.1:53: no such host
+www.today.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.377228ms/38.153622ms/41.091572ms/2.092553ms
+www.ikea.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.387024ms/35.266069ms/36.190102ms/736.79µs
+www.medlineplus.gov: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.221063ms/38.034314ms/41.216012ms/2.257117ms
+www.mapcarta.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.165538ms/36.476927ms/37.020171ms/385.501µs
+www.steamcommunity.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.043653ms/36.235652ms/36.389166ms/143.656µs
+www.pbs.org: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.089455ms/36.195541ms/36.29063ms/82.496µs
+www.business.site: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 81.969469ms/82.807084ms/83.719797ms/716.538µs
+www.academia.edu: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.94521ms/37.190106ms/37.919247ms/884.574µs
+www.thesaurus.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 24.04354ms/25.417292ms/27.320498ms/1.389209ms
+www.timeout.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.122775ms/36.564837ms/40.414966ms/2.754985ms
+www.studocu.com: 3/0 packets, 100% loss, round-trip min/avg/max/stddev = 0s/0s/0s/0s
+Worker 3: Error pinging www.studocu.com: context deadline exceeded
+www.vimeo.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.443125ms/36.698373ms/36.988227ms/223.878µs
+www.discogs.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.304576ms/36.415554ms/38.63327ms/1.568163ms
+www.geeksforgeeks.org: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.743727ms/37.164649ms/37.761084ms/433.479µs
+www.gamerant.com: 3/0 packets, 100% loss, round-trip min/avg/max/stddev = 0s/0s/0s/0s
+Worker 0: Error pinging www.gamerant.com: context deadline exceeded
+www.bandcamp.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.895457ms/36.367771ms/37.070123ms/506.391µs
+Worker 4: Error pinging www.company-information.service.gov.uk: lookup www.company-information.service.gov.uk on 172.22.160.1:53: no such host
+www.rome2rio.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.19301ms/34.579054ms/35.341443ms/539.105µs
+www.urbandictionary.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.233066ms/36.930317ms/37.61571ms/564.524µs
+www.google.de: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 82.295616ms/82.609591ms/82.846345ms/231.369µs
+www.niche.com: 3/0 packets, 100% loss, round-trip min/avg/max/stddev = 0s/0s/0s/0s
+Worker 1: Error pinging www.niche.com: context deadline exceeded
+www.bing.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.584801ms/34.630886ms/34.655172ms/32.602µs
+www.apnews.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.563045ms/36.682915ms/36.807454ms/99.834µs
+Worker 3: Error pinging www.fazarohana.cfd: lookup www.fazarohana.cfd on 172.22.160.1:53: no such host
+www.google.ca: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 80.459092ms/80.566837ms/80.719415ms/110.903µs
+www.telegraph.co.uk: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.441474ms/35.243817ms/36.136415ms/694.893µs
+www.gettyimages.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.882972ms/38.195245ms/39.488644ms/1.063844ms
+www.elpais.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 24.09113ms/25.917476ms/29.11649ms/2.269614ms
+www.justdial.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.133336ms/36.478593ms/37.046872ms/404.921µs
+www.crunchbase.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.971974ms/36.994294ms/38.4444ms/1.053715ms
+www.as.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 23.814432ms/23.902265ms/23.946563ms/62.108µs
+www.agoda.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.877139ms/37.683875ms/40.634254ms/2.103723ms
+www.buzzfeed.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.138789ms/36.241092ms/36.304862ms/73.069µs
+www.makeuseof.com: 3/0 packets, 100% loss, round-trip min/avg/max/stddev = 0s/0s/0s/0s
+Worker 4: Error pinging www.makeuseof.com: context deadline exceeded
+www.wsj.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.01121ms/36.898361ms/39.964137ms/2.187044ms
+www.economictimes.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.498662ms/34.569622ms/34.688642ms/84.677µs
+www.variety.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 26.833851ms/27.259259ms/27.880772ms/449.335µs
+www.cbc.ca: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.317333ms/34.886085ms/35.416227ms/449.451µs
+Worker 0: Error pinging www.kuharu.site: lookup www.kuharu.site on 172.22.160.1:53: server misbehaving
+Worker 4: Error pinging www.ergez.online: lookup www.ergez.online on 172.22.160.1:53: server misbehaving
+www.ziprecruiter.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.979216ms/37.234679ms/39.1175ms/1.355824ms
+www.digitaltrends.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 25.019834ms/25.251538ms/25.506817ms/199.507µs
+www.collider.com: 3/0 packets, 100% loss, round-trip min/avg/max/stddev = 0s/0s/0s/0s
+Worker 1: Error pinging www.collider.com: context deadline exceeded
+www.temu.com: 3/0 packets, 100% loss, round-trip min/avg/max/stddev = 0s/0s/0s/0s
+Worker 2: Error pinging www.temu.com: context deadline exceeded
+www.last.fm: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 25.236173ms/27.358155ms/29.539387ms/1.757279ms
+www.si.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.233541ms/38.02918ms/41.437935ms/2.411505ms
+www.bbb.org: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.583649ms/35.077138ms/36.050253ms/688.12µs
+www.pcmag.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.461221ms/38.083564ms/40.129851ms/1.527418ms
+www.rakuten.co.jp: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.351277ms/37.473799ms/39.169497ms/1.219833ms
+www.mirror.co.uk: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.743421ms/36.357413ms/36.715144ms/436.129µs
+www.lefigaro.fr: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.962021ms/36.554426ms/37.433904ms/634.254µs
+www.chegg.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.190291ms/38.041488ms/41.458501ms/2.419ms
+www.salary.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 53.662672ms/53.934899ms/54.282852ms/258.788µs
+www.indianexpress.com: 3/0 packets, 100% loss, round-trip min/avg/max/stddev = 0s/0s/0s/0s
+Worker 4: Error pinging www.indianexpress.com: context deadline exceeded
+www.tvguide.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 25.065099ms/25.468114ms/26.175221ms/501.628µs
+www.cbr.com: 3/0 packets, 100% loss, round-trip min/avg/max/stddev = 0s/0s/0s/0s
+Worker 3: Error pinging www.cbr.com: context deadline exceeded
+www.thespruce.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 33.993669ms/35.317089ms/36.515535ms/1.033333ms
+www.pngwing.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.579766ms/34.984573ms/35.47257ms/369.202µs
+www.thoughtco.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.292289ms/34.796405ms/35.585359ms/565.011µs
+www.realtor.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.439462ms/38.263938ms/41.889601ms/2.563749ms
+www.parade.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.11957ms/36.63896ms/37.505494ms/616.753µs
+www.123rf.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.975447ms/36.358615ms/36.783378ms/331.145µs
+www.wattpad.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.78732ms/37.169986ms/37.701837ms/387.967µs
+www.allrecipes.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 25.800599ms/27.119216ms/29.574489ms/1.737729ms
+www.depositphotos.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 134.43419ms/136.151276ms/139.18232ms/2.149582ms
+www.biomedcentral.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 25.346931ms/26.450878ms/27.632256ms/934.585µs
+www.amazon.fr: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.094134ms/36.889329ms/41.936625ms/3.575858ms
+www.wordhippo.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 81.562813ms/84.152575ms/87.472497ms/2.467244ms
+www.theverge.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.603897ms/37.824339ms/40.122715ms/1.626238ms
+www.marca.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 23.622858ms/23.774248ms/23.977431ms/149.315µs
+www.oxfordlearnersdictionaries.com: 3/0 packets, 100% loss, round-trip min/avg/max/stddev = 0s/0s/0s/0s
+Worker 4: Error pinging www.oxfordlearnersdictionaries.com: context deadline exceeded
+www.steampowered.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.912111ms/39.204474ms/41.346251ms/1.813359ms
+www.canva.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.707241ms/40.117509ms/43.400757ms/2.734092ms
+www.kayak.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.439063ms/37.775955ms/40.190629ms/1.710705ms
+www.mdpi.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.355956ms/36.515417ms/36.723969ms/154.198µs
+www.tenor.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 23.536278ms/26.121543ms/30.558539ms/3.151689ms
+www.ny.gov: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.481332ms/39.012246ms/43.874736ms/3.439262ms
+www.frontiersin.org: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 33.079343ms/35.077423ms/38.025869ms/2.128289ms
+www.ubereats.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.297227ms/38.366808ms/41.363429ms/2.169662ms
+www.globo.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 158.431956ms/159.174013ms/159.894965ms/597.457µs
+www.barnesandnoble.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.630338ms/36.26862ms/36.904854ms/520.32µs
+www.uol.com.br: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 32.688076ms/33.085936ms/33.732921ms/461.499µs
+www.wayfair.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.966926ms/36.790169ms/40.379471ms/2.538127ms
+www.lavanguardia.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.193649ms/37.927373ms/40.426196ms/1.810644ms
+www.usda.gov: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.735127ms/34.786454ms/34.843973ms/44.651µs
+www.canada.ca: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.238011ms/36.855627ms/37.580452ms/553.267µs
+www.techradar.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 24.943409ms/25.21212ms/25.448109ms/207.338µs
+www.hollywoodreporter.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 25.409538ms/25.695283ms/26.072638ms/278.352µs
+www.accuweather.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.155011ms/38.574667ms/42.282642ms/2.662304ms
+www.elle.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 25.387771ms/25.692556ms/25.942907ms/229.878µs
+www.cornell.edu: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.143784ms/35.670316ms/36.388314ms/525.806µs
+www.thesun.co.uk: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 38.011219ms/38.319515ms/38.905814ms/414.76µs
+www.ew.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.105051ms/35.407307ms/35.839996ms/313.895µs
+www.themoviedb.org: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.769254ms/38.246219ms/41.696323ms/2.515656ms
+www.ameblo.jp: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.584504ms/36.885961ms/37.395103ms/362.047µs
+www.popsugar.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.130971ms/36.896073ms/37.486059ms/566.901µs
+www.rollingstone.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 23.359924ms/24.88019ms/27.477956ms/1.84577ms
+www.wired.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.239364ms/36.702334ms/37.041424ms/338.954µs
+Worker 2: Error pinging www.harcu.online: lookup www.harcu.online on 172.22.160.1:53: server misbehaving
+www.womenshealthmag.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.801072ms/36.150042ms/38.813134ms/1.883144ms
+www.lifewire.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.18436ms/36.3326ms/38.485969ms/1.523783ms
+www.khanacademy.org: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 25.338913ms/27.186829ms/30.356704ms/2.251701ms
+www.vecteezy.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.492147ms/36.071097ms/39.007889ms/2.078586ms
+www.ndtv.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.69398ms/36.756401ms/38.539327ms/1.268422ms
+www.nasa.gov: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 25.94794ms/27.278233ms/29.105085ms/1.335869ms
+www.countryliving.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.76575ms/35.092065ms/35.272833ms/231.187µs
+www.unsplash.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.8347ms/36.085695ms/36.255624ms/181.15µs
+www.msdmanuals.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.202495ms/36.258277ms/38.297482ms/1.442238ms
+www.who.int: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.619453ms/36.773281ms/36.878334ms/111.173µs
+www.menshealth.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.657839ms/35.934948ms/38.244856ms/1.636394ms
+www.everydayhealth.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.800419ms/36.111662ms/36.339581ms/227.861µs
+www.samsung.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.743108ms/34.87022ms/35.058931ms/136.093µs
+www.infobae.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.084277ms/37.243897ms/42.872133ms/3.989749ms
+www.hopkinsmedicine.org: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.34538ms/34.77762ms/35.205968ms/351.344µs
+www.un.org: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.591855ms/37.273574ms/40.073732ms/1.99332ms
+www.amazon.co.jp: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.639578ms/36.024282ms/38.723641ms/1.908949ms
+www.prezi.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.236531ms/36.54487ms/36.74826ms/221.702µs
+www.trustpilot.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.21776ms/36.405618ms/36.759243ms/250.213µs
+www.express.co.uk: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.582716ms/37.062077ms/37.948378ms/627.407µs
+www.abebooks.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 37.841112ms/38.220704ms/38.64463ms/329.529µs
+www.amazon.ca: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.269595ms/36.418366ms/36.57426ms/124.481µs
+www.groupon.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.087721ms/36.435763ms/37.114357ms/479.892µs
+www.esquire.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.921948ms/35.10716ms/35.229492ms/133.194µs
+www.nextdoor.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.070598ms/37.788123ms/40.810303ms/2.143641ms
+www.deezer.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.823718ms/36.1147ms/36.272079ms/205.984µs
+www.texas.gov: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.167695ms/36.31963ms/36.578911ms/184.24µs
+www.sagepub.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 37.272349ms/39.259537ms/40.384873ms/1.409265ms
+www.apkpure.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 37.116987ms/39.905667ms/41.577587ms/1.984876ms
+www.mit.edu: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.32618ms/36.672506ms/36.985193ms/270.09µs
+www.movieweb.com: 3/0 packets, 100% loss, round-trip min/avg/max/stddev = 0s/0s/0s/0s
+Worker 1: Error pinging www.movieweb.com: context deadline exceeded
+www.timesofindia.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.279457ms/36.156572ms/39.640193ms/2.465768ms
+www.loc.gov: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 33.46204ms/33.947354ms/34.229447ms/344.676µs
+www.ouest-france.fr: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.08323ms/37.429994ms/41.028647ms/2.583591ms
+www.pxfuel.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.687463ms/36.822207ms/36.892783ms/95.314µs
+www.vulture.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 23.479184ms/23.749223ms/24.143459ms/285.054µs
+www.dnb.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 37.546345ms/38.648267ms/40.108327ms/1.076146ms
+www.testbook.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.03201ms/37.139712ms/37.97719ms/816.781µs
+www.academic-accelerator.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.457219ms/36.663354ms/36.947183ms/207.434µs
+www.glosbe.com: 3/0 packets, 100% loss, round-trip min/avg/max/stddev = 0s/0s/0s/0s
+Worker 2: Error pinging www.glosbe.com: context deadline exceeded
+www.vedantu.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.41428ms/36.503021ms/36.57637ms/67.062µs
+www.thegamer.com: 3/0 packets, 100% loss, round-trip min/avg/max/stddev = 0s/0s/0s/0s
+Worker 3: Error pinging www.thegamer.com: context deadline exceeded
+www.metacritic.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 25.989748ms/27.154935ms/29.375369ms/1.570726ms
+www.thehindu.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.574062ms/35.993701ms/38.70041ms/1.914697ms
+www.patch.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.37252ms/37.981942ms/40.795724ms/1.996505ms
+www.tomsguide.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.912254ms/36.674383ms/37.35761ms/592.695µs
+www.abc.net.au: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.558431ms/35.382477ms/36.09744ms/633.015µs
+www.mashable.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.644595ms/36.786101ms/36.985523ms/145.083µs
+www.rd.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.380774ms/34.826751ms/35.241068ms/351.926µs
+www.billboard.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 26.000993ms/26.386234ms/26.705201ms/291.286µs
+www.superpages.com: 3/0 packets, 100% loss, round-trip min/avg/max/stddev = 0s/0s/0s/0s
+Worker 1: Error pinging www.superpages.com: context deadline exceeded
+www.theconversation.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.454845ms/34.734135ms/35.108725ms/275.319µs
+www.wikidata.org: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 44.74972ms/46.341993ms/48.915049ms/1.836472ms
+www.stanford.edu: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.396796ms/37.004607ms/37.398529ms/436.027µs
+www.travelocity.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.810339ms/38.006785ms/40.254615ms/1.590559ms
+www.airbnb.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.997908ms/36.618447ms/36.950809ms/439.157µs
+www.indiatoday.in: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.024441ms/37.037408ms/37.629532ms/719.681µs
+www.tripadvisor.co.uk: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 25.39682ms/25.559808ms/25.858181ms/211.282µs
+www.poshmark.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.253073ms/34.687861ms/35.440649ms/534.432µs
+www.redfin.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.360237ms/36.767533ms/37.513337ms/528.11µs
+www.standard.co.uk: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.520291ms/36.940293ms/37.705369ms/541.854µs
+www.educalingo.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 125.017002ms/125.815895ms/126.611116ms/650.799µs
+www.kleinanzeigen.de: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.469428ms/34.861198ms/35.265233ms/325.001µs
+www.definitions.net: 3/0 packets, 100% loss, round-trip min/avg/max/stddev = 0s/0s/0s/0s
+Worker 1: Error pinging www.definitions.net: context deadline exceeded
+www.medicinenet.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.099628ms/35.778353ms/36.928181ms/817.457µs
+www.aminoapps.com: 3/0 packets, 100% loss, round-trip min/avg/max/stddev = 0s/0s/0s/0s
+Worker 2: Error pinging www.aminoapps.com: context deadline exceeded
+www.foodnetwork.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.836233ms/36.081477ms/36.208984ms/173.46µs
+www.rateyourmusic.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 106.319255ms/107.171651ms/107.657961ms/604.73µs
+www.tandfonline.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.721759ms/38.423518ms/41.294523ms/2.278216ms
+www.news18.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.346517ms/36.686486ms/36.961384ms/255.2µs
+www.marriott.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.703424ms/36.746661ms/36.805916ms/43.348µs
+www.statista.com: 3/0 packets, 100% loss, round-trip min/avg/max/stddev = 0s/0s/0s/0s
+Worker 3: Error pinging www.statista.com: context deadline exceeded
+www.houzz.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 23.808019ms/24.401884ms/25.481743ms/764.844µs
+www.newsweek.com: 3/0 packets, 100% loss, round-trip min/avg/max/stddev = 0s/0s/0s/0s
+Worker 4: Error pinging www.newsweek.com: context deadline exceeded
+www.polygon.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 23.404309ms/24.007521ms/24.859713ms/619.701µs
+www.macys.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.264478ms/36.73547ms/37.172298ms/371.402µs
+www.justwatch.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.966241ms/37.578083ms/39.829119ms/1.640505ms
+www.techtarget.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.497398ms/36.145328ms/38.198451ms/1.537874ms
+www.ldoceonline.com: 3/0 packets, 100% loss, round-trip min/avg/max/stddev = 0s/0s/0s/0s
+Worker 1: Error pinging www.ldoceonline.com: context deadline exceeded
+www.zippia.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 96.027641ms/96.267921ms/96.601163ms/243.192µs
+www.restaurantji.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.185615ms/36.248804ms/36.302708ms/48.251µs
+www.archive.org: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 87.909934ms/89.10707ms/89.786715ms/849.087µs
+www.goo.ne.jp: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 191.058547ms/194.156979ms/196.446224ms/2.272715ms
+www.southernliving.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.248092ms/34.638587ms/35.022536ms/316.199µs
+www.harpersbazaar.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 25.933351ms/26.32723ms/26.751516ms/334.705µs
+www.umich.edu: 3/0 packets, 100% loss, round-trip min/avg/max/stddev = 0s/0s/0s/0s
+Worker 3: Error pinging www.umich.edu: context deadline exceeded
+www.refinery29.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 24.305795ms/25.962713ms/29.14605ms/2.25159ms
+www.the-sun.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.617584ms/34.789322ms/35.01844ms/168.603µs
+www.nymag.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.347971ms/36.783089ms/37.421062ms/460.972µs
+www.prnewswire.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.794072ms/36.489866ms/37.183412ms/567.198µs
+www.libretexts.org: 3/0 packets, 100% loss, round-trip min/avg/max/stddev = 0s/0s/0s/0s
+Worker 0: Error pinging www.libretexts.org: context deadline exceeded
+www.gamesradar.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.235539ms/37.651983ms/40.225834ms/1.823057ms
+www.shabdkosh.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 276.705708ms/276.949294ms/277.341337ms/279.923µs
+www.hubspot.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.968403ms/36.385257ms/36.775992ms/330.213µs
+www.encyclopedia.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.43609ms/36.640531ms/36.922561ms/206.039µs
+www.medscape.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.464207ms/35.103358ms/35.835874ms/563.858µs
+www.mundodeportivo.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.314951ms/37.767426ms/40.609461ms/2.009786ms
+www.naver.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.286677ms/37.464725ms/39.772276ms/1.631806ms
+www.wa.gov: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 31.450657ms/35.915175ms/40.413944ms/3.659327ms
+www.google.co.jp: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 81.586545ms/82.645207ms/83.94167ms/976.069µs
+www.elespanol.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 45.035192ms/46.364094ms/48.842345ms/1.753921ms
+www.dexerto.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.130635ms/36.322999ms/36.495886ms/149.747µs
+www.realsimple.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.823721ms/34.931308ms/35.085329ms/111.734µs
+www.google.fr: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 82.548494ms/82.933574ms/83.242726ms/288.459µs
+www.chron.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.174108ms/37.910232ms/39.91313ms/1.538061ms
+www.cbssports.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 25.457454ms/25.963977ms/26.70609ms/536.283µs
+www.kidshealth.org: 3/0 packets, 100% loss, round-trip min/avg/max/stddev = 0s/0s/0s/0s
+Worker 4: Error pinging www.kidshealth.org: context deadline exceeded
+www.hm.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.27853ms/36.542244ms/37.056256ms/363.502µs
+www.india.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.02913ms/36.12365ms/36.248354ms/92.007µs
+www.vectorstock.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.820758ms/35.717672ms/36.909575ms/877.896µs
+www.line.me: 3/0 packets, 100% loss, round-trip min/avg/max/stddev = 0s/0s/0s/0s
+Worker 0: Error pinging www.line.me: context deadline exceeded
+www.ft.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 25.750045ms/27.589227ms/30.623534ms/2.16163ms
+www.manta.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.611571ms/37.098092ms/37.931179ms/591.845µs
+www.softonic.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.698549ms/35.544857ms/36.150613ms/616.723µs
+www.nps.gov: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.026047ms/38.228766ms/41.599064ms/2.420339ms
+www.nsw.gov.au: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.850229ms/38.09263ms/40.53128ms/1.724489ms
+www.commonsensemedia.org: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.47897ms/36.850262ms/37.541746ms/489.397µs
+www.doordash.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 38.11263ms/38.503276ms/39.069931ms/410.155µs
+www.allevents.in: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.348888ms/36.955307ms/37.344282ms/434.484µs
+www.metro.co.uk: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 24.89709ms/26.860649ms/29.531763ms/1.957127ms
+Worker 2: Error pinging www.com.be: lookup www.com.be on 172.22.160.1:53: no such host
+www.answers.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.24139ms/35.548878ms/35.746719ms/220.387µs
+www.dw.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 135.694248ms/137.727292ms/139.291115ms/1.505432ms
+www.tasteofhome.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.715919ms/37.008661ms/37.534101ms/372.349µs
+www.lemonde.fr: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 24.515849ms/24.898851ms/25.160561ms/276.824µs
+www.ibm.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.663395ms/36.223752ms/38.777195ms/1.820348ms
+www.pons.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 145.402152ms/145.890232ms/146.268265ms/362.05µs
+www.bhg.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.786336ms/36.529466ms/39.830577ms/2.335462ms
+www.nationalgeographic.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.006861ms/37.966307ms/39.966296ms/2.135324ms
+www.thepioneerwoman.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.320172ms/34.931483ms/35.369516ms/445.57µs
+www.menupix.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 63.217631ms/63.454536ms/63.858447ms/287.03µs
+www.mercari.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 25.452643ms/25.950998ms/26.378739ms/381.36µs
+www.state.gov: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.882192ms/37.157372ms/37.32023ms/195.672µs
+www.hinative.com: 3/0 packets, 100% loss, round-trip min/avg/max/stddev = 0s/0s/0s/0s
+Worker 1: Error pinging www.hinative.com: context deadline exceeded
+www.radiotimes.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 31.864409ms/34.059185ms/35.701281ms/1.614411ms
+www.vymaps.com: 3/0 packets, 100% loss, round-trip min/avg/max/stddev = 0s/0s/0s/0s
+Worker 0: Error pinging www.vymaps.com: context deadline exceeded
+Worker 4: Error pinging www.e-riset.biz.id: lookup www.e-riset.biz.id on 172.22.160.1:53: server misbehaving
+www.pngtree.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.483111ms/35.941944ms/38.739679ms/1.978903ms
+www.deadline.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 25.34675ms/26.830544ms/29.632844ms/1.982673ms
+www.foxnews.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.442279ms/36.655128ms/36.917341ms/197.059µs
+www.livemint.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 37.725718ms/39.355114ms/42.292725ms/2.081339ms
+www.google.com.au: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 82.632506ms/84.355462ms/87.787551ms/2.42686ms
+www.elmundo.es: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 24.254784ms/24.885732ms/25.416582ms/479.554µs
+www.bleacherreport.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.004417ms/36.556711ms/37.618104ms/750.725µs
+www.google.com.ua: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 82.183646ms/83.446359ms/85.515274ms/1.474767ms
+www.zaubee.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.192942ms/37.822291ms/39.934482ms/1.565169ms
+www.coursehero.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.930889ms/36.878031ms/40.764459ms/2.748121ms
+www.huffpost.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.808535ms/36.203597ms/36.808464ms/434.341µs
+www.theatlantic.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.411909ms/36.60553ms/36.716593ms/137.404µs
+www.brainly.in: 3/0 packets, 100% loss, round-trip min/avg/max/stddev = 0s/0s/0s/0s
+Worker 3: Error pinging www.brainly.in: context deadline exceeded
+www.jiosaavn.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 33.539583ms/35.053921ms/37.09274ms/1.497229ms
+www.a-z-animals.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.093769ms/38.015385ms/41.330115ms/2.353778ms
+www.euronews.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.257764ms/36.377352ms/36.551006ms/125.671µs
+www.digitalspy.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 23.637298ms/24.64702ms/25.168759ms/714.114µs
+www.instructables.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 24.359656ms/24.671981ms/25.149184ms/342.76µs
+www.weather.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.01291ms/38.230608ms/41.664861ms/2.462539ms
+www.nerdwallet.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.940706ms/35.803936ms/37.326364ms/1.079737ms
+www.ranker.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.694465ms/34.943827ms/35.11648ms/180.623µs
+www.buzzfile.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.380067ms/37.85249ms/39.727231ms/1.395772ms
+www.nordstrom.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.967613ms/36.336101ms/36.99596ms/467.652µs
+www.newyorker.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.810475ms/35.305063ms/35.770522ms/392.478µs
+www.makemytrip.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.053239ms/34.271429ms/34.693053ms/298.193µs
+www.tutorialspoint.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.780612ms/37.526367ms/41.010181ms/2.463431ms
+www.goal.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.147696ms/37.75141ms/40.720423ms/2.101665ms
+www.healthgrades.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.148419ms/36.513532ms/36.883559ms/300.139µs
+www.tistory.com: 3/0 packets, 100% loss, round-trip min/avg/max/stddev = 0s/0s/0s/0s
+Worker 4: Error pinging www.tistory.com: context deadline exceeded
+www.jooble.org: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 73.575871ms/74.288324ms/75.40638ms/800.448µs
+www.abplive.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.724164ms/38.56319ms/41.505137ms/2.101865ms
+www.nike.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.024195ms/37.9868ms/41.320597ms/2.369683ms
+www.alberta.ca: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.31898ms/35.709361ms/36.803698ms/1.035756ms
+www.letras.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.978893ms/36.693027ms/37.736139ms/754.165µs
+www.pinterest.es: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 33.262726ms/33.558016ms/34.108962ms/389.913µs
+www.behance.net: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.657469ms/38.346116ms/40.911642ms/1.844123ms
+www.azlyrics.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 130.772268ms/131.46418ms/132.580727ms/797.022µs
+www.hinkhoj.com: 3/0 packets, 100% loss, round-trip min/avg/max/stddev = 0s/0s/0s/0s
+Worker 3: Error pinging www.hinkhoj.com: context deadline exceeded
+www.betterhealth.vic.gov.au: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 239.49785ms/239.91208ms/240.448364ms/397.527µs
+www.goodrx.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.976499ms/36.087094ms/36.270101ms/130.34µs
+www.rocketreach.co: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 37.667528ms/38.66236ms/39.791143ms/872.12µs
+www.lyrics.com: 3/0 packets, 100% loss, round-trip min/avg/max/stddev = 0s/0s/0s/0s
+Worker 2: Error pinging www.lyrics.com: context deadline exceeded
+www.uptodown.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.37202ms/35.809623ms/36.057363ms/310.333µs
+www.bmj.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.230603ms/35.962042ms/37.82967ms/1.472465ms
+www.asos.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.345002ms/36.601804ms/36.821133ms/196.177µs
+www.simplyhired.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 37.657243ms/38.773311ms/40.378975ms/1.163825ms
+www.primevideo.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.838004ms/36.454392ms/38.75439ms/1.670331ms
+www.eater.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 24.983951ms/25.641899ms/26.015455ms/466.661µs
+www.lyricstranslate.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 27.956475ms/29.805967ms/32.706858ms/2.076955ms
+www.masterclass.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 32.98387ms/33.569859ms/34.340621ms/569.092µs
+www.timeanddate.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.107098ms/38.25983ms/41.350714ms/2.241126ms
+www.howstuffworks.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.449574ms/34.568935ms/34.711505ms/108.185µs
+www.consumerreports.org: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 79.887531ms/80.177689ms/80.370301ms/208.811µs
+www.ctvnews.ca: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.257383ms/36.309223ms/39.089346ms/2.038752ms
+www.tribunnews.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.109224ms/36.440012ms/38.491773ms/1.472019ms
+www.ebay.ca: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.457738ms/38.865416ms/43.110522ms/3.010757ms
+www.xbox.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.252129ms/36.459094ms/36.750008ms/211.749µs
+www.caranddriver.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 26.099489ms/26.660626ms/27.45308ms/576.3µs
+www.fda.gov: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.639008ms/37.101225ms/41.78563ms/3.313824ms
+www.healthdirect.gov.au: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.410002ms/37.958592ms/40.117709ms/1.574025ms
+www.psu.edu: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.764763ms/37.311688ms/40.059726ms/1.948279ms
+www.comicbook.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 24.112382ms/25.804431ms/29.13426ms/2.354648ms
+www.stylecraze.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.713235ms/34.973949ms/35.253531ms/220.978µs
+www.tr-ex.me: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 46.636649ms/46.810542ms/46.958588ms/132.695µs
+www.pexels.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.383877ms/36.594814ms/36.809544ms/173.798µs
+www.kohls.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.272925ms/38.80149ms/42.465201ms/2.652355ms
+www.thespruceeats.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 24.999406ms/25.215958ms/25.452544ms/185.534µs
+www.byrdie.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 25.384548ms/25.824611ms/26.245953ms/351.916µs
+www.ebay.de: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.66267ms/37.196388ms/37.48562ms/377.838µs
+www.aarp.org: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.416809ms/35.700667ms/37.560686ms/1.346591ms
+www.eventbrite.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.740424ms/34.951775ms/35.33284ms/269.989µs
+www.detik.com: 3/0 packets, 100% loss, round-trip min/avg/max/stddev = 0s/0s/0s/0s
+Worker 4: Error pinging www.detik.com: context deadline exceeded
+www.vice.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.518591ms/37.020107ms/37.618107ms/454.03µs
+www.grubhub.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.222765ms/34.617504ms/35.051097ms/339.279µs
+www.linguee.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 137.594741ms/137.716985ms/137.883479ms/121.958µs
+www.teacherspayteachers.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.455168ms/35.318584ms/36.162749ms/697.25µs
+www.javatpoint.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.861527ms/37.797552ms/40.413016ms/1.919243ms
+www.bustle.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.23155ms/36.457939ms/38.411013ms/1.396018ms
+www.google.com.br: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 82.667578ms/85.103333ms/88.511848ms/2.483085ms
+www.justanswer.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.945241ms/36.606149ms/37.212164ms/518.673µs
+www.drugs.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.710748ms/36.624247ms/37.289589ms/668.017µs
+www.amazon.es: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.958117ms/36.091077ms/38.137958ms/1.450123ms
+www.noaa.gov: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.477507ms/38.122989ms/40.745928ms/1.874642ms
+www.mountsinai.org: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.211605ms/34.991499ms/35.55647ms/569.683µs
+www.nme.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.961557ms/38.024589ms/39.65723ms/1.171894ms
+www.pinterest.de: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 33.151926ms/34.721198ms/37.135111ms/1.73234ms
+www.momjunction.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.479723ms/36.693293ms/37.0134ms/230.528µs
+www.vox.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.951728ms/37.340339ms/37.897203ms/403.908µs
+www.delish.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.065195ms/36.992295ms/38.830641ms/1.538517ms
+www.sportingnews.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.713099ms/35.311597ms/35.686915ms/427.735µs
+www.etymonline.com: 3/0 packets, 100% loss, round-trip min/avg/max/stddev = 0s/0s/0s/0s
+Worker 2: Error pinging www.etymonline.com: context deadline exceeded
+www.howtogeek.com: 3/0 packets, 100% loss, round-trip min/avg/max/stddev = 0s/0s/0s/0s
+Worker 1: Error pinging www.howtogeek.com: context deadline exceeded
+www.travelandleisure.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 24.933549ms/25.582371ms/25.974177ms/462.074µs
+www.opentable.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.996243ms/36.347131ms/39.019924ms/1.889987ms
+www.orbitz.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.074755ms/39.466103ms/41.322161ms/2.401618ms
+www.prom.ua: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 163.077578ms/163.313388ms/163.747056ms/307.04µs
+www.letras.mus.br: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.403634ms/37.801061ms/40.334116ms/1.794326ms
+www.wanderlog.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 95.052358ms/95.556832ms/95.943171ms/373.143µs
+www.bbcgoodfood.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 24.956253ms/25.134407ms/25.357117ms/166.657µs
+www.umn.edu: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 72.707986ms/72.85017ms/73.04074ms/140.088µs
+www.mozilla.org: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.672672ms/36.22313ms/37.126922ms/644.124µs
+www.planetofhotels.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.983937ms/37.219352ms/38.947376ms/1.258965ms
+Worker 3: Error pinging www.fauzihidayati.cfd: lookup www.fauzihidayati.cfd on 172.22.160.1:53: server misbehaving
+www.eonline.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.069428ms/36.964557ms/38.009731ms/799.199µs
+www.kroger.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.505893ms/39.290052ms/41.470766ms/2.071328ms
+www.justia.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.671001ms/38.580328ms/40.677285ms/1.640931ms
+www.johnlewis.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.448151ms/38.203028ms/41.437901ms/2.290152ms
+www.google.co.id: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 82.00193ms/83.251167ms/85.630037ms/1.682824ms
+www.yumpu.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.476076ms/38.266329ms/41.127423ms/2.044307ms
+www.shopify.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.253786ms/36.583773ms/37.242693ms/465.926µs
+www.fresherslive.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.311082ms/37.576688ms/39.264071ms/1.241896ms
+www.columbia.edu: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 60.238076ms/61.866117ms/64.036907ms/1.597646ms
+www.lemon8-app.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.471029ms/38.201955ms/40.871506ms/1.91517ms
+www.kompas.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.950862ms/36.208609ms/38.641073ms/1.720346ms
+www.trulia.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.262434ms/34.580957ms/34.911273ms/265.018µs
+www.lawinsider.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.437069ms/36.794734ms/37.202652ms/314.561µs
+www.pngegg.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.174395ms/37.966567ms/40.560595ms/1.878282ms
+www.bestplaces.net: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 100.917449ms/102.328991ms/104.202247ms/1.380183ms
+www.apa.org: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 55.614909ms/57.106003ms/60.074211ms/2.098847ms
+www.vrbo.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.857197ms/35.670771ms/36.646902ms/739.63µs
+www.scmp.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.352276ms/36.54082ms/36.743885ms/160.202µs
+www.sky.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.501256ms/36.523377ms/38.471875ms/1.37835ms
+Worker 2: Error pinging www.e-beasiswa.biz.id: lookup www.e-beasiswa.biz.id on 172.22.160.1:53: server misbehaving
+www.20minutos.es: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.925519ms/39.367333ms/46.171632ms/4.811475ms
+www.history.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.457714ms/36.802594ms/37.174458ms/293.231µs
+www.va.gov: 3/0 packets, 100% loss, round-trip min/avg/max/stddev = 0s/0s/0s/0s
+Worker 0: Error pinging www.va.gov: context deadline exceeded
+www.apartments.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.259877ms/36.902842ms/37.496569ms/506.076µs
+www.zazzle.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 25.36054ms/28.794491ms/33.650611ms/3.53065ms
+www.oracle.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 37.03466ms/38.702696ms/41.924537ms/2.278663ms
+www.theculturetrip.com: 3/0 packets, 100% loss, round-trip min/avg/max/stddev = 0s/0s/0s/0s
+Worker 4: Error pinging www.theculturetrip.com: context deadline exceeded
+www.theknot.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.0775ms/36.343164ms/36.868403ms/371.408µs
+www.vogue.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.789886ms/35.60248ms/36.337879ms/634.318µs
+www.si.edu: 3/0 packets, 100% loss, round-trip min/avg/max/stddev = 0s/0s/0s/0s
+Worker 1: Error pinging www.si.edu: context deadline exceeded
+www.glamour.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.262332ms/35.448785ms/35.574523ms/134.488µs
+www.allmusic.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.001386ms/36.550788ms/37.002354ms/414.457µs
+www.smithsonianmag.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 32.619523ms/34.211965ms/35.145347ms/1.131581ms
+www.olx.ua: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.206612ms/38.424643ms/41.920249ms/2.501407ms
+www.giphy.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.383832ms/39.355335ms/41.027402ms/2.106669ms
+www.chamberofcommerce.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.573797ms/36.218348ms/38.379934ms/1.59628ms
+www.archiveofourown.org: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.337461ms/36.624506ms/36.947724ms/250.448µs
+www.aljazeera.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.223302ms/34.611388ms/34.923071ms/290.743µs
+www.pagesjaunes.fr: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.748465ms/36.505991ms/39.090315ms/1.866478ms
+www.birdeye.com: 3/0 packets, 100% loss, round-trip min/avg/max/stddev = 0s/0s/0s/0s
+Worker 4: Error pinging www.birdeye.com: context deadline exceeded
+www.semanticscholar.org: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 37.427709ms/38.708237ms/41.236949ms/1.788117ms
+www.upenn.edu: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.41839ms/36.050331ms/39.28333ms/2.28611ms
+www.core.ac.uk: 3/0 packets, 100% loss, round-trip min/avg/max/stddev = 0s/0s/0s/0s
+Worker 0: Error pinging www.core.ac.uk: context deadline exceeded
+www.rozetka.com.ua: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 153.081134ms/154.70954ms/156.842839ms/1.576662ms
+www.health.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 25.687724ms/25.851902ms/26.155292ms/214.771µs
+www.howtopronounce.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.196125ms/37.504925ms/38.787813ms/1.058211ms
+www.twitch.tv: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 25.054002ms/25.211ms/25.341542ms/118.868µs
+www.epa.gov: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.965993ms/36.317284ms/38.571341ms/1.604342ms
+www.viator.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.18727ms/36.410427ms/36.727486ms/230.32µs
+www.pinterest.fr: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 33.281425ms/33.756816ms/34.194294ms/373.64µs
+www.zdnet.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.878037ms/36.17091ms/36.365285ms/210.759µs
+www.investing.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.45234ms/36.875132ms/37.236323ms/323.01µs
+www.argos.co.uk: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.314324ms/38.054748ms/40.750887ms/1.933187ms
+www.mass.gov: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.622729ms/35.98625ms/38.648514ms/1.882691ms
+www.bilibili.tv: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 33.999022ms/34.667256ms/35.460388ms/603.101µs
+www.cookpad.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.807331ms/38.129425ms/42.453226ms/3.060186ms
+www.roadtrippers.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.816972ms/37.404241ms/40.055116ms/1.886603ms
+www.tokopedia.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.997755ms/36.508213ms/37.519214ms/714.897µs
+www.mercadolivre.com.br: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 37.272739ms/39.206827ms/40.528056ms/1.397848ms
+www.livescience.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.031461ms/36.454035ms/36.931056ms/369.27µs
+www.wordnik.com: 3/0 packets, 100% loss, round-trip min/avg/max/stddev = 0s/0s/0s/0s
+Worker 0: Error pinging www.wordnik.com: context deadline exceeded
+www.bobvila.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 25.486394ms/25.978718ms/26.67493ms/506.183µs
+www.angi.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.061787ms/36.777299ms/37.468526ms/574.555µs
+www.namu.wiki: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.771836ms/36.444436ms/36.882916ms/482.862µs
+www.smh.com.au: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 23.65387ms/25.429649ms/28.358548ms/2.086586ms
+www.alltrails.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.114557ms/38.224159ms/40.806841ms/1.944605ms
+www.cinemablend.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 26.117074ms/27.499209ms/29.380425ms/1.378205ms
+www.legacy.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.989325ms/37.221092ms/37.643993ms/299.496µs
+www.casetext.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.254019ms/38.508626ms/41.493195ms/2.200284ms
+www.skysports.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.65504ms/40.163113ms/47.107103ms/4.910231ms
+www.walmart.ca: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.489384ms/38.847757ms/43.683337ms/3.768553ms
+www.foodandwine.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 22.410281ms/24.607293ms/25.833112ms/1.556995ms
+www.francetvinfo.fr: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.081882ms/36.696862ms/37.790743ms/775.483µs
+www.marthastewart.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 25.104973ms/25.708848ms/26.105002ms/433.878µs
+www.theathletic.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.429074ms/34.734038ms/34.956222ms/223.025µs
+www.amazon.it: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.575929ms/36.698548ms/36.884151ms/133.48µs
+www.uptodate.com: 3/0 packets, 100% loss, round-trip min/avg/max/stddev = 0s/0s/0s/0s
+Worker 1: Error pinging www.uptodate.com: context deadline exceeded
+www.rogerebert.com: 3/0 packets, 100% loss, round-trip min/avg/max/stddev = 0s/0s/0s/0s
+Worker 3: Error pinging www.rogerebert.com: context deadline exceeded
+www.looper.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.350444ms/36.513931ms/36.615786ms/116.763µs
+www.almaany.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 38.256842ms/38.800108ms/39.728635ms/659.728µs
+www.azurefd.net: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.878175ms/35.758363ms/36.706276ms/747.854µs
+www.foxsports.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 25.293354ms/25.806738ms/26.404599ms/457.579µs
+www.androidauthority.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.11823ms/36.607246ms/37.177011ms/436µs
+www.filmaffinity.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.248083ms/36.540645ms/36.785306ms/221.92µs
+www.travelweekly.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.627826ms/35.12056ms/35.98839ms/615.524µs
+www.gutefrage.net: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 136.864508ms/137.904164ms/138.789076ms/793.284µs
+www.letterboxd.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.221451ms/37.157525ms/38.524216ms/988.182µs
+www.ultimate-guitar.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.855735ms/37.693301ms/40.923187ms/2.291097ms
+www.loopnet.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 32.777946ms/33.099934ms/33.409821ms/258.103µs
+www.amazon.com.au: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.139585ms/36.8956ms/41.785918ms/3.467279ms
+www.ufl.edu: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 53.98436ms/54.340101ms/55.027507ms/486.169µs
+www.pinkvilla.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.754939ms/36.062686ms/36.504308ms/320.239µs
+www.psychologytoday.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 49.571178ms/50.279014ms/50.81799ms/522.826µs
+www.fnac.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.618874ms/36.075512ms/36.344187ms/324.569µs
+www.instacart.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.11387ms/36.179329ms/36.290718ms/79.166µs
+www.amazon.com.br: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.290213ms/38.174297ms/41.782042ms/2.551901ms
+www.abc.es: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.412745ms/35.694052ms/36.067217ms/274.969µs
+www.elconfidencial.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 37.512903ms/39.073715ms/41.292092ms/1.611389ms
+www.outlookindia.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.916029ms/38.112729ms/41.89285ms/2.684649ms
+www.thetimes.co.uk: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.498379ms/35.431527ms/37.15334ms/1.218933ms
+www.nyc.gov: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 38.95456ms/40.971546ms/42.715052ms/1.547345ms
+www.wondershare.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.991799ms/36.550175ms/37.063291ms/438.603µs
+www.yell.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.015752ms/37.414424ms/39.69043ms/1.623392ms
+www.ieee.org: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.313198ms/37.239447ms/40.597136ms/2.583483ms
+www.lovetoknow.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.42584ms/36.479293ms/36.558669ms/57.241µs
+www.thekitchn.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.77602ms/36.160831ms/36.410528ms/276.094µs
+www.prevention.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 25.832079ms/27.647427ms/30.426128ms/1.995388ms
+www.peakpx.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 38.153556ms/38.55887ms/38.799333ms/288.257µs
+www.focus.de: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.281499ms/36.579267ms/36.975876ms/291.966µs
+www.distractify.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.239429ms/36.486522ms/36.907684ms/299.295µs
+www.cntraveler.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 25.392982ms/25.623266ms/25.773715ms/165.367µs
+www.totalfishing.ro: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 157.460261ms/159.048841ms/161.661128ms/1.861505ms
+www.magazineluiza.com.br: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 129.795654ms/131.492417ms/134.561514ms/2.174218ms
+www.marketwatch.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 32.811065ms/33.869325ms/35.562202ms/1.209475ms
+www.w3schools.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.392628ms/37.922949ms/40.67747ms/1.951745ms
+www.zmenu.com: 3/0 packets, 100% loss, round-trip min/avg/max/stddev = 0s/0s/0s/0s
+Worker 0: Error pinging www.zmenu.com: context deadline exceeded
+www.city-data.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 48.744536ms/49.05007ms/49.618104ms/402.045µs
+www.decider.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 24.846843ms/25.45945ms/26.222311ms/571.495µs
+www.livejournal.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 171.526922ms/174.552562ms/176.758621ms/2.21306ms
+www.nhsinform.scot: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 32.952151ms/36.084268ms/38.136497ms/2.250034ms
+www.berkeley.edu: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 38.303814ms/39.296738ms/39.899343ms/707.431µs
+www.wordsense.eu: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.98947ms/35.172204ms/35.488801ms/224.755µs
+www.mubi.com: 3/0 packets, 100% loss, round-trip min/avg/max/stddev = 0s/0s/0s/0s
+Worker 1: Error pinging www.mubi.com: context deadline exceeded
+www.bol.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.601883ms/35.9115ms/37.043707ms/1.004732ms
+www.rochester.edu: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 59.22419ms/59.526436ms/60.018235ms/350.785µs
+www.squarespace.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 60.172375ms/64.524747ms/70.265261ms/4.235704ms
+www.yandex.ru: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 174.09474ms/179.974043ms/182.953506ms/4.157421ms
+www.vk.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 168.883954ms/170.704001ms/172.903138ms/1.662576ms
+www.liputan6.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.707588ms/38.802954ms/42.870575ms/2.876682ms
+www.ed.gov: 3/0 packets, 100% loss, round-trip min/avg/max/stddev = 0s/0s/0s/0s
+Worker 2: Error pinging www.ed.gov: context deadline exceeded
+www.jagran.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.364318ms/36.54242ms/36.738198ms/153.146µs
+www.loc8nearme.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.122972ms/39.676161ms/41.972506ms/2.548071ms
+www.songfacts.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 105.069699ms/106.336262ms/108.222635ms/1.359748ms
+www.cars.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.164982ms/35.085917ms/35.593478ms/652.333µs
+www.sofascore.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.928731ms/37.57156ms/39.794941ms/2.00864ms
+www.picclick.com: 3/0 packets, 100% loss, round-trip min/avg/max/stddev = 0s/0s/0s/0s
+Worker 3: Error pinging www.picclick.com: context deadline exceeded
+www.bizjournals.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 46.835248ms/48.607827ms/50.965933ms/1.736427ms
+www.leparisien.fr: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.561506ms/37.710608ms/38.849854ms/934.24µs
+www.fc2.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 81.765811ms/86.098255ms/91.447444ms/4.017365ms
+www.alamy.es: 3/0 packets, 100% loss, round-trip min/avg/max/stddev = 0s/0s/0s/0s
+Worker 4: Error pinging www.alamy.es: context deadline exceeded
+www.thrillist.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.790511ms/40.629269ms/44.921225ms/3.747597ms
+www.globalnews.ca: 3/0 packets, 100% loss, round-trip min/avg/max/stddev = 0s/0s/0s/0s
+Worker 0: Error pinging www.globalnews.ca: context deadline exceeded
+www.kiddle.co: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 63.42858ms/65.641023ms/69.853156ms/2.979694ms
+www.samsclub.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 32.892076ms/33.81498ms/35.412461ms/1.134129ms
+www.mlb.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.299171ms/37.336324ms/39.329885ms/1.410045ms
+www.cdiscount.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 44.286476ms/46.427036ms/49.420964ms/2.181271ms
+www.pinterest.co.uk: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.986973ms/37.72347ms/39.139042ms/1.001235ms
+www.purewow.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.958601ms/36.831392ms/37.449485ms/634.737µs
+www.news-medical.net: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.922454ms/35.761252ms/36.81928ms/789.739µs
+www.moneycontrol.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.15938ms/39.011104ms/43.049088ms/2.935124ms
+www.walgreens.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.224288ms/37.325986ms/38.68053ms/1.01857ms
+www.gq.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 25.079285ms/26.792901ms/29.854066ms/2.169723ms
+www.eatingwell.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.433616ms/36.304804ms/39.029096ms/1.970693ms
+www.eurogamer.net: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 24.368298ms/25.606048ms/27.890864ms/1.617483ms
+www.acs.org: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.880607ms/39.294232ms/44.987555ms/4.224201ms
+www.unirioja.es: 3/0 packets, 100% loss, round-trip min/avg/max/stddev = 0s/0s/0s/0s
+Worker 3: Error pinging www.unirioja.es: context deadline exceeded
+www.larousse.fr: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 128.82302ms/130.194129ms/132.424976ms/1.591202ms
+www.techcrunch.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 62.369947ms/62.99681ms/63.610954ms/506.719µs
+www.google.it: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 81.52918ms/81.922075ms/82.201287ms/285.919µs
+www.shazam.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.913996ms/35.113415ms/35.488291ms/265.257µs
+www.priceline.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.181755ms/36.809986ms/37.52313ms/550.896µs
+www.michigan.gov: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.111038ms/37.89321ms/41.166041ms/2.317299ms
+www.livestrong.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.177426ms/36.393387ms/36.761395ms/261.525µs
+Worker 2: Error pinging www.letih.online: lookup www.letih.online on 172.22.160.1:53: no such host
+www.hellomagazine.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.511248ms/35.754984ms/35.892462ms/172.818µs
+www.dribbble.com: 3/0 packets, 100% loss, round-trip min/avg/max/stddev = 0s/0s/0s/0s
+Worker 4: Error pinging www.dribbble.com: context deadline exceeded
+www.housebeautiful.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 25.664935ms/26.235085ms/26.673981ms/422.267µs
+www.usgs.gov: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 37.083059ms/37.946695ms/39.558054ms/1.140385ms
+www.picuki.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.835384ms/36.383548ms/38.827405ms/1.748476ms
+www.lyst.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.719693ms/36.559426ms/40.177041ms/2.558165ms
+www.food.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.379342ms/36.633634ms/36.935405ms/229.481µs
+www.rakuten.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.479757ms/35.162561ms/36.248254ms/776.159µs
+www.architecturaldigest.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.056788ms/35.207663ms/35.442558ms/168.323µs
+www.mynavi.jp: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.747481ms/35.107117ms/35.576862ms/347.43µs
+www.wisc.edu: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 37.705232ms/38.572759ms/40.277481ms/1.205484ms
+www.usmagazine.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 25.757614ms/25.900959ms/26.168601ms/189.411µs
+www.virginia.gov: 3/0 packets, 100% loss, round-trip min/avg/max/stddev = 0s/0s/0s/0s
+Worker 4: Error pinging www.virginia.gov: context deadline exceeded
+www.zara.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.229865ms/37.141475ms/38.685583ms/1.097779ms
+www.kumparan.com: 3/0 packets, 100% loss, round-trip min/avg/max/stddev = 0s/0s/0s/0s
+Worker 0: Error pinging www.kumparan.com: context deadline exceeded
+www.playstation.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.660815ms/35.379173ms/36.810561ms/1.012146ms
+www.washington.edu: 3/0 packets, 100% loss, round-trip min/avg/max/stddev = 0s/0s/0s/0s
+Worker 2: Error pinging www.washington.edu: context deadline exceeded
+www.hgtv.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.582631ms/35.583944ms/36.257965ms/722.046µs
+www.irs.gov: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.453021ms/34.963369ms/35.282613ms/364.642µs
+www.tripadvisor.ca: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.377898ms/37.548965ms/41.38517ms/2.720458ms
+www.allure.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.279546ms/36.564963ms/40.034472ms/2.494173ms
+www.plos.org: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.932995ms/37.445134ms/40.376832ms/2.073368ms
+www.familyhandyman.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 38.066236ms/38.306366ms/38.523884ms/187.516µs
+www.musixmatch.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.815715ms/36.76541ms/38.424917ms/1.177528ms
+www.fortune.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.414897ms/36.19105ms/39.317127ms/2.217308ms
+www.powerthesaurus.org: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.691832ms/35.329034ms/35.995755ms/532.733µs
+www.cheatsheet.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.161295ms/38.32915ms/40.49208ms/1.768039ms
+www.prtimes.jp: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 23.518304ms/23.885002ms/24.169418ms/272.109µs
+www.ancestry.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.684652ms/35.318958ms/35.963709ms/522.225µs
+www.elcomercio.pe: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.73338ms/35.388944ms/36.079333ms/550.034µs
+Worker 3: Error pinging www.harfid.site: lookup www.harfid.site on 172.22.160.1:53: server misbehaving
+www.untappd.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.429638ms/37.791709ms/40.013697ms/1.584501ms
+www.artstation.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.247466ms/38.334333ms/40.364194ms/1.68113ms
+www.verywellmind.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 25.549057ms/28.746553ms/30.88755ms/2.303912ms
+www.unam.mx: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.051755ms/36.500958ms/38.658791ms/1.555483ms
+www.womansday.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.072902ms/35.537356ms/35.897325ms/344.583µs
+www.farfetch.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.177975ms/37.161448ms/37.978358ms/744.38µs
+www.famousbirthdays.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.482432ms/36.434179ms/39.53762ms/2.218638ms
+www.mercadolibre.com.ar: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.232286ms/35.129922ms/35.793805ms/658.567µs
+www.freecodecamp.org: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 38.220064ms/39.273362ms/40.080602ms/779.234µs
+www.cvs.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 32.658812ms/33.099936ms/33.434471ms/325.507µs
+www.purdue.edu: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 67.487316ms/68.565724ms/69.515562ms/833.003µs
+www.republicworld.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 37.111595ms/39.596095ms/41.305694ms/1.797771ms
+www.jamanetwork.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 46.43749ms/48.364201ms/51.688489ms/2.360531ms
+www.indigo.ca: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.722342ms/37.960504ms/40.293853ms/1.65096ms
+www.cylex-uk.co.uk: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.459199ms/37.670328ms/39.429606ms/1.273101ms
+www.vanityfair.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.248933ms/36.802372ms/39.095495ms/1.655166ms
+www.apkcombo.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.327317ms/36.123931ms/39.574827ms/2.440843ms
+www.coursera.org: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 38.492063ms/39.204853ms/40.606814ms/991.384µs
+www.verywellfit.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 25.168384ms/25.629498ms/26.241374ms/450.831µs
+www.news.com.au: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.372337ms/34.551458ms/34.801772ms/182.4µs
+Worker 3: Error pinging www.note.com: lookup www.note.com on 172.22.160.1:53: no such host
+www.beebom.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.035721ms/36.513444ms/36.806471ms/340.684µs
+www.tripsavvy.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.686813ms/37.105992ms/38.727575ms/1.74338ms
+www.etonline.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 25.362566ms/25.907816ms/26.85285ms/670.873µs
+www.denofgeek.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 25.261144ms/26.107806ms/26.766511ms/628.77µs
+www.lonelyplanet.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.643673ms/37.681704ms/41.582192ms/2.758993ms
+www.scientificamerican.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.322294ms/38.562052ms/40.209498ms/1.641283ms
+www.klook.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.461588ms/35.060544ms/35.634429ms/479.138µs
+www.udemy.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.096042ms/36.716307ms/37.789263ms/761.772µs
+www.hp.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.04459ms/36.689766ms/37.335183ms/526.882µs
+www.popularmechanics.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.026369ms/34.983509ms/35.699246ms/703.958µs
+www.rae.es: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 37.866747ms/38.067433ms/38.335295ms/197.093µs
+www.fineartamerica.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.050499ms/36.519957ms/37.185465ms/483.641µs
+www.superuser.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.567597ms/36.222128ms/38.769ms/1.827594ms
+www.hamariweb.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.436825ms/36.980653ms/41.504334ms/3.207ms
+www.arxiv.org: 3/0 packets, 100% loss, round-trip min/avg/max/stddev = 0s/0s/0s/0s
+Worker 0: Error pinging www.arxiv.org: context deadline exceeded
+www.pcgamer.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.009971ms/37.694337ms/40.067165ms/1.726401ms
+www.yale.edu: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.148228ms/36.326998ms/36.502812ms/144.773µs
+www.fool.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.75662ms/36.041507ms/36.28257ms/216.942µs
+www.kaiserpermanente.org: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.129117ms/34.92738ms/35.74382ms/659.325µs
+www.bedbathandbeyond.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.829717ms/35.201902ms/35.738146ms/388.584µs
+www.thriftbooks.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.036517ms/36.408657ms/36.745575ms/290.541µs
+www.osgamers.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.645702ms/35.864738ms/37.854377ms/1.418748ms
+www.doubtnut.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.865295ms/36.576883ms/37.636513ms/763.83µs
+www.hatenablog.com: 3/0 packets, 100% loss, round-trip min/avg/max/stddev = 0s/0s/0s/0s
+Worker 3: Error pinging www.hatenablog.com: context deadline exceeded
+www.roku.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.701109ms/37.265576ms/37.596121ms/401.083µs
+www.meesho.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.659208ms/34.981109ms/35.174146ms/229.121µs
+www.ingles.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.911169ms/37.91705ms/40.050579ms/1.692316ms
+www.ebay.com.au: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 37.017456ms/37.3532ms/37.670152ms/266.793µs
+www.instyle.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 25.140333ms/25.569673ms/26.275746ms/503.141µs
+www.dickssportinggoods.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.517695ms/39.614593ms/45.222874ms/3.972852ms
+www.iheart.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 24.824913ms/25.456396ms/26.315025ms/629.181µs
+www.zendesk.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.508452ms/36.72628ms/36.906198ms/164.576µs
+www.motortrend.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.969496ms/36.314897ms/36.611483ms/264.353µs
+www.newsbreak.com: 3/0 packets, 100% loss, round-trip min/avg/max/stddev = 0s/0s/0s/0s
+Worker 4: Error pinging www.newsbreak.com: context deadline exceeded
+www.olympics.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.989292ms/37.437064ms/39.754694ms/1.655707ms
+www.ct.gov: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 55.884847ms/56.099069ms/56.241772ms/154.24µs
+www.self.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 24.881006ms/25.73137ms/26.83465ms/817.376µs
+www.bringfido.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.457656ms/35.970846ms/38.305413ms/1.674775ms
+www.bonappetit.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.228084ms/36.348812ms/39.497345ms/2.270618ms
+www.timesnownews.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.647962ms/36.075341ms/36.646656ms/420.226µs
+www.newegg.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.824244ms/37.586162ms/38.365533ms/629.349µs
+www.oprahdaily.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 25.7123ms/27.355692ms/30.137283ms/1.977666ms
+www.tvinsider.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.179719ms/35.834121ms/36.419698ms/508.553µs
+www.osu.edu: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.390246ms/34.805371ms/35.565711ms/538.398µs
+www.army.mil: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.960411ms/36.32209ms/37.044358ms/510.721µs
+www.edmunds.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.957382ms/36.282164ms/36.557063ms/247.346µs
+www.mojim.com: 3/0 packets, 100% loss, round-trip min/avg/max/stddev = 0s/0s/0s/0s
+Worker 2: Error pinging www.mojim.com: context deadline exceeded
+www.kbb.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.239138ms/36.84109ms/37.336325ms/454.236µs
+www.mercadolibre.com.mx: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.230055ms/35.749886ms/38.708601ms/2.092388ms
+www.france24.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.612853ms/37.525616ms/42.716002ms/3.679305ms
+www.homes.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.189828ms/36.493152ms/36.987868ms/352.788µs
+www.justice.gov: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.581596ms/36.270447ms/37.420121ms/818.255µs
+www.nikkei.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.682982ms/36.83739ms/38.602101ms/1.623529ms
+www.made-in-china.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.420249ms/36.926201ms/41.755451ms/3.41561ms
+www.sirved.com: 3/0 packets, 100% loss, round-trip min/avg/max/stddev = 0s/0s/0s/0s
+Worker 0: Error pinging www.sirved.com: context deadline exceeded
+www.weather.gov: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.097886ms/36.532079ms/37.125366ms/434.29µs
+www.boomplay.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 37.489607ms/39.677397ms/41.947367ms/1.8208ms
+www.uchicago.edu: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.065699ms/36.913546ms/39.399177ms/1.825711ms
+www.20minutes.fr: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.217026ms/38.17644ms/41.809226ms/2.571421ms
+www.cancer.gov: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.180803ms/37.162867ms/39.456101ms/1.759197ms
+www.nasdaq.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.860052ms/37.483428ms/39.46578ms/1.493757ms
+Worker 4: Error pinging www.owgez.online: lookup www.owgez.online on 172.22.160.1:53: server misbehaving
+www.businesswire.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.932553ms/36.823542ms/39.41406ms/1.895254ms
+www.brainly.lat: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 37.014126ms/38.664536ms/40.539817ms/1.448113ms
+www.wikimapia.org: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 157.900228ms/160.123703ms/161.478255ms/1.584685ms
+www.chicagotribune.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.400138ms/37.6881ms/39.713572ms/1.449747ms
+www.smule.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 85.200173ms/88.694873ms/94.83529ms/4.355742ms
+www.seriouseats.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 25.264771ms/25.983673ms/27.095ms/797.05µs
+www.chordify.net: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 137.996357ms/138.11343ms/138.33846ms/159.163µs
+www.yelp.ca: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.520341ms/35.954971ms/38.670296ms/1.921052ms
+www.pa.gov: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 42.246093ms/43.049156ms/44.584381ms/1.085954ms
+www.unacademy.com: 3/0 packets, 100% loss, round-trip min/avg/max/stddev = 0s/0s/0s/0s
+Worker 4: Error pinging www.unacademy.com: context deadline exceeded
+www.next.co.uk: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.591258ms/36.652113ms/36.758929ms/75.775µs
+www.hbr.org: 3/0 packets, 100% loss, round-trip min/avg/max/stddev = 0s/0s/0s/0s
+Worker 3: Error pinging www.hbr.org: context deadline exceeded
+www.pikiran-rakyat.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 327.583275ms/328.481354ms/329.281681ms/696.808µs
+www.carfax.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.92017ms/36.047445ms/37.82584ms/1.272451ms
+www.kijiji.ca: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.586937ms/37.333707ms/37.716826ms/528.105µs
+www.pennmedicine.org: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 43.853388ms/45.264431ms/47.570485ms/1.644179ms
+www.bhphotovideo.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.869681ms/39.476284ms/42.541131ms/2.337923ms
+www.hypebeast.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.9945ms/36.127316ms/38.225606ms/1.485287ms
+www.bankrate.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.978867ms/37.836341ms/38.832099ms/762.871µs
+www.wordwall.net: 3/0 packets, 100% loss, round-trip min/avg/max/stddev = 0s/0s/0s/0s
+Worker 0: Error pinging www.wordwall.net: context deadline exceeded
+www.allmenus.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.118568ms/37.220008ms/38.346547ms/909.741µs
+www.worldbank.org: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.743977ms/37.370735ms/38.85094ms/1.862386ms
+www.amarujala.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.646442ms/37.943551ms/41.172176ms/2.350068ms
+www.menards.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 43.02468ms/46.001083ms/51.624066ms/3.978328ms
+www.kompass.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 131.237835ms/134.230628ms/136.887451ms/2.318648ms
+Worker 2: Error pinging www.oyan.site: lookup www.oyan.site on 172.22.160.1:53: server misbehaving
+www.google.es: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 82.534485ms/84.205621ms/87.249421ms/2.155738ms
+www.spanishdict.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.403537ms/37.753149ms/39.940493ms/1.560739ms
+www.actu.fr: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.050843ms/35.271639ms/35.511925ms/188.739µs
+www.ox.ac.uk: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.024193ms/37.527743ms/39.787906ms/1.627008ms
+www.dell.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.191627ms/37.700719ms/39.843018ms/1.556465ms
+www.hilton.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.159083ms/36.677511ms/37.318811ms/481.362µs
+www.mappy.com: 3/0 packets, 100% loss, round-trip min/avg/max/stddev = 0s/0s/0s/0s
+Worker 3: Error pinging www.mappy.com: context deadline exceeded
+www.bfmtv.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.606179ms/35.84893ms/38.135296ms/1.618747ms
+www.pocket-lint.com: 3/0 packets, 100% loss, round-trip min/avg/max/stddev = 0s/0s/0s/0s
+Worker 4: Error pinging www.pocket-lint.com: context deadline exceeded
+www.gaana.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.132862ms/37.96535ms/40.744791ms/1.998335ms
+www.yardbarker.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.953766ms/38.25386ms/41.196341ms/2.187943ms
+www.tripadvisor.fr: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.117924ms/36.97349ms/38.388865ms/1.008078ms
+www.omnicalculator.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 49.783087ms/50.982128ms/51.870113ms/879.957µs
+www.cargurus.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 23.089302ms/23.852906ms/24.668762ms/645.87µs
+www.in.gov: 3/0 packets, 100% loss, round-trip min/avg/max/stddev = 0s/0s/0s/0s
+Worker 0: Error pinging www.in.gov: context deadline exceeded
+www.inverse.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 37.96861ms/38.318862ms/38.498341ms/247.691µs
+Worker 1: Error pinging www.minhur.site: lookup www.minhur.site on 172.22.160.1:53: server misbehaving
+www.ucdavis.edu: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.576181ms/36.851712ms/38.558316ms/1.674735ms
+www.usembassy.gov: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 37.182729ms/38.297665ms/40.527464ms/1.576706ms
+www.stern.de: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.66359ms/37.373088ms/42.490055ms/3.620342ms
+www.idealo.de: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.609692ms/34.987252ms/35.357235ms/305.23µs
+www.translated.net: 3/0 packets, 100% loss, round-trip min/avg/max/stddev = 0s/0s/0s/0s
+Worker 2: Error pinging www.translated.net: context deadline exceeded
+www.msu.edu: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 44.06183ms/44.896212ms/45.484104ms/606.236µs
+www.aaa.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 43.669519ms/44.134234ms/44.506295ms/347.838µs
+www.jdpower.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.557147ms/37.264405ms/37.881658ms/544.461µs
+www.diy.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.171253ms/35.76202ms/36.209068ms/435.704µs
+www.forvo.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.323648ms/36.592887ms/36.961483ms/269.706µs
+www.openedition.org: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 129.322115ms/133.134902ms/136.397416ms/2.914569ms
+www.trivago.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.441213ms/36.582648ms/36.785978ms/147.398µs
+www.slate.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.01549ms/36.403901ms/37.113601ms/502.581µs
+www.engadget.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 62.653508ms/63.154254ms/63.750575ms/452.946µs
+www.heb.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 45.760655ms/51.732743ms/56.406992ms/4.442177ms
+www.androidpolice.com: 3/0 packets, 100% loss, round-trip min/avg/max/stddev = 0s/0s/0s/0s
+Worker 3: Error pinging www.androidpolice.com: context deadline exceeded
+www.terra.com.br: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.474977ms/37.517894ms/39.510883ms/1.409765ms
+www.hola.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.802206ms/37.87899ms/38.488442ms/763.609µs
+www.unesco.org: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 133.557457ms/133.619924ms/133.689009ms/53.909µs
+www.liveabout.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 25.571632ms/26.001056ms/26.741773ms/525.981µs
+www.lumenlearning.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.698654ms/38.160969ms/40.216128ms/2.462477ms
+www.urdupoint.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 32.956383ms/34.092046ms/34.954092ms/838.197µs
+www.tesco.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.750287ms/35.579949ms/36.809496ms/886.948µs
+www.autoblog.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 62.658076ms/63.200046ms/64.237238ms/733.653µs
+www.xda-developers.com: 3/0 packets, 100% loss, round-trip min/avg/max/stddev = 0s/0s/0s/0s
+Worker 2: Error pinging www.xda-developers.com: context deadline exceeded
+www.ea.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.283319ms/36.253728ms/37.730381ms/1.44992ms
+www.sandiegouniontribune.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.047061ms/34.773775ms/35.651559ms/663.686µs
+www.verizon.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.151154ms/35.19942ms/36.603064ms/1.032048ms
+www.remax.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.683741ms/38.495271ms/40.604032ms/1.614193ms
+www.lanacion.com.ar: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.997896ms/39.68531ms/42.053982ms/2.076407ms
+www.axios.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.444309ms/38.431075ms/40.818418ms/1.808048ms
+www.nj.gov: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 46.07464ms/50.156782ms/53.440114ms/3.059534ms
+www.abril.com.br: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 24.802591ms/25.337496ms/25.705105ms/386.974µs
+www.seamless.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 26.476047ms/28.82971ms/31.246504ms/1.948042ms
+www.corriere.it: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.310522ms/36.652829ms/36.950859ms/263.285µs
+www.epicurious.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 25.106766ms/28.396172ms/32.84212ms/3.262117ms
+www.glamourmagazine.co.uk: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.315359ms/38.723983ms/43.16833ms/3.146313ms
+www.wise.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.290035ms/36.986675ms/38.297251ms/927.332µs
+www.top-rated.online: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.841465ms/39.176585ms/43.342396ms/2.952863ms
+www.worldatlas.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 44.514775ms/45.025281ms/46.03392ms/713.233µs
+www.unc.edu: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.75847ms/35.254928ms/35.696434ms/384.889µs
+www.clarin.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 37.761912ms/38.708195ms/40.009812ms/951.476µs
+www.marketscreener.com: 3/0 packets, 100% loss, round-trip min/avg/max/stddev = 0s/0s/0s/0s
+Worker 4: Error pinging www.marketscreener.com: context deadline exceeded
+www.faz.net: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.102741ms/35.97247ms/38.921871ms/2.110335ms
+www.mindbodygreen.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.079381ms/36.578861ms/37.575879ms/704.999µs
+www.complex.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 24.260547ms/24.617453ms/24.87355ms/260.211µs
+Worker 1: Error pinging www.www.gob.mx: lookup www.www.gob.mx on 172.22.160.1:53: no such host
+www.seattletimes.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.022424ms/36.764229ms/37.697643ms/697.196µs
+www.jagranjosh.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.811917ms/37.0509ms/38.168096ms/965.753µs
+www.churchofjesuschrist.org: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.748323ms/37.658799ms/40.484446ms/2.038933ms
+www.townandcountrymag.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.593796ms/34.980552ms/35.608851ms/448.212µs
+www.tastingtable.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.795168ms/36.459061ms/37.121293ms/541.389µs
+www.utah.edu: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 103.094996ms/105.849826ms/108.108991ms/2.076744ms
+Worker 1: Error pinging www.tutur.online: lookup www.tutur.online on 172.22.160.1:53: server misbehaving
+www.tureng.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.305686ms/43.17614ms/48.096281ms/5.007149ms
+www.hulu.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.292847ms/37.750796ms/40.072795ms/1.659706ms
+www.mercadolibre.com.co: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.738795ms/37.100999ms/40.476253ms/2.449395ms
+www.babycenter.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.827437ms/38.305115ms/42.506642ms/2.986826ms
+www.merckmanuals.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.990679ms/38.432949ms/42.854633ms/3.132307ms
+www.songmeanings.com: 3/0 packets, 100% loss, round-trip min/avg/max/stddev = 0s/0s/0s/0s
+Worker 3: Error pinging www.songmeanings.com: context deadline exceeded
+www.utexas.edu: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.183177ms/37.114244ms/40.51661ms/2.413147ms
+www.canadiantire.ca: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.703179ms/38.766032ms/40.943619ms/2.229099ms
+www.docomo.ne.jp: 3/0 packets, 100% loss, round-trip min/avg/max/stddev = 0s/0s/0s/0s
+Worker 0: Error pinging www.docomo.ne.jp: context deadline exceeded
+www.sfgate.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.038125ms/37.934815ms/41.473455ms/2.504356ms
+www.state.mn.us: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 55.48794ms/55.515534ms/55.558458ms/30.762µs
+www.movoto.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 98.259173ms/99.461228ms/100.140069ms/852.352µs
+www.songtell.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 51.94352ms/53.507028ms/56.047653ms/1.812373ms
+www.nj.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.631951ms/36.0658ms/36.493505ms/351.754µs
+www.brides.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.064372ms/38.304797ms/41.129313ms/2.493406ms
+Worker 2: Error pinging www.my-best.com: lookup www.my-best.com on 172.22.160.1:53: no such host
+www.cylex.de: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 38.123789ms/40.231447ms/42.410081ms/1.75059ms
+www.pixiv.net: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.903568ms/38.512278ms/43.774998ms/3.805906ms
+www.radaris.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 64.958962ms/65.734341ms/66.418066ms/599.191µs
+www.collegedunia.com: 3/0 packets, 100% loss, round-trip min/avg/max/stddev = 0s/0s/0s/0s
+Worker 1: Error pinging www.collegedunia.com: context deadline exceeded
+www.t-online.de: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 37.740477ms/39.292905ms/41.237349ms/1.454254ms
+www.mo.gov: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 44.001521ms/46.746161ms/51.537777ms/3.400135ms
+www.rei.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.861953ms/38.91835ms/41.164368ms/1.761564ms
+www.scielo.br: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 172.463024ms/174.869653ms/177.9176ms/2.272526ms
+www.welt.de: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.657984ms/35.49895ms/37.100624ms/1.133028ms
+www.stockx.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.371599ms/37.102181ms/40.080412ms/2.115136ms
+www.pitchbook.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.300041ms/36.383134ms/36.505998ms/88.66µs
+www.autotrader.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.400725ms/38.091419ms/41.471006ms/2.38973ms
+Worker 2: Error pinging www.filgaz.online: lookup www.filgaz.online on 172.22.160.1:53: server misbehaving
+www.jcpenney.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.501772ms/38.181486ms/40.124167ms/1.490481ms
+www.dbpedia.org: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 148.437703ms/150.891754ms/152.890428ms/1.846116ms
+www.ihg.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.586421ms/35.393958ms/36.499899ms/809.169µs
+www.illinois.edu: 3/0 packets, 100% loss, round-trip min/avg/max/stddev = 0s/0s/0s/0s
+Worker 3: Error pinging www.illinois.edu: context deadline exceeded
+www.shein.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 32.995017ms/35.195397ms/38.531204ms/2.398505ms
+www.teenvogue.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 25.18185ms/25.851847ms/26.362546ms/495.003µs
+www.bu.edu: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.198078ms/34.509313ms/34.89338ms/288.489µs
+www.bartleby.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 37.420829ms/37.994279ms/38.580953ms/473.71µs
+www.audible.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 38.060856ms/39.008797ms/39.522893ms/671.096µs
+www.allocine.fr: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 37.499321ms/37.669572ms/37.876988ms/156.406µs
+www.mentalfloss.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.931061ms/37.352086ms/38.522474ms/1.072681ms
+www.grammarly.com: 3/0 packets, 100% loss, round-trip min/avg/max/stddev = 0s/0s/0s/0s
+Worker 1: Error pinging www.grammarly.com: context deadline exceeded
+www.google.co.kr: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 82.879227ms/85.422025ms/90.288321ms/3.442155ms
+www.tripadvisor.co: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.157552ms/36.787503ms/37.754673ms/694.256µs
+www.nbcsports.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 33.613757ms/37.497885ms/41.780687ms/3.346031ms
+www.aajtak.in: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 37.366311ms/40.431852ms/46.359914ms/4.192592ms
+www.navitime.co.jp: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.810582ms/39.092073ms/42.281584ms/2.323982ms
+www.arcgis.com: 3/0 packets, 100% loss, round-trip min/avg/max/stddev = 0s/0s/0s/0s
+Worker 2: Error pinging www.arcgis.com: context deadline exceeded
+www.livehindustan.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.386153ms/37.160773ms/37.918244ms/625.591µs
+www.allbiz.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.309611ms/39.306562ms/43.500918ms/3.055493ms
+www.seventeen.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 25.668669ms/26.027773ms/26.311431ms/267.774µs
+Worker 4: Error pinging www.e-inspirasi.biz.id: lookup www.e-inspirasi.biz.id on 172.22.160.1:53: server misbehaving
+www.minitool.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.016139ms/37.970257ms/41.861158ms/2.871903ms
+www.science.org: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 33.708493ms/36.503656ms/39.731898ms/2.478039ms
+www.alphr.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.229325ms/37.497495ms/40.567851ms/2.252049ms
+www.hotelplanner.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.581867ms/41.39982ms/45.520664ms/3.682389ms
+www.chip.de: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 38.511477ms/41.021239ms/42.741652ms/1.814919ms
+www.food52.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.429496ms/35.957478ms/36.232138ms/373.441µs
+www.dotesports.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 37.84943ms/39.474823ms/41.849775ms/1.716988ms
+www.usarestaurants.info: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 147.572027ms/149.909282ms/152.889531ms/2.217964ms
+www.songkick.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.49672ms/35.088718ms/36.198945ms/785.627µs
+www.zeebiz.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.348592ms/38.589492ms/42.849043ms/3.013323ms
+www.shopee.co.id: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 269.858332ms/271.280614ms/273.745373ms/1.749732ms
+www.tripadvisor.de: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 24.93339ms/28.628103ms/31.132315ms/2.667038ms
+www.voanews.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.162532ms/37.667427ms/40.990361ms/2.448508ms
+www.ozon.ru: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 38.253652ms/39.980797ms/42.59413ms/1.879527ms
+www.ohio.gov: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 111.562686ms/112.549806ms/114.033474ms/1.068057ms
+www.mathworks.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.620096ms/36.688571ms/39.411817ms/2.010256ms
+www.ichacha.net: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 72.442689ms/72.691104ms/72.995227ms/228.986µs
+www.britishcouncil.org: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.968382ms/37.526173ms/40.295584ms/1.963362ms
+www.wionews.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.380377ms/38.424743ms/40.243124ms/1.585035ms
+www.spiegel.de: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 151.257449ms/152.793084ms/155.314382ms/1.79691ms
+www.lazada.com.ph: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.199314ms/37.714407ms/40.021896ms/1.658101ms
+www.knowyourmeme.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 107.626547ms/108.029468ms/108.781733ms/532.381µs
+www.indiewire.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 27.365161ms/30.259958ms/35.515149ms/3.72238ms
+www.benzinga.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 25.267498ms/25.506137ms/25.808927ms/225.644µs
+www.otto.de: 3/0 packets, 100% loss, round-trip min/avg/max/stddev = 0s/0s/0s/0s
+Worker 4: Error pinging www.otto.de: context deadline exceeded
+www.meinestadt.de: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.273298ms/37.604208ms/39.835056ms/1.58723ms
+www.pressbooks.pub: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.93155ms/36.659716ms/39.219085ms/1.846423ms
+www.dzen.ru: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 173.248541ms/175.070991ms/177.460292ms/1.765541ms
+www.sueddeutsche.de: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.132833ms/36.978865ms/37.639862ms/629µs
+www.francebleu.fr: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.141476ms/35.954274ms/38.887502ms/2.093277ms
+www.maryland.gov: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.219153ms/35.732234ms/38.527268ms/1.978639ms
+www.bukalapak.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 43.915568ms/44.348446ms/44.986092ms/460.4µs
+www.hitc.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.897784ms/36.167472ms/36.363155ms/197.062µs
+www.pixnet.net: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 235.286295ms/238.11665ms/239.617418ms/2.002583ms
+www.acehardware.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 33.898974ms/34.332703ms/34.562222ms/306.867µs
+www.synonym.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 32.887303ms/35.035517ms/39.119605ms/2.889187ms
+www.ebay.fr: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.583764ms/38.150135ms/40.319782ms/1.583753ms
+www.asda.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.658217ms/34.921529ms/35.131909ms/196.972µs
+www.nhk.or.jp: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.573862ms/38.358193ms/41.795705ms/2.431278ms
+www.okdiario.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 130.549423ms/132.377376ms/135.290532ms/2.082111ms
+www.oregon.gov: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.996567ms/36.043779ms/36.112422ms/49.666µs
+www.stylecaster.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 24.681464ms/25.298464ms/26.053131ms/568.378µs
+www.cybo.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.624337ms/38.604171ms/42.722653ms/3.007647ms
+www.datanyze.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.899568ms/37.14362ms/39.152048ms/1.744044ms
+www.noon.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 37.125064ms/38.424003ms/40.874215ms/1.73361ms
+www.postmates.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.672289ms/39.516882ms/45.899023ms/4.544292ms
+www.ucla.edu: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.122821ms/36.868622ms/37.723468ms/657.995µs
+www.thesaurus.plus: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 172.441502ms/173.916826ms/175.118408ms/1.109852ms
+www.archives.gov: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.307845ms/36.572582ms/36.771461ms/194.915µs
+www.thenationalnews.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.811533ms/37.300853ms/39.85589ms/1.814942ms
+www.khandbahale.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.50648ms/37.204555ms/40.377909ms/2.245743ms
+www.apartmenttherapy.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 25.49954ms/26.562333ms/28.188787ms/1.167989ms
+www.offerup.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.428985ms/34.710136ms/34.889352ms/201.291µs
+www.aafp.org: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.194676ms/36.477317ms/36.923976ms/319.526µs
+www.wynk.in: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.947924ms/37.713492ms/40.576465ms/2.042722ms
+www.onlyinyourstate.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.198882ms/37.871559ms/40.432308ms/1.838836ms
+www.calculator.net: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 50.013516ms/51.573393ms/54.53117ms/2.092509ms
+www.tabelog.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 178.307705ms/181.847474ms/184.058898ms/2.528824ms
+www.substack.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.911929ms/36.854767ms/37.901036ms/815.336µs
+www.plex.tv: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.932726ms/37.081901ms/37.284085ms/148.258µs
+www.gadgets360.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.435357ms/36.904124ms/39.354624ms/1.744135ms
+www.hhs.gov: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 37.226038ms/38.51778ms/41.002284ms/1.757274ms
+www.cylex.us.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.445618ms/35.052595ms/35.387075ms/429.942µs
+www.dot.gov: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 37.264384ms/37.772102ms/38.292057ms/419.635µs
+www.physio-pedia.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.528266ms/35.843627ms/36.092712ms/235.151µs
+www.linguee.es: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 135.945754ms/136.591445ms/137.807516ms/860.441µs
+www.cedars-sinai.org: 3/0 packets, 100% loss, round-trip min/avg/max/stddev = 0s/0s/0s/0s
+Worker 1: Error pinging www.cedars-sinai.org: context deadline exceeded
+www.setlist.fm: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.29919ms/37.561569ms/38.343517ms/901.085µs
+www.bigw.com.au: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.990233ms/37.651025ms/42.735434ms/3.596524ms
+www.nintendo.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.642466ms/36.034778ms/38.52705ms/1.766339ms
+www.univision.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 37.709847ms/40.579375ms/43.003681ms/2.184008ms
+www.booked.net: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 37.557618ms/39.373455ms/41.530516ms/1.639777ms
+www.allegro.pl: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 162.30218ms/163.328306ms/164.888432ms/1.121321ms
+www.sap.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 37.719364ms/39.330437ms/42.273861ms/2.084423ms
+www.motor1.com: 3/0 packets, 100% loss, round-trip min/avg/max/stddev = 0s/0s/0s/0s
+Worker 3: Error pinging www.motor1.com: context deadline exceeded
+www.youm7.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.935113ms/37.826772ms/39.32535ms/1.066012ms
+www.simplilearn.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.897141ms/37.604609ms/40.42283ms/2.007618ms
+www.theglobeandmail.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 37.441989ms/38.792866ms/40.319517ms/1.181302ms
+www.tubitv.com: 3/0 packets, 100% loss, round-trip min/avg/max/stddev = 0s/0s/0s/0s
+Worker 0: Error pinging www.tubitv.com: context deadline exceeded
+89.60% of the URLs were successfully pinged.
+Total time taken to ping URLs: 613.314339

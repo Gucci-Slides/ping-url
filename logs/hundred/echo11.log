@@ -1,0 +1,18 @@
+Number of URLs read from the file: 100
+Worker 2: Error pinging www.tianya.cn: lookup www.tianya.cn on 172.22.160.1:53: read udp 172.22.174.111:35202->172.22.160.1:53: i/o timeout
+Worker 0: Error pinging www.google.co.id: lookup www.google.co.id on 172.22.160.1:53: read udp 172.22.174.111:52801->172.22.160.1:53: i/o timeout
+Worker 4: Error pinging www.youku.com: lookup www.youku.com on 172.22.160.1:53: read udp 172.22.174.111:39953->172.22.160.1:53: i/o timeout
+Worker 1: Error pinging www.rakuten.co.jp: lookup www.rakuten.co.jp on 172.22.160.1:53: read udp 172.22.174.111:51217->172.22.160.1:53: i/o timeout
+Worker 2: Error pinging www.craigslist.org: lookup www.craigslist.org on 172.22.160.1:53: read udp 172.22.174.111:34340->172.22.160.1:53: i/o timeout
+Worker 0: Error pinging www.amazon.de: lookup www.amazon.de on 172.22.160.1:53: read udp 172.22.174.111:46478->172.22.160.1:53: i/o timeout
+Worker 4: Error pinging www.nicovideo.jp: lookup www.nicovideo.jp on 172.22.160.1:53: read udp 172.22.174.111:39507->172.22.160.1:53: i/o timeout
+Worker 1: Error pinging www.google.pl: lookup www.google.pl on 172.22.160.1:53: read udp 172.22.174.111:33900->172.22.160.1:53: i/o timeout
+Worker 2: Error pinging www.soso.com: lookup www.soso.com on 172.22.160.1:53: read udp 172.22.174.111:55855->172.22.160.1:53: i/o timeout
+Worker 0: Error pinging www.bilibili.com: lookup www.bilibili.com on 172.22.160.1:53: read udp 172.22.174.111:51215->172.22.160.1:53: i/o timeout
+Worker 4: Error pinging www.dropbox.com: lookup www.dropbox.com on 172.22.160.1:53: read udp 172.22.174.111:48740->172.22.160.1:53: i/o timeout
+Worker 1: Error pinging www.xinhuanet.com: lookup www.xinhuanet.com on 172.22.160.1:53: read udp 172.22.174.111:37913->172.22.160.1:53: i/o timeout
+Worker 2: Error pinging www.outbrain.com: lookup www.outbrain.com on 172.22.160.1:53: read udp 172.22.174.111:49651->172.22.160.1:53: i/o timeout
+Worker 0: Error pinging www.pixnet.net: lookup www.pixnet.net on 172.22.160.1:53: read udp 172.22.174.111:43077->172.22.160.1:53: i/o timeout
+Worker 4: Error pinging www.alibaba.com: lookup www.alibaba.com on 172.22.160.1:53: read udp 172.22.174.111:57036->172.22.160.1:53: i/o timeout
+Worker 1: Error pinging www.alipay.com: lookup www.alipay.com on 172.22.160.1:53: read udp 172.22.174.111:37045->172.22.160.1:53: i/o timeout
+Worker 2: Error pinging www.microsoftonline.com: lookup www.microsoftonline.com on 172.22.160.1:53: no such host

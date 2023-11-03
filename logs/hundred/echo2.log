@@ -1,0 +1,666 @@
+Number of URLs read from the file: 100
+32 bytes from 142.250.217.142: icmp_seq=0 time=86.848468ms
+32 bytes from 31.13.88.35: icmp_seq=0 time=39.769255ms
+32 bytes from 3.161.134.132: icmp_seq=0 time=35.488503ms
+32 bytes from 74.6.231.21: icmp_seq=0 time=73.63039ms
+32 bytes from 104.193.88.77: icmp_seq=0 time=107.974938ms
+32 bytes from 142.250.217.142: icmp_seq=1 time=83.255311ms
+32 bytes from 31.13.88.35: icmp_seq=1 time=34.581267ms
+32 bytes from 3.161.134.132: icmp_seq=1 time=33.59628ms
+32 bytes from 74.6.231.21: icmp_seq=1 time=68.140823ms
+32 bytes from 104.193.88.77: icmp_seq=1 time=106.9614ms
+32 bytes from 142.250.217.142: icmp_seq=2 time=84.557778ms
+32 bytes from 31.13.88.35: icmp_seq=2 time=34.732965ms
+
+--- www.youtube.com ping statistics ---
+3 packets transmitted, 3 packets received, 0% packet loss
+round-trip min/avg/max/stddev = 83.255311ms/84.887186ms/86.848468ms/1.485278ms
+
+
+--- www.facebook.com ping statistics ---
+3 packets transmitted, 3 packets received, 0% packet loss
+round-trip min/avg/max/stddev = 34.581267ms/36.361163ms/39.769255ms/2.410681ms
+
+32 bytes from 3.161.134.132: icmp_seq=2 time=40.524529ms
+32 bytes from 74.6.231.21: icmp_seq=2 time=73.32411ms
+32 bytes from 208.80.154.224: icmp_seq=0 time=45.90464ms
+
+--- www.amazon.com ping statistics ---
+3 packets transmitted, 3 packets received, 0% packet loss
+round-trip min/avg/max/stddev = 33.59628ms/36.536437ms/40.524529ms/2.923899ms
+
+
+--- www.yahoo.com ping statistics ---
+3 packets transmitted, 3 packets received, 0% packet loss
+round-trip min/avg/max/stddev = 68.140823ms/71.698441ms/73.63039ms/2.518721ms
+
+32 bytes from 104.193.88.77: icmp_seq=2 time=107.940852ms
+32 bytes from 184.28.212.177: icmp_seq=0 time=34.545532ms
+32 bytes from 104.244.42.129: icmp_seq=0 time=26.015713ms
+32 bytes from 172.217.14.99: icmp_seq=0 time=81.451582ms
+
+--- www.baidu.com ping statistics ---
+3 packets transmitted, 3 packets received, 0% packet loss
+round-trip min/avg/max/stddev = 106.9614ms/107.62573ms/107.974938ms/469.958µs
+
+32 bytes from 204.79.197.212: icmp_seq=0 time=37.846301ms
+32 bytes from 208.80.154.224: icmp_seq=1 time=44.584991ms
+32 bytes from 184.28.212.177: icmp_seq=1 time=35.137873ms
+32 bytes from 104.244.42.129: icmp_seq=1 time=26.541948ms
+32 bytes from 172.217.14.99: icmp_seq=1 time=81.09733ms
+32 bytes from 204.79.197.212: icmp_seq=1 time=37.97954ms
+32 bytes from 208.80.154.224: icmp_seq=2 time=48.098426ms
+32 bytes from 184.28.212.177: icmp_seq=2 time=34.359454ms
+32 bytes from 104.244.42.129: icmp_seq=2 time=25.031521ms
+
+--- www.wikipedia.org ping statistics ---
+3 packets transmitted, 3 packets received, 0% packet loss
+round-trip min/avg/max/stddev = 44.584991ms/46.196019ms/48.098426ms/1.449076ms
+
+32 bytes from 172.217.14.99: icmp_seq=2 time=81.477691ms
+
+--- www.twitter.com ping statistics ---
+3 packets transmitted, 3 packets received, 0% packet loss
+round-trip min/avg/max/stddev = 25.031521ms/25.863061ms/26.541948ms/626.005µs
+
+
+--- www.qq.com ping statistics ---
+3 packets transmitted, 3 packets received, 0% packet loss
+round-trip min/avg/max/stddev = 34.359454ms/34.680953ms/35.137873ms/331.901µs
+
+32 bytes from 8.38.121.233: icmp_seq=0 time=59.755115ms
+
+--- www.google.co.in ping statistics ---
+3 packets transmitted, 3 packets received, 0% packet loss
+round-trip min/avg/max/stddev = 81.09733ms/81.342201ms/81.477691ms/173.477µs
+
+32 bytes from 204.79.197.212: icmp_seq=2 time=38.322904ms
+
+--- www.live.com ping statistics ---
+3 packets transmitted, 3 packets received, 0% packet loss
+round-trip min/avg/max/stddev = 37.846301ms/38.049581ms/38.322904ms/200.777µs
+
+32 bytes from 13.107.21.200: icmp_seq=0 time=40.42038ms
+32 bytes from 31.13.65.174: icmp_seq=0 time=39.885954ms
+32 bytes from 36.51.224.114: icmp_seq=0 time=254.564323ms
+32 bytes from 8.38.121.233: icmp_seq=1 time=58.495662ms
+32 bytes from 13.107.21.200: icmp_seq=1 time=36.271817ms
+32 bytes from 31.13.65.174: icmp_seq=1 time=35.695565ms
+32 bytes from 47.246.20.232: icmp_seq=0 time=58.7277ms
+32 bytes from 36.51.224.114: icmp_seq=1 time=250.374374ms
+32 bytes from 8.38.121.233: icmp_seq=2 time=59.368675ms
+32 bytes from 13.107.21.200: icmp_seq=2 time=35.794708ms
+32 bytes from 31.13.65.174: icmp_seq=2 time=35.624309ms
+
+--- www.taobao.com ping statistics ---
+3 packets transmitted, 3 packets received, 0% packet loss
+round-trip min/avg/max/stddev = 58.495662ms/59.206484ms/59.755115ms/526.804µs
+
+32 bytes from 13.107.42.14: icmp_seq=0 time=36.081641ms
+
+--- www.bing.com ping statistics ---
+3 packets transmitted, 3 packets received, 0% packet loss
+round-trip min/avg/max/stddev = 35.794708ms/37.495636ms/40.42038ms/2.077259ms
+
+
+--- www.instagram.com ping statistics ---
+3 packets transmitted, 3 packets received, 0% packet loss
+round-trip min/avg/max/stddev = 35.624309ms/37.06861ms/39.885954ms/1.992376ms
+
+32 bytes from 47.246.20.232: icmp_seq=1 time=58.41273ms
+32 bytes from 204.79.197.203: icmp_seq=0 time=36.318771ms
+32 bytes from 182.22.16.123: icmp_seq=0 time=182.112794ms
+32 bytes from 36.51.224.114: icmp_seq=2 time=248.740877ms
+
+--- www.weibo.com ping statistics ---
+3 packets transmitted, 3 packets received, 0% packet loss
+round-trip min/avg/max/stddev = 248.740877ms/251.226525ms/254.564323ms/2.452584ms
+
+32 bytes from 13.107.42.14: icmp_seq=1 time=36.498652ms
+32 bytes from 87.240.132.67: icmp_seq=0 time=156.415747ms
+32 bytes from 47.246.20.232: icmp_seq=2 time=53.941069ms
+
+--- www.sina.com.cn ping statistics ---
+3 packets transmitted, 3 packets received, 0% packet loss
+round-trip min/avg/max/stddev = 53.941069ms/57.027167ms/58.7277ms/2.185985ms
+
+32 bytes from 142.251.40.35: icmp_seq=0 time=81.38576ms
+32 bytes from 204.79.197.203: icmp_seq=1 time=35.071787ms
+32 bytes from 182.22.16.123: icmp_seq=1 time=179.07101ms
+32 bytes from 13.107.42.14: icmp_seq=2 time=36.929917ms
+
+--- www.linkedin.com ping statistics ---
+3 packets transmitted, 3 packets received, 0% packet loss
+round-trip min/avg/max/stddev = 36.081641ms/36.503403ms/36.929917ms/346.323µs
+
+32 bytes from 87.240.132.67: icmp_seq=1 time=156.275685ms
+32 bytes from 77.88.55.60: icmp_seq=0 time=182.210649ms
+32 bytes from 142.251.40.35: icmp_seq=1 time=81.019455ms
+32 bytes from 204.79.197.203: icmp_seq=2 time=35.365261ms
+
+--- www.msn.com ping statistics ---
+3 packets transmitted, 3 packets received, 0% packet loss
+round-trip min/avg/max/stddev = 35.071787ms/35.585273ms/36.318771ms/532.319µs
+
+32 bytes from 182.22.16.123: icmp_seq=2 time=179.13754ms
+
+--- www.yahoo.co.jp ping statistics ---
+3 packets transmitted, 3 packets received, 0% packet loss
+round-trip min/avg/max/stddev = 179.07101ms/180.107115ms/182.112794ms/1.418489ms
+
+32 bytes from 87.240.132.67: icmp_seq=2 time=156.100916ms
+
+--- www.vk.com ping statistics ---
+3 packets transmitted, 3 packets received, 0% packet loss
+round-trip min/avg/max/stddev = 156.100916ms/156.264116ms/156.415747ms/128.789µs
+
+32 bytes from 77.88.55.60: icmp_seq=1 time=181.723532ms
+32 bytes from 146.75.45.140: icmp_seq=0 time=24.794396ms
+32 bytes from 142.250.68.3: icmp_seq=0 time=86.529811ms
+32 bytes from 103.235.46.234: icmp_seq=0 time=224.513644ms
+32 bytes from 142.251.40.35: icmp_seq=2 time=80.229331ms
+
+--- www.google.de ping statistics ---
+3 packets transmitted, 3 packets received, 0% packet loss
+round-trip min/avg/max/stddev = 80.229331ms/80.878183ms/81.38576ms/482.563µs
+
+32 bytes from 23.36.9.68: icmp_seq=0 time=34.491293ms
+32 bytes from 77.88.55.60: icmp_seq=2 time=181.983964ms
+32 bytes from 146.75.45.140: icmp_seq=1 time=25.550118ms
+32 bytes from 142.250.68.3: icmp_seq=1 time=82.105036ms
+
+--- www.yandex.ru ping statistics ---
+3 packets transmitted, 3 packets received, 0% packet loss
+round-trip min/avg/max/stddev = 181.723532ms/181.972715ms/182.210649ms/199.023µs
+
+32 bytes from 142.250.176.3: icmp_seq=0 time=81.986822ms
+32 bytes from 103.235.46.234: icmp_seq=1 time=223.996051ms
+32 bytes from 23.36.9.68: icmp_seq=1 time=35.321978ms
+32 bytes from 146.75.45.140: icmp_seq=2 time=25.477408ms
+32 bytes from 142.250.68.3: icmp_seq=2 time=82.121606ms
+
+--- www.reddit.com ping statistics ---
+3 packets transmitted, 3 packets received, 0% packet loss
+round-trip min/avg/max/stddev = 24.794396ms/25.273974ms/25.550118ms/340.409µs
+
+
+--- www.google.co.uk ping statistics ---
+3 packets transmitted, 3 packets received, 0% packet loss
+round-trip min/avg/max/stddev = 82.105036ms/83.585485ms/86.529811ms/2.081964ms
+
+32 bytes from 104.244.42.5: icmp_seq=0 time=26.462029ms
+32 bytes from 142.250.176.3: icmp_seq=1 time=82.648853ms
+32 bytes from 103.235.46.234: icmp_seq=2 time=224.830756ms
+32 bytes from 8.25.82.234: icmp_seq=0 time=56.539776ms
+
+--- www.hao123.com ping statistics ---
+3 packets transmitted, 3 packets received, 0% packet loss
+round-trip min/avg/max/stddev = 223.996051ms/224.446817ms/224.830756ms/344.027µs
+
+32 bytes from 23.36.9.68: icmp_seq=2 time=36.929454ms
+32 bytes from 142.250.72.163: icmp_seq=0 time=84.77277ms
+
+--- www.ebay.com ping statistics ---
+3 packets transmitted, 3 packets received, 0% packet loss
+round-trip min/avg/max/stddev = 34.491293ms/35.580908ms/36.929454ms/1.012074ms
+
+32 bytes from 47.89.195.194: icmp_seq=0 time=94.247133ms
+32 bytes from 104.244.42.5: icmp_seq=1 time=26.484654ms
+32 bytes from 142.250.176.3: icmp_seq=2 time=87.821695ms
+32 bytes from 8.25.82.234: icmp_seq=1 time=52.018991ms
+
+--- www.google.fr ping statistics ---
+3 packets transmitted, 3 packets received, 0% packet loss
+round-trip min/avg/max/stddev = 81.986822ms/84.152456ms/87.821695ms/2.608582ms
+
+32 bytes from 142.250.72.163: icmp_seq=1 time=82.897259ms
+32 bytes from 211.152.149.12: icmp_seq=0 time=25.071913ms
+32 bytes from 47.89.195.194: icmp_seq=1 time=94.98303ms
+32 bytes from 104.244.42.5: icmp_seq=2 time=30.834147ms
+32 bytes from 8.25.82.234: icmp_seq=2 time=51.462861ms
+
+--- www.t.co ping statistics ---
+3 packets transmitted, 3 packets received, 0% packet loss
+round-trip min/avg/max/stddev = 26.462029ms/27.926943ms/30.834147ms/2.055724ms
+
+
+--- www.tmall.com ping statistics ---
+3 packets transmitted, 3 packets received, 0% packet loss
+round-trip min/avg/max/stddev = 51.462861ms/53.340543ms/56.539776ms/2.273564ms
+
+32 bytes from 162.219.225.115: icmp_seq=0 time=35.720019ms
+32 bytes from 146.75.44.84: icmp_seq=0 time=25.27286ms
+32 bytes from 142.250.72.163: icmp_seq=2 time=85.549073ms
+
+--- www.google.com.br ping statistics ---
+3 packets transmitted, 3 packets received, 0% packet loss
+round-trip min/avg/max/stddev = 82.897259ms/84.406367ms/85.549073ms/1.113169ms
+
+32 bytes from 211.152.149.12: icmp_seq=1 time=24.973548ms
+32 bytes from 47.89.195.194: icmp_seq=2 time=95.567885ms
+
+--- www.360.cn ping statistics ---
+3 packets transmitted, 3 packets received, 0% packet loss
+round-trip min/avg/max/stddev = 94.247133ms/94.932682ms/95.567885ms/540.369µs
+
+32 bytes from 142.250.217.131: icmp_seq=0 time=82.495356ms
+32 bytes from 162.219.225.115: icmp_seq=1 time=37.563506ms
+32 bytes from 146.75.44.84: icmp_seq=1 time=25.212536ms
+32 bytes from 211.152.149.12: icmp_seq=2 time=24.833947ms
+
+--- www.sohu.com ping statistics ---
+3 packets transmitted, 3 packets received, 0% packet loss
+round-trip min/avg/max/stddev = 24.833947ms/24.959803ms/25.071913ms/97.634µs
+
+32 bytes from 142.250.217.131: icmp_seq=1 time=81.420046ms
+32 bytes from 142.250.176.3: icmp_seq=0 time=82.706071ms
+32 bytes from 162.219.225.115: icmp_seq=2 time=35.832265ms
+32 bytes from 146.75.44.84: icmp_seq=2 time=25.123317ms
+
+--- www.amazon.co.jp ping statistics ---
+3 packets transmitted, 3 packets received, 0% packet loss
+round-trip min/avg/max/stddev = 35.720019ms/36.37193ms/37.563506ms/843.816µs
+
+
+--- www.pinterest.com ping statistics ---
+3 packets transmitted, 3 packets received, 0% packet loss
+round-trip min/avg/max/stddev = 25.123317ms/25.202905ms/25.27286ms/61.429µs
+
+32 bytes from 23.54.201.219: icmp_seq=0 time=40.076689ms
+32 bytes from 142.250.72.163: icmp_seq=0 time=82.731277ms
+32 bytes from 142.250.217.131: icmp_seq=2 time=82.066216ms
+
+--- www.google.it ping statistics ---
+3 packets transmitted, 3 packets received, 0% packet loss
+round-trip min/avg/max/stddev = 81.420046ms/81.993872ms/82.495356ms/441.963µs
+
+32 bytes from 142.250.176.3: icmp_seq=1 time=82.62655ms
+32 bytes from 192.0.78.12: icmp_seq=0 time=25.113752ms
+32 bytes from 23.54.201.219: icmp_seq=1 time=36.562548ms
+32 bytes from 142.250.72.163: icmp_seq=1 time=82.522162ms
+32 bytes from 142.250.176.3: icmp_seq=2 time=82.733835ms
+32 bytes from 192.0.78.12: icmp_seq=1 time=25.13741ms
+
+--- www.google.ru ping statistics ---
+3 packets transmitted, 3 packets received, 0% packet loss
+round-trip min/avg/max/stddev = 82.62655ms/82.688819ms/82.733835ms/45.466µs
+
+32 bytes from 23.54.201.219: icmp_seq=2 time=36.954484ms
+
+--- www.microsoft.com ping statistics ---
+3 packets transmitted, 3 packets received, 0% packet loss
+round-trip min/avg/max/stddev = 36.562548ms/37.864574ms/40.076689ms/1.572364ms
+
+32 bytes from 142.250.72.163: icmp_seq=2 time=81.986573ms
+
+--- www.google.es ping statistics ---
+3 packets transmitted, 3 packets received, 0% packet loss
+round-trip min/avg/max/stddev = 81.986573ms/82.413338ms/82.731277ms/313.611µs
+
+32 bytes from 192.0.78.12: icmp_seq=2 time=27.975385ms
+
+--- www.wordpress.com ping statistics ---
+3 packets transmitted, 3 packets received, 0% packet loss
+round-trip min/avg/max/stddev = 25.113752ms/26.075515ms/27.975385ms/1.343445ms
+
+32 bytes from 156.251.65.8: icmp_seq=0 time=39.835155ms
+32 bytes from 192.0.77.40: icmp_seq=0 time=28.017485ms
+32 bytes from 146.75.45.21: icmp_seq=0 time=33.480954ms
+32 bytes from 172.217.14.105: icmp_seq=0 time=81.708034ms
+32 bytes from 156.251.65.8: icmp_seq=1 time=35.073715ms
+32 bytes from 192.0.77.40: icmp_seq=1 time=23.894918ms
+32 bytes from 146.75.45.21: icmp_seq=1 time=25.521154ms
+32 bytes from 172.217.14.105: icmp_seq=1 time=86.788888ms
+32 bytes from 156.251.65.8: icmp_seq=2 time=38.158762ms
+32 bytes from 192.0.77.40: icmp_seq=2 time=31.239982ms
+
+--- www.tumblr.com ping statistics ---
+3 packets transmitted, 3 packets received, 0% packet loss
+round-trip min/avg/max/stddev = 23.894918ms/27.717462ms/31.239982ms/3.006105ms
+
+32 bytes from 146.75.45.21: icmp_seq=2 time=25.869902ms
+
+--- www.gmw.cn ping statistics ---
+3 packets transmitted, 3 packets received, 0% packet loss
+round-trip min/avg/max/stddev = 35.073715ms/37.68921ms/39.835155ms/1.972001ms
+
+32 bytes from 146.75.44.193: icmp_seq=0 time=31.278403ms
+
+--- www.paypal.com ping statistics ---
+3 packets transmitted, 3 packets received, 0% packet loss
+round-trip min/avg/max/stddev = 25.521154ms/28.29067ms/33.480954ms/3.672845ms
+
+32 bytes from 172.217.14.105: icmp_seq=2 time=81.652495ms
+32 bytes from 104.18.32.7: icmp_seq=0 time=40.282238ms
+
+--- www.blogspot.com ping statistics ---
+3 packets transmitted, 3 packets received, 0% packet loss
+round-trip min/avg/max/stddev = 81.652495ms/83.383139ms/86.788888ms/2.408334ms
+
+32 bytes from 96.17.43.251: icmp_seq=0 time=41.409663ms
+32 bytes from 23.203.100.185: icmp_seq=0 time=36.347129ms
+32 bytes from 146.75.44.193: icmp_seq=1 time=27.496798ms
+32 bytes from 104.18.32.7: icmp_seq=1 time=35.872485ms
+32 bytes from 96.17.43.251: icmp_seq=1 time=35.889499ms
+32 bytes from 23.203.100.185: icmp_seq=1 time=35.74615ms
+32 bytes from 146.75.44.193: icmp_seq=2 time=26.893743ms
+
+--- www.imgur.com ping statistics ---
+3 packets transmitted, 3 packets received, 0% packet loss
+round-trip min/avg/max/stddev = 26.893743ms/28.556315ms/31.278403ms/1.940488ms
+
+32 bytes from 104.18.32.7: icmp_seq=2 time=36.552472ms
+
+--- www.stackoverflow.com ping statistics ---
+3 packets transmitted, 3 packets received, 0% packet loss
+round-trip min/avg/max/stddev = 35.872485ms/37.569066ms/40.282238ms/1.938483ms
+
+32 bytes from 23.216.72.196: icmp_seq=0 time=36.451307ms
+32 bytes from 5.61.23.11: icmp_seq=0 time=181.267188ms
+32 bytes from 96.17.43.251: icmp_seq=2 time=35.99133ms
+
+--- www.aliexpress.com ping statistics ---
+3 packets transmitted, 3 packets received, 0% packet loss
+round-trip min/avg/max/stddev = 35.889499ms/37.763498ms/41.409663ms/2.578563ms
+
+32 bytes from 23.203.100.185: icmp_seq=2 time=36.278228ms
+32 bytes from 140.82.112.4: icmp_seq=0 time=44.519013ms
+
+--- www.naver.com ping statistics ---
+3 packets transmitted, 3 packets received, 0% packet loss
+round-trip min/avg/max/stddev = 35.74615ms/36.123836ms/36.347129ms/268.541µs
+
+32 bytes from 23.216.72.196: icmp_seq=1 time=36.394261ms
+32 bytes from 5.61.23.11: icmp_seq=1 time=176.488785ms
+32 bytes from 140.82.112.4: icmp_seq=1 time=44.540976ms
+32 bytes from 23.216.72.196: icmp_seq=2 time=35.814977ms
+
+--- www.apple.com ping statistics ---
+3 packets transmitted, 3 packets received, 0% packet loss
+round-trip min/avg/max/stddev = 35.814977ms/36.220182ms/36.451307ms/287.468µs
+
+32 bytes from 5.61.23.11: icmp_seq=2 time=175.491388ms
+
+--- www.ok.ru ping statistics ---
+3 packets transmitted, 3 packets received, 0% packet loss
+round-trip min/avg/max/stddev = 175.491388ms/177.749121ms/181.267188ms/2.520754ms
+
+32 bytes from 140.82.112.4: icmp_seq=2 time=44.663269ms
+
+--- www.github.com ping statistics ---
+3 packets transmitted, 3 packets received, 0% packet loss
+round-trip min/avg/max/stddev = 44.519013ms/44.574419ms/44.663269ms/63.463µs
+
+32 bytes from 47.246.20.227: icmp_seq=0 time=56.050674ms
+32 bytes from 13.249.112.145: icmp_seq=0 time=40.583872ms
+32 bytes from 172.217.14.67: icmp_seq=0 time=85.892313ms
+32 bytes from 104.244.99.17: icmp_seq=0 time=83.995337ms
+32 bytes from 47.246.20.227: icmp_seq=1 time=53.427693ms
+32 bytes from 13.249.112.145: icmp_seq=1 time=35.881365ms
+32 bytes from 172.217.14.67: icmp_seq=1 time=81.680193ms
+32 bytes from 104.244.99.17: icmp_seq=1 time=83.903461ms
+32 bytes from 47.246.20.227: icmp_seq=2 time=54.185026ms
+
+--- www.chinadaily.com.cn ping statistics ---
+3 packets transmitted, 3 packets received, 0% packet loss
+round-trip min/avg/max/stddev = 53.427693ms/54.554465ms/56.050674ms/1.102231ms
+
+32 bytes from 13.249.112.145: icmp_seq=2 time=35.896104ms
+
+--- www.imdb.com ping statistics ---
+3 packets transmitted, 3 packets received, 0% packet loss
+round-trip min/avg/max/stddev = 35.881365ms/37.453781ms/40.583872ms/2.213317ms
+
+32 bytes from 172.217.14.67: icmp_seq=2 time=81.983531ms
+
+--- www.google.co.kr ping statistics ---
+3 packets transmitted, 3 packets received, 0% packet loss
+round-trip min/avg/max/stddev = 81.680193ms/83.185346ms/85.892313ms/1.918116ms
+
+32 bytes from 104.244.99.17: icmp_seq=2 time=84.438501ms
+
+--- www.fc2.com ping statistics ---
+3 packets transmitted, 3 packets received, 0% packet loss
+round-trip min/avg/max/stddev = 83.903461ms/84.112433ms/84.438501ms/233.595µs
+
+32 bytes from 157.185.158.198: icmp_seq=0 time=55.778123ms
+32 bytes from 142.250.72.233: icmp_seq=0 time=85.914015ms
+32 bytes from 47.246.24.248: icmp_seq=0 time=45.481425ms
+32 bytes from 172.217.12.131: icmp_seq=0 time=81.374262ms
+32 bytes from 157.185.158.198: icmp_seq=1 time=52.133611ms
+32 bytes from 142.250.72.233: icmp_seq=1 time=82.349963ms
+32 bytes from 47.246.24.248: icmp_seq=1 time=42.205341ms
+32 bytes from 172.217.12.131: icmp_seq=1 time=82.48768ms
+32 bytes from 157.185.158.198: icmp_seq=2 time=52.272798ms
+
+--- www.jd.com ping statistics ---
+3 packets transmitted, 3 packets received, 0% packet loss
+round-trip min/avg/max/stddev = 52.133611ms/53.394844ms/55.778123ms/1.68619ms
+
+32 bytes from 142.250.72.233: icmp_seq=2 time=81.617204ms
+32 bytes from 31.13.88.60: icmp_seq=0 time=36.47547ms
+
+--- www.blogger.com ping statistics ---
+3 packets transmitted, 3 packets received, 0% packet loss
+round-trip min/avg/max/stddev = 81.617204ms/83.293728ms/85.914015ms/1.876817ms
+
+32 bytes from 3.163.84.185: icmp_seq=0 time=35.876283ms
+32 bytes from 47.246.24.248: icmp_seq=2 time=42.396092ms
+
+--- www.163.com ping statistics ---
+3 packets transmitted, 3 packets received, 0% packet loss
+round-trip min/avg/max/stddev = 42.205341ms/43.360953ms/45.481425ms/1.501421ms
+
+32 bytes from 172.217.12.131: icmp_seq=2 time=81.357671ms
+32 bytes from 13.107.6.156: icmp_seq=0 time=36.265327ms
+
+--- www.google.ca ping statistics ---
+3 packets transmitted, 3 packets received, 0% packet loss
+round-trip min/avg/max/stddev = 81.357671ms/81.739871ms/82.48768ms/528.824µs
+
+32 bytes from 31.13.88.60: icmp_seq=1 time=36.611416ms
+32 bytes from 3.163.84.185: icmp_seq=1 time=34.90395ms
+32 bytes from 13.107.6.156: icmp_seq=1 time=37.850794ms
+32 bytes from 31.13.88.60: icmp_seq=2 time=36.307482ms
+
+--- www.whatsapp.com ping statistics ---
+3 packets transmitted, 3 packets received, 0% packet loss
+round-trip min/avg/max/stddev = 36.307482ms/36.46479ms/36.611416ms/124.31µs
+
+32 bytes from 3.163.84.185: icmp_seq=2 time=40.651317ms
+
+--- www.amazon.in ping statistics ---
+3 packets transmitted, 3 packets received, 0% packet loss
+round-trip min/avg/max/stddev = 34.90395ms/37.14385ms/40.651317ms/2.511719ms
+
+32 bytes from 13.107.6.156: icmp_seq=2 time=36.221358ms
+
+--- www.office.com ping statistics ---
+3 packets transmitted, 3 packets received, 0% packet loss
+round-trip min/avg/max/stddev = 36.221358ms/36.77916ms/37.850794ms/757.972µs
+
+Worker 1: Error pinging www.tianya.cn: lookup www.tianya.cn on 172.22.160.1:53: read udp 172.22.174.111:41077->172.22.160.1:53: i/o timeout
+Worker 2: Error pinging www.google.co.id: lookup www.google.co.id on 172.22.160.1:53: read udp 172.22.174.111:59942->172.22.160.1:53: i/o timeout
+Worker 4: Error pinging www.youku.com: lookup www.youku.com on 172.22.160.1:53: read udp 172.22.174.111:57029->172.22.160.1:53: i/o timeout
+Worker 3: Error pinging www.rakuten.co.jp: lookup www.rakuten.co.jp on 172.22.160.1:53: read udp 172.22.174.111:35515->172.22.160.1:53: i/o timeout
+Worker 1: Error pinging www.craigslist.org: lookup www.craigslist.org on 172.22.160.1:53: read udp 172.22.174.111:39784->172.22.160.1:53: i/o timeout
+Worker 2: Error pinging www.amazon.de: lookup www.amazon.de on 172.22.160.1:53: read udp 172.22.174.111:38940->172.22.160.1:53: i/o timeout
+Worker 4: Error pinging www.nicovideo.jp: lookup www.nicovideo.jp on 172.22.160.1:53: read udp 172.22.174.111:37941->172.22.160.1:53: i/o timeout
+Worker 3: Error pinging www.google.pl: lookup www.google.pl on 172.22.160.1:53: read udp 172.22.174.111:56198->172.22.160.1:53: i/o timeout
+Worker 1: Error pinging www.soso.com: lookup www.soso.com on 172.22.160.1:53: read udp 172.22.174.111:42279->172.22.160.1:53: i/o timeout
+Worker 2: Error pinging www.bilibili.com: lookup www.bilibili.com on 172.22.160.1:53: read udp 172.22.174.111:55741->172.22.160.1:53: i/o timeout
+Worker 4: Error pinging www.dropbox.com: lookup www.dropbox.com on 172.22.160.1:53: read udp 172.22.174.111:55319->172.22.160.1:53: i/o timeout
+Worker 3: Error pinging www.xinhuanet.com: lookup www.xinhuanet.com on 172.22.160.1:53: read udp 172.22.174.111:38329->172.22.160.1:53: i/o timeout
+Worker 1: Error pinging www.outbrain.com: lookup www.outbrain.com on 172.22.160.1:53: read udp 172.22.174.111:48619->172.22.160.1:53: i/o timeout
+Worker 2: Error pinging www.pixnet.net: lookup www.pixnet.net on 172.22.160.1:53: read udp 172.22.174.111:58180->172.22.160.1:53: i/o timeout
+Worker 4: Error pinging www.alibaba.com: lookup www.alibaba.com on 172.22.160.1:53: read udp 172.22.174.111:33412->172.22.160.1:53: i/o timeout
+Worker 3: Error pinging www.alipay.com: lookup www.alipay.com on 172.22.160.1:53: read udp 172.22.174.111:48801->172.22.160.1:53: i/o timeout
+Worker 1: Error pinging www.microsoftonline.com: lookup www.microsoftonline.com on 172.22.160.1:53: no such host
+32 bytes from 3.161.150.119: icmp_seq=0 time=41.26842ms
+32 bytes from 142.250.188.225: icmp_seq=0 time=86.726111ms
+32 bytes from 172.217.12.131: icmp_seq=0 time=85.750104ms
+32 bytes from 216.21.13.13: icmp_seq=0 time=46.366692ms
+32 bytes from 3.161.150.119: icmp_seq=1 time=36.125554ms
+32 bytes from 142.250.188.225: icmp_seq=1 time=81.059652ms
+32 bytes from 172.217.12.131: icmp_seq=1 time=81.405585ms
+32 bytes from 216.21.13.13: icmp_seq=1 time=45.928708ms
+32 bytes from 3.161.150.119: icmp_seq=2 time=36.029056ms
+32 bytes from 142.250.188.225: icmp_seq=2 time=81.710584ms
+
+--- www.booking.com ping statistics ---
+3 packets transmitted, 3 packets received, 0% packet loss
+round-trip min/avg/max/stddev = 36.029056ms/37.807677ms/41.26842ms/2.447432ms
+
+
+--- www.googleusercontent.com ping statistics ---
+3 packets transmitted, 3 packets received, 0% packet loss
+round-trip min/avg/max/stddev = 81.059652ms/83.16545ms/86.726111ms/2.531753ms
+
+32 bytes from 172.217.12.131: icmp_seq=2 time=82.294331ms
+
+--- www.google.com.au ping statistics ---
+3 packets transmitted, 3 packets received, 0% packet loss
+round-trip min/avg/max/stddev = 81.405585ms/83.150007ms/85.750104ms/1.874006ms
+
+32 bytes from 216.21.13.13: icmp_seq=2 time=45.985187ms
+
+--- www.popads.net ping statistics ---
+3 packets transmitted, 3 packets received, 0% packet loss
+round-trip min/avg/max/stddev = 45.928708ms/46.093529ms/46.366692ms/194.526µs
+
+32 bytes from 23.218.93.83: icmp_seq=0 time=40.47937ms
+32 bytes from 211.152.149.12: icmp_seq=0 time=29.294368ms
+32 bytes from 23.218.93.83: icmp_seq=1 time=36.408482ms
+32 bytes from 18.64.238.23: icmp_seq=0 time=39.846684ms
+32 bytes from 149.248.207.3: icmp_seq=0 time=34.210489ms
+32 bytes from 211.152.149.12: icmp_seq=1 time=25.133224ms
+32 bytes from 23.218.93.83: icmp_seq=2 time=35.89089ms
+32 bytes from 18.64.238.23: icmp_seq=1 time=35.951536ms
+
+--- www.cntv.cn ping statistics ---
+3 packets transmitted, 3 packets received, 0% packet loss
+round-trip min/avg/max/stddev = 35.89089ms/37.592914ms/40.47937ms/2.051941ms
+
+32 bytes from 149.248.207.3: icmp_seq=1 time=35.284787ms
+32 bytes from 211.152.149.12: icmp_seq=2 time=25.192428ms
+
+--- www.zhihu.com ping statistics ---
+3 packets transmitted, 3 packets received, 0% packet loss
+round-trip min/avg/max/stddev = 25.133224ms/26.540007ms/29.294368ms/1.947777ms
+
+32 bytes from 18.64.238.23: icmp_seq=2 time=36.859691ms
+
+--- www.amazon.co.uk ping statistics ---
+3 packets transmitted, 3 packets received, 0% packet loss
+round-trip min/avg/max/stddev = 35.951536ms/37.552637ms/39.846684ms/1.663966ms
+
+32 bytes from 149.248.207.3: icmp_seq=2 time=35.15293ms
+
+--- www.diply.com ping statistics ---
+3 packets transmitted, 3 packets received, 0% packet loss
+round-trip min/avg/max/stddev = 34.210489ms/34.882735ms/35.284787ms/478.388µs
+
+32 bytes from 146.75.47.5: icmp_seq=0 time=27.883852ms
+32 bytes from 146.75.44.81: icmp_seq=0 time=29.653505ms
+32 bytes from 151.101.54.167: icmp_seq=0 time=35.627605ms
+32 bytes from 123.30.175.29: icmp_seq=0 time=298.100915ms
+32 bytes from 146.75.47.5: icmp_seq=1 time=24.579105ms
+32 bytes from 146.75.44.81: icmp_seq=1 time=25.603655ms
+32 bytes from 151.101.54.167: icmp_seq=1 time=36.619594ms
+32 bytes from 123.30.175.29: icmp_seq=1 time=292.198765ms
+32 bytes from 146.75.47.5: icmp_seq=2 time=23.875082ms
+32 bytes from 146.75.44.81: icmp_seq=2 time=25.593032ms
+
+--- www.cnn.com ping statistics ---
+3 packets transmitted, 3 packets received, 0% packet loss
+round-trip min/avg/max/stddev = 23.875082ms/25.446014ms/27.883852ms/1.747609ms
+
+32 bytes from 151.101.54.167: icmp_seq=2 time=34.460761ms
+
+--- www.twitch.tv ping statistics ---
+3 packets transmitted, 3 packets received, 0% packet loss
+round-trip min/avg/max/stddev = 34.460761ms/35.56932ms/36.619594ms/882.302µs
+
+
+--- www.bbc.co.uk ping statistics ---
+3 packets transmitted, 3 packets received, 0% packet loss
+round-trip min/avg/max/stddev = 25.593032ms/26.950064ms/29.653505ms/1.911626ms
+
+32 bytes from 123.30.175.29: icmp_seq=2 time=291.580087ms
+
+--- www.coccoc.com ping statistics ---
+3 packets transmitted, 3 packets received, 0% packet loss
+round-trip min/avg/max/stddev = 291.580087ms/293.959923ms/298.100915ms/2.938997ms
+
+32 bytes from 151.101.64.194: icmp_seq=0 time=39.626989ms
+32 bytes from 142.250.72.131: icmp_seq=0 time=87.33708ms
+32 bytes from 3.161.163.17: icmp_seq=0 time=40.669763ms
+32 bytes from 142.250.217.131: icmp_seq=0 time=81.997512ms
+32 bytes from 151.101.64.194: icmp_seq=1 time=35.493696ms
+32 bytes from 142.250.72.131: icmp_seq=1 time=84.164154ms
+32 bytes from 3.161.163.17: icmp_seq=1 time=36.67362ms
+32 bytes from 142.250.217.131: icmp_seq=1 time=82.656509ms
+32 bytes from 151.101.64.194: icmp_seq=2 time=34.750654ms
+
+--- www.wikia.com ping statistics ---
+3 packets transmitted, 3 packets received, 0% packet loss
+round-trip min/avg/max/stddev = 34.750654ms/36.62378ms/39.626989ms/2.145146ms
+
+32 bytes from 142.250.68.78: icmp_seq=0 time=79.886582ms
+32 bytes from 142.250.72.131: icmp_seq=2 time=83.157186ms
+
+--- www.google.co.th ping statistics ---
+3 packets transmitted, 3 packets received, 0% packet loss
+round-trip min/avg/max/stddev = 83.157186ms/84.88614ms/87.33708ms/1.781165ms
+
+32 bytes from 3.161.163.17: icmp_seq=2 time=45.52281ms
+
+--- www.go.com ping statistics ---
+3 packets transmitted, 3 packets received, 0% packet loss
+round-trip min/avg/max/stddev = 36.67362ms/40.955398ms/45.52281ms/3.618308ms
+
+32 bytes from 142.250.217.131: icmp_seq=2 time=81.985296ms
+32 bytes from 18.155.1.10: icmp_seq=0 time=40.710042ms
+
+--- www.google.com.ph ping statistics ---
+3 packets transmitted, 3 packets received, 0% packet loss
+round-trip min/avg/max/stddev = 81.985296ms/82.213106ms/82.656509ms/313.573µs
+
+32 bytes from 172.217.14.98: icmp_seq=0 time=81.653158ms
+32 bytes from 184.28.212.41: icmp_seq=0 time=36.233284ms
+32 bytes from 142.250.68.78: icmp_seq=1 time=81.848321ms
+32 bytes from 18.155.1.10: icmp_seq=1 time=41.509967ms
+32 bytes from 172.217.14.98: icmp_seq=1 time=86.797318ms
+32 bytes from 184.28.212.41: icmp_seq=1 time=36.234701ms
+32 bytes from 142.250.68.78: icmp_seq=2 time=80.680022ms
+
+--- www.doubleclick.net ping statistics ---
+3 packets transmitted, 3 packets received, 0% packet loss
+round-trip min/avg/max/stddev = 79.886582ms/80.804975ms/81.848321ms/805.735µs
+
+32 bytes from 142.250.188.225: icmp_seq=0 time=81.56685ms
+32 bytes from 18.155.1.10: icmp_seq=2 time=37.57677ms
+32 bytes from 172.217.14.98: icmp_seq=2 time=82.375072ms
+
+--- www.onet.pl ping statistics ---
+3 packets transmitted, 3 packets received, 0% packet loss
+round-trip min/avg/max/stddev = 37.57677ms/39.93226ms/41.509967ms/1.697295ms
+
+32 bytes from 184.28.212.41: icmp_seq=2 time=37.125021ms
+
+--- www.googleadservices.com ping statistics ---
+3 packets transmitted, 3 packets received, 0% packet loss
+round-trip min/avg/max/stddev = 81.653158ms/83.608516ms/86.797318ms/2.274002ms
+
+
+--- www.accuweather.com ping statistics ---
+3 packets transmitted, 3 packets received, 0% packet loss
+round-trip min/avg/max/stddev = 36.233284ms/36.531001ms/37.125021ms/420.035µs
+
+32 bytes from 142.250.188.225: icmp_seq=1 time=82.536444ms
+32 bytes from 142.250.188.225: icmp_seq=2 time=81.931425ms
+
+--- www.googleweblight.com ping statistics ---
+3 packets transmitted, 3 packets received, 0% packet loss
+round-trip min/avg/max/stddev = 81.56685ms/82.011573ms/82.536444ms/399.871µs
+

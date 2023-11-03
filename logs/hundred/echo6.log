@@ -1,0 +1,109 @@
+Number of URLs read from the file: 100
+www.yahoo.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 61.813832ms/62.504734ms/63.395533ms/661.016µs
+www.facebook.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 37.131128ms/39.401054ms/42.810258ms/2.454464ms
+www.amazon.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 37.877494ms/40.906589ms/42.503334ms/2.142945ms
+www.youtube.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 85.307455ms/87.297474ms/90.833736ms/2.507069ms
+www.baidu.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 106.065174ms/109.491718ms/112.032415ms/2.515357ms
+www.wikipedia.org: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 44.624226ms/45.118604ms/45.465828ms/358.993µs
+www.qq.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.683135ms/36.622179ms/40.152039ms/2.500033ms
+www.google.co.in: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 79.319376ms/83.171573ms/85.54226ms/2.747996ms
+www.twitter.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 23.57297ms/24.024426ms/24.898168ms/617.943µs
+www.live.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 37.765265ms/40.990695ms/42.752661ms/2.283976ms
+www.taobao.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 57.227081ms/59.742751ms/61.905983ms/1.926342ms
+www.bing.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.421267ms/35.255367ms/36.84739ms/1.12616ms
+www.instagram.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.569316ms/34.816795ms/35.013351ms/184.818µs
+www.sina.com.cn: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 52.519352ms/53.054118ms/53.709911ms/493.52µs
+www.weibo.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 250.848749ms/252.906917ms/255.850143ms/2.135569ms
+www.linkedin.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.705261ms/37.114563ms/37.486902ms/320.172µs
+www.msn.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.72809ms/36.217691ms/38.661624ms/1.741883ms
+www.yahoo.co.jp: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 174.037347ms/176.096857ms/177.462841ms/1.481943ms
+www.google.de: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 80.44425ms/81.24975ms/82.077298ms/666.871µs
+www.vk.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 156.732838ms/158.313562ms/161.284474ms/2.102191ms
+www.yandex.ru: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 178.165187ms/181.055037ms/185.178982ms/2.99339ms
+www.reddit.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.783119ms/37.996521ms/40.19202ms/1.555321ms
+www.google.co.uk: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 81.9863ms/83.322308ms/85.944637ms/1.854378ms
+www.ebay.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.766602ms/34.929602ms/35.041548ms/117.909µs
+www.hao123.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 219.067436ms/220.715982ms/223.976071ms/2.305281ms
+www.google.fr: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 82.678083ms/83.238157ms/83.533925ms/396.24µs
+www.t.co: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 25.063079ms/27.059618ms/30.190932ms/2.241949ms
+www.tmall.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 51.873055ms/53.400865ms/55.892746ms/1.776992ms
+www.google.com.br: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 82.30814ms/85.007292ms/87.141125ms/2.013144ms
+www.360.cn: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 94.659328ms/96.510318ms/99.254858ms/1.979654ms
+www.sohu.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 24.923156ms/25.750546ms/27.183051ms/1.01699ms
+www.amazon.co.jp: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 37.082637ms/39.387835ms/40.683575ms/1.634206ms
+www.pinterest.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.371189ms/37.676151ms/39.98379ms/1.636407ms
+www.google.it: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 83.425259ms/83.475417ms/83.568842ms/66.121µs
+www.google.ru: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 81.446124ms/81.897981ms/82.617838ms/514.52µs
+www.microsoft.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.943485ms/36.180679ms/36.317018ms/168.345µs
+www.google.es: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 81.499546ms/81.843126ms/82.106642ms/254.229µs
+www.wordpress.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 25.22914ms/27.691595ms/31.368287ms/2.649284ms
+www.gmw.cn: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 37.4038ms/40.313532ms/41.92535ms/2.061478ms
+www.paypal.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 25.152072ms/28.532529ms/30.994706ms/2.472046ms
+www.tumblr.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 23.705512ms/25.199078ms/27.697533ms/1.777903ms
+www.blogspot.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 80.192678ms/80.665897ms/81.130457ms/382.895µs
+www.netflix.com: 3/0 packets, 100% loss, round-trip min/avg/max/stddev = 0s/0s/0s/0s
+Worker 2: Error pinging www.netflix.com: context deadline exceeded
+www.imgur.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.276872ms/37.247026ms/37.830346ms/690.676µs
+www.stackoverflow.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.218282ms/37.436684ms/39.851802ms/1.707769ms
+www.aliexpress.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.068852ms/36.401896ms/36.608881ms/237.804µs
+www.naver.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.376069ms/36.492167ms/36.5763ms/84.811µs
+www.apple.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.325725ms/38.819534ms/41.266286ms/2.01725ms
+www.github.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 42.546992ms/44.249071ms/46.979164ms/1.949982ms
+www.ok.ru: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 175.433588ms/177.273759ms/180.374262ms/2.205129ms
+www.chinadaily.com.cn: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 55.415494ms/56.897024ms/59.241212ms/1.676736ms
+www.imdb.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.294074ms/38.610904ms/41.383552ms/2.102621ms
+www.google.co.kr: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 80.295037ms/80.725647ms/81.03886ms/314.806µs
+www.fc2.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 83.840509ms/85.195737ms/87.861235ms/1.884882ms
+www.jd.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 51.80787ms/51.964126ms/52.158324ms/145.566µs
+www.blogger.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 79.838835ms/80.238678ms/80.95923ms/510.53µs
+www.163.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 226.256532ms/227.473643ms/229.853763ms/1.683144ms
+www.google.ca: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 81.729698ms/81.984401ms/82.13902ms/181.473µs
+www.whatsapp.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.122329ms/36.402615ms/36.886352ms/343.488µs
+www.amazon.in: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.650121ms/35.144107ms/35.734064ms/447.691µs
+www.office.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.669242ms/36.736857ms/36.785913ms/49.406µs
+Worker 3: Error pinging www.tianya.cn: lookup www.tianya.cn on 172.22.160.1:53: read udp 172.22.174.111:36207->172.22.160.1:53: i/o timeout
+Worker 1: Error pinging www.google.co.id: lookup www.google.co.id on 172.22.160.1:53: read udp 172.22.174.111:42913->172.22.160.1:53: i/o timeout
+Worker 0: Error pinging www.youku.com: lookup www.youku.com on 172.22.160.1:53: read udp 172.22.174.111:50382->172.22.160.1:53: i/o timeout
+Worker 2: Error pinging www.rakuten.co.jp: lookup www.rakuten.co.jp on 172.22.160.1:53: read udp 172.22.174.111:43627->172.22.160.1:53: i/o timeout
+Worker 4: Error pinging www.craigslist.org: lookup www.craigslist.org on 172.22.160.1:53: read udp 172.22.174.111:57951->172.22.160.1:53: i/o timeout
+Worker 3: Error pinging www.amazon.de: lookup www.amazon.de on 172.22.160.1:53: read udp 172.22.174.111:47363->172.22.160.1:53: i/o timeout
+Worker 1: Error pinging www.nicovideo.jp: lookup www.nicovideo.jp on 172.22.160.1:53: read udp 172.22.174.111:57163->172.22.160.1:53: i/o timeout
+Worker 0: Error pinging www.google.pl: lookup www.google.pl on 172.22.160.1:53: read udp 172.22.174.111:45282->172.22.160.1:53: i/o timeout
+Worker 2: Error pinging www.soso.com: lookup www.soso.com on 172.22.160.1:53: read udp 172.22.174.111:32910->172.22.160.1:53: i/o timeout
+Worker 4: Error pinging www.bilibili.com: lookup www.bilibili.com on 172.22.160.1:53: read udp 172.22.174.111:35723->172.22.160.1:53: i/o timeout
+www.dropbox.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 42.323217ms/44.841448ms/48.943417ms/2.925512ms
+www.xinhuanet.com: 1/1 packets, 0% loss, round-trip min/avg/max/stddev = 47.191792ms/47.191792ms/47.191792ms/0s
+Worker 1: Error pinging www.xinhuanet.com: context deadline exceeded
+Worker 1: Error pinging www.microsoftonline.com: lookup www.microsoftonline.com on 172.22.160.1:53: no such host
+www.outbrain.com: 1/1 packets, 0% loss, round-trip min/avg/max/stddev = 40.69248ms/40.69248ms/40.69248ms/0s
+Worker 0: Error pinging www.outbrain.com: context deadline exceeded
+www.pixnet.net: 2/2 packets, 0% loss, round-trip min/avg/max/stddev = 242.791508ms/243.133233ms/243.474958ms/341.725µs
+Worker 2: Error pinging www.pixnet.net: context deadline exceeded
+www.alibaba.com: 2/2 packets, 0% loss, round-trip min/avg/max/stddev = 39.918527ms/40.154859ms/40.391192ms/236.332µs
+Worker 4: Error pinging www.alibaba.com: context deadline exceeded
+www.alipay.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 237.152656ms/242.000067ms/244.989343ms/3.458604ms
+www.booking.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.939775ms/37.789071ms/40.596923ms/2.018477ms
+www.googleusercontent.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 85.209715ms/86.228669ms/87.050972ms/764.443µs
+www.google.com.au: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 81.026326ms/81.666488ms/82.105777ms/463.009µs
+www.popads.net: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 45.398347ms/46.657819ms/48.466959ms/1.311665ms
+www.cntv.cn: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.911957ms/36.164333ms/38.390268ms/1.578084ms
+www.zhihu.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 25.087828ms/26.956016ms/29.30196ms/1.753266ms
+www.amazon.co.uk: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.077328ms/40.270915ms/44.181075ms/3.314405ms
+www.diply.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 34.332468ms/34.790108ms/35.542196ms/535.963µs
+www.cnn.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 24.114011ms/25.470271ms/28.120473ms/1.874149ms
+www.bbc.co.uk: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 25.602482ms/26.796767ms/29.051035ms/1.594951ms
+www.twitch.tv: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 35.888146ms/37.409501ms/40.243631ms/2.005841ms
+www.coccoc.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 291.089944ms/292.907841ms/295.490589ms/1.876196ms
+www.wikia.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.150364ms/36.466806ms/36.774404ms/254.84µs
+www.google.co.th: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 82.586704ms/83.129227ms/83.916784ms/569.976µs
+www.go.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 38.948878ms/39.908956ms/41.455864ms/1.104391ms
+www.google.com.ph: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 82.83018ms/84.389708ms/86.758224ms/1.702591ms
+www.doubleclick.net: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 82.082551ms/83.810307ms/86.791259ms/2.116736ms
+www.onet.pl: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.465534ms/36.607716ms/36.734439ms/110.322µs
+www.googleadservices.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 82.643199ms/83.426458ms/84.607832ms/850.026µs
+www.accuweather.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 36.492168ms/38.14543ms/40.559683ms/1.745565ms
+www.googleweblight.com: 3/3 packets, 0% loss, round-trip min/avg/max/stddev = 84.037003ms/86.304855ms/87.575329ms/1.607484ms
+www.answers.yahoo.com: 3/0 packets, 100% loss, round-trip min/avg/max/stddev = 0s/0s/0s/0s
+Worker 4: Error pinging www.answers.yahoo.com: context deadline exceeded
+83.00% of the URLs were successfully pinged.
+Total time taken to ping URLs: 84.741110
